@@ -53,17 +53,17 @@ Unlike generic scrapers that only dump raw un-deduplicated CSVs, **JobScrap** is
 
 ---
 
-## ⚡ JobScrap vs. JobSpy
+## ⚡ Feature Matrix: JobScrap vs. Typical Job Scrapers
 
-| Feature | JobSpy | JobScrap (This Project) |
+| Feature / Capability | Standard / Generic Scrapers | JobScrap (This Engine) |
 |---|:---:|:---:|
-| **India Platform Coverage** | ❌ Poor (Naukri frequently broken; no Instahyre, Internshala, Shine, Apna, Freshersworld) | ✅ **Complete** (All 9 major Indian & global hiring portals) |
-| **Anti-Bot TLS Fingerprinting** | ⚠️ Partial (`curl-cffi` on limited sources) | ✅ **Full** (`curl_cffi` Chrome124/Safari17 + Native Edge for React portals) |
-| **Cross-Portal Deduplication** | ❌ None (Returns raw duplicates) | ✅ **Built-in** (Token Jaccard similarity `0.75` with candidate pre-filtering) |
-| **Dead-Link Removal** | ❌ None (Expired URLs remain in output forever) | ✅ **Autonomous** (Background async worker auto-purging 404/410 links) |
-| **Persistence Layer** | ❌ In-memory pandas DataFrame only | ✅ **Server-side SQLite** with WAL mode and conflict upserts |
-| **Built-in REST API** | ❌ None | ✅ **FastAPI server** with search, pagination, and export |
-| **Autonomous Scheduling** | ❌ None (Requires external wrapper) | ✅ **Built-in asyncio daemon** ([scheduler.py](scheduler.py)) |
+| **India & Tech Portal Depth** | ❌ Limited coverage; dynamic React portals frequently break; no native Instahyre, Internshala, Shine, Apna, or Freshersworld support | ✅ **Complete native coverage** across all 9 primary hiring portals |
+| **Anti-Bot & TLS Fingerprint Evasion** | ⚠️ Basic HTTP headers easily blocked by Cloudflare Turnstile, Akamai, and JA3/JA4 fingerprinting | ✅ **Full browser impersonation** via `curl_cffi` (`chrome124`, `safari17_0`) + native Edge for complex React SPAs |
+| **Cross-Portal Deduplication** | ❌ None; returns unlinked duplicate entries across multiple job boards | ✅ **Built-in Jaccard similarity (`0.75`)** with indexed candidate pre-filtering to cluster cross-board postings |
+| **Self-Healing Dead-Link Purge** | ❌ None; expired and closed postings remain in output datasets indefinitely | ✅ **Autonomous async validator** with soft-404 redirect detection, auto-purging dead links after 2 strikes |
+| **Persistence & Concurrency** | ❌ Ephemeral in-memory data structures or raw single-file CSV dumps | ✅ **Server-side SQLite** with Write-Ahead Logging (WAL) and conflict-safe upserts |
+| **Built-in REST API Server** | ❌ Script-only; requires writing custom backend wrappers for frontend consumption | ✅ **FastAPI server** with search, pagination, stats, triggers, and export endpoints |
+| **Autonomous Scheduling** | ❌ None; requires manual execution or heavy external orchestrators | ✅ **Built-in asyncio daemon** running decoupled scraping and validation cron loops |
 
 ---
 
