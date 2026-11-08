@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Suvesh108/jobscrap/releases/tag/v0.4"><img src="https://img.shields.io/badge/Release-v0.4-blue.svg" alt="Release v0.4" /></a>
+  <a href="https://github.com/bytebldr/jobscrap/releases/tag/v0.4"><img src="https://img.shields.io/badge/Release-v0.4-blue.svg" alt="Release v0.4" /></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg" alt="Python Version" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License" />
   <img src="https://img.shields.io/badge/Portals-9%20Sources-orange.svg" alt="Portals" />
@@ -72,7 +72,7 @@ Unlike generic scrapers that only dump raw un-deduplicated CSVs, **JobScrap** is
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Suvesh108/jobscrap.git
+git clone https://github.com/bytebldr/jobscrap.git
 cd jobscrap
 
 # Install lightweight dependencies
