@@ -6815,7 +6815,7 @@
     "name": "Bitwarden",
     "domain": "bitwarden.com",
     "careers_url": "https://boards.greenhouse.io/bitwarden",
-    "industry": "Open Source Password Management",
+    "industry": "Open Source Credential Security & Vaults",
     "hq_location": "Remote / India",
     "tier": 1,
     "ats_type": "greenhouse",
@@ -6827,9 +6827,9 @@
       "greenhouse",
       "open-source",
       "opensource",
-      "passwords",
       "remote",
-      "security"
+      "security",
+      "vaults"
     ]
   },
   {
@@ -9916,9 +9916,9 @@
     "is_verified": true,
     "tags": [
       "greenhouse",
-      "passwords",
       "remote",
-      "security"
+      "security",
+      "vaults"
     ]
   },
   {
@@ -27670,7 +27670,7 @@
     "name": "HYPR",
     "domain": "hypr.com",
     "careers_url": "https://boards.greenhouse.io/hypr",
-    "industry": "Passwordless Authentication & Multi-Factor Security",
+    "industry": "FIDO Authentication & Multi-Factor Security",
     "hq_location": "Remote / India",
     "tier": 2,
     "ats_type": "greenhouse",
@@ -27679,9 +27679,9 @@
     "is_verified": true,
     "tags": [
       "enterprise",
+      "fido",
       "greenhouse",
       "identity",
-      "passwordless",
       "security"
     ]
   },

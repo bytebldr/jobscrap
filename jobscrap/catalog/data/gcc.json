@@ -12570,14 +12570,14 @@
     "name": "Bitwarden",
     "domain": "bitwarden.com",
     "careers_url": "https://bitwarden.com/careers",
-    "industry": "Password Management",
+    "industry": "Credential Security & Vaults",
     "hq_location": "Santa Barbara, CA / Remote Hub",
     "tier": 1,
     "ats_type": "greenhouse",
     "ats_identifier": "bitwarden",
     "tags": [
       "security",
-      "passwords",
+      "vaults",
       "open-source",
       "remote"
     ],
@@ -16968,7 +16968,7 @@
     "ats_identifier": "dashlane",
     "tags": [
       "security",
-      "passwords",
+      "vaults",
       "remote"
     ],
     "is_verified": true,

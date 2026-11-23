@@ -312,10 +312,10 @@ CURATED_PROFILES: List[Dict[str, Any]] = [
     },
     {
         "id": "1password", "name": "1Password", "domain": "1password.com",
-        "careers_url": "https://1password.com/careers", "industry": "Cybersecurity / Passwords",
+        "careers_url": "https://1password.com/careers", "industry": "Cybersecurity / Vaults & Identity",
         "hq_location": "Toronto, Canada / Remote Hub", "tier": 1,
         "ats_type": "greenhouse", "ats_identifier": "1password",
-        "tags": ["security", "passwords", "remote"]
+        "tags": ["security", "vaults", "remote"]
     },
     {
         "id": "notion", "name": "Notion", "domain": "notion.so",
@@ -592,17 +592,17 @@ CURATED_PROFILES: List[Dict[str, Any]] = [
     },
     {
         "id": "bitwarden", "name": "Bitwarden", "domain": "bitwarden.com",
-        "careers_url": "https://bitwarden.com/careers", "industry": "Password Management",
+        "careers_url": "https://bitwarden.com/careers", "industry": "Credential Security & Vaults",
         "hq_location": "Santa Barbara, CA / Remote Hub", "tier": 1,
         "ats_type": "greenhouse", "ats_identifier": "bitwarden",
-        "tags": ["security", "passwords", "open-source", "remote"]
+        "tags": ["security", "vaults", "open-source", "remote"]
     },
     {
         "id": "dashlane", "name": "Dashlane", "domain": "dashlane.com",
         "careers_url": "https://www.dashlane.com/careers", "industry": "Access Management",
         "hq_location": "New York, NY / Remote Hub", "tier": 1,
         "ats_type": "greenhouse", "ats_identifier": "dashlane",
-        "tags": ["security", "passwords", "remote"]
+        "tags": ["security", "vaults", "remote"]
     },
     {
         "id": "nordsecurity", "name": "Nord Security", "domain": "nordsecurity.com",
