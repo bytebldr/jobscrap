@@ -15,6 +15,9 @@
 
 ---
 
+> [!NOTE]
+> **Active Development**: JobScrap is currently in active development (`v0.5.0-alpha`). Interfaces, CLI commands, and catalog schemas are actively expanding. Contributions, issues, and feature suggestions are welcome!
+
 ## 📖 About JobScrap
 
 **JobScrap** is a standalone, high-performance **Python library and CLI for direct-to-company job extraction**. 
