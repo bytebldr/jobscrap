@@ -32,6 +32,14 @@ class WorkdayEngine(BaseCareerEngine):
         )
 
     def _get_endpoint(self, company: CompanyProfile):
+        if company.api_endpoint and "/wday/cxs/" in company.api_endpoint:
+            endpoint = company.api_endpoint
+            parts = endpoint.split("/wday/cxs/")
+            base = parts[0]
+            rest = parts[1].split("/")
+            tenant = rest[0]
+            site = rest[1] if len(rest) > 1 else "Careers"
+            return endpoint, base, site
         tenant = company.ats_identifier or company.id
         site = "Careers"
         base = f"https://{tenant}.wd3.myworkdayjobs.com"

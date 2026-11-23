@@ -95,6 +95,12 @@ def validate_and_normalize_profile(raw: Dict[str, Any]) -> Optional[Dict[str, An
     if parsed_url.scheme not in ("http", "https") or not parsed_url.netloc:
         return None
 
+    # Defensive fallback for domain if missing
+    if not domain and parsed_url.netloc:
+        domain = clean_domain(parsed_url.netloc)
+    if not domain:
+        domain = f"{cid}.com"
+
     ats_type = str(raw.get("ats_type", "custom")).strip().lower()
     if ats_type not in VALID_ATS_TYPES:
         ats_type = "custom"
@@ -170,8 +176,19 @@ def merge_profiles(primary: Dict[str, Any], secondary: Dict[str, Any]) -> Dict[s
     """Merge two profiles for the same company, keeping the richest information."""
     merged = dict(primary)
 
-    # Prefer verified / valid ATS info
-    if primary.get("ats_type") in ("custom", "") and secondary.get("ats_type") not in ("custom", ""):
+    # ATS priority: direct API integration (greenhouse, ashby, lever, smartrecruiters) > workday > custom
+    direct_ats = {"greenhouse", "lever", "ashby", "smartrecruiters"}
+    primary_has_direct = primary.get("ats_type") in direct_ats and bool(primary.get("ats_identifier"))
+    secondary_has_direct = secondary.get("ats_type") in direct_ats and bool(secondary.get("ats_identifier"))
+
+    if not primary_has_direct and secondary_has_direct:
+        merged["ats_type"] = secondary["ats_type"]
+        merged["ats_identifier"] = secondary["ats_identifier"]
+        merged["api_endpoint"] = secondary.get("api_endpoint") or infer_api_endpoint(secondary["ats_type"], secondary["ats_identifier"], None)
+    elif primary_has_direct and secondary_has_direct:
+        if not merged.get("api_endpoint") and secondary.get("api_endpoint"):
+            merged["api_endpoint"] = secondary["api_endpoint"]
+    elif primary.get("ats_type") in ("custom", "") and secondary.get("ats_type") not in ("custom", ""):
         merged["ats_type"] = secondary["ats_type"]
         merged["ats_identifier"] = secondary.get("ats_identifier") or merged.get("ats_identifier")
         merged["api_endpoint"] = secondary.get("api_endpoint") or merged.get("api_endpoint")
@@ -183,6 +200,18 @@ def merge_profiles(primary: Dict[str, Any], secondary: Dict[str, Any]) -> Dict[s
     # Lower tier number = higher priority tier
     if secondary.get("tier", 5) < merged.get("tier", 5):
         merged["tier"] = secondary["tier"]
+
+    # Prefer specific careers URL over generic /careers
+    sec_url = str(secondary.get("careers_url", ""))
+    prim_url = str(merged.get("careers_url", ""))
+    if sec_url and any(ats in sec_url for ats in ["greenhouse.io", "lever.co", "ashbyhq.com", "smartrecruiters.com"]):
+        merged["careers_url"] = sec_url
+    elif prim_url.endswith("/careers") and sec_url and not sec_url.endswith("/careers"):
+        merged["careers_url"] = sec_url
+
+    # Prefer properly cased name
+    if merged.get("name", "").islower() and not secondary.get("name", "").islower():
+        merged["name"] = secondary["name"]
 
     # Combine tags
     combined_tags = set(merged.get("tags", [])) | set(secondary.get("tags", []))
@@ -242,6 +271,8 @@ def compile_catalog(
 
     # 3. Deduplicate and normalize
     by_domain: Dict[str, Dict[str, Any]] = {}
+    by_ats: Dict[str, Dict[str, Any]] = {}
+    by_norm_name: Dict[str, Dict[str, Any]] = {}
     by_id: Dict[str, Dict[str, Any]] = {}
 
     for raw in all_raw_items:
@@ -251,12 +282,31 @@ def compile_catalog(
 
         domain = norm["domain"]
         cid = norm["id"]
+        name = norm["name"]
+        norm_name = re.sub(r"[^a-z0-9]+", "", name.lower())
+        ats_key = f"{norm['ats_type']}:{norm.get('ats_identifier')}" if norm.get("ats_identifier") and norm["ats_type"] in {"greenhouse", "lever", "ashby", "smartrecruiters"} else None
 
-        # First match by domain (canonical company identity)
+        existing = None
+        # Check 1: Match by domain (canonical company domain)
         if domain and domain in by_domain:
             existing = by_domain[domain]
+        # Check 2: Match by ats_key (exact same ATS identifier for primary ATS)
+        elif ats_key and ats_key in by_ats:
+            existing = by_ats[ats_key]
+        # Check 3: Match by normalized company name if domain root or ats matches
+        elif norm_name and norm_name in by_norm_name:
+            candidate = by_norm_name[norm_name]
+            d1 = re.sub(r"[^a-z0-9]+", "", candidate["domain"].split(".")[0])
+            d2 = re.sub(r"[^a-z0-9]+", "", domain.split(".")[0]) if domain else ""
+            if d1 == d2 or candidate["ats_type"] == norm["ats_type"]:
+                existing = candidate
+
+        if existing:
             merged = merge_profiles(existing, norm)
-            by_domain[domain] = merged
+            by_domain[merged["domain"]] = merged
+            if ats_key:
+                by_ats[ats_key] = merged
+            by_norm_name[norm_name] = merged
             by_id[merged["id"]] = merged
             continue
 
@@ -270,6 +320,10 @@ def compile_catalog(
 
         if domain:
             by_domain[domain] = norm
+        if ats_key:
+            by_ats[ats_key] = norm
+        if norm_name:
+            by_norm_name[norm_name] = norm
         by_id[unique_cid] = norm
 
     compiled = list(by_id.values())

@@ -1,0 +1,4280 @@
+[
+  {
+    "id": "101careers",
+    "name": "101 Careers",
+    "domain": "101careers.com",
+    "careers_url": "https://careers.smartrecruiters.com/101Careers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "101Careers",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/101Careers/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "10beauty",
+    "name": "10Beauty",
+    "domain": "10beauty.com",
+    "careers_url": "https://boards.greenhouse.io/10beauty",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "10beauty",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/10beauty/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "beauty",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "10xteam",
+    "name": "10x Team",
+    "domain": "10xteam.com",
+    "careers_url": "https://jobs.ashbyhq.com/10xteam",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "10xteam",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/10xteam",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "d2c-consumer-brands",
+      "ashby"
+    ]
+  },
+  {
+    "id": "1legacyhealthcare",
+    "name": "1 Legacy Health Care",
+    "domain": "1legacyhealthcare.com",
+    "careers_url": "https://careers.smartrecruiters.com/1LegacyHealthCare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "1LegacyHealthCare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/1LegacyHealthCare/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "21hhs",
+    "name": "21st Century Home Health Services Inc.",
+    "domain": "21hhs.com",
+    "careers_url": "https://jobs.lever.co/21hhs",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "21hhs",
+    "api_endpoint": "https://api.lever.co/v0/postings/21hhs?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health"
+    ]
+  },
+  {
+    "id": "24-hourmedicalstaffingservicesllc1",
+    "name": "24-Hour Medical Staffing Services, LLC",
+    "domain": "24.com",
+    "careers_url": "https://careers.smartrecruiters.com/24-HourMedicalStaffingServicesLLC1",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "24-HourMedicalStaffingServicesLLC1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/24-HourMedicalStaffingServicesLLC1/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters",
+      "medical"
+    ]
+  },
+  {
+    "id": "24hourhomecare",
+    "name": "24 Hour Home Care - Corporate Division",
+    "domain": "24hourhomecare.com",
+    "careers_url": "https://boards.greenhouse.io/24hourhomecare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "24hourhomecare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/24hourhomecare/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "280sports",
+    "name": "280 Sports",
+    "domain": "280sports.com",
+    "careers_url": "https://careers.smartrecruiters.com/280Sports",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "280Sports",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/280Sports/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "2pprdigitalmarketing",
+    "name": "2p PR & Digital Marketing",
+    "domain": "2pprdigitalmarketing.com",
+    "careers_url": "https://careers.smartrecruiters.com/2pPRDigitalMarketing",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "2pPRDigitalMarketing",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/2pPRDigitalMarketing/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "2sistersfoodgroup",
+    "name": "2 Sisters Food Group",
+    "domain": "2sistersfoodgroup.com",
+    "careers_url": "https://careers.smartrecruiters.com/2SistersFoodGroup",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "2SistersFoodGroup",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/2SistersFoodGroup/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "smartrecruiters",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "30thstreetanimalhospital",
+    "name": "30th Street Animal Hospital",
+    "domain": "30thstreetanimalhospital.com",
+    "careers_url": "https://boards.greenhouse.io/30thstreetanimalhospital",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "India Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "30thstreetanimalhospital",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/30thstreetanimalhospital/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "hospital",
+      "india"
+    ]
+  },
+  {
+    "id": "360clinic",
+    "name": "360clinic",
+    "domain": "360clinic.com",
+    "careers_url": "https://careers.smartrecruiters.com/360clinic",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "360clinic",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/360clinic/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters",
+      "clinic"
+    ]
+  },
+  {
+    "id": "365healthservicesllc",
+    "name": "365 Health Services LLC",
+    "domain": "365healthservicesllc.com",
+    "careers_url": "https://careers.smartrecruiters.com/365HealthServicesLLC",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "365HealthServicesLLC",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/365HealthServicesLLC/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "3playmedia",
+    "name": "3Play Media",
+    "domain": "3playmedia.com",
+    "careers_url": "https://boards.greenhouse.io/3playmedia",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "3playmedia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/3playmedia/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "media",
+      "digital-media-entertainment",
+      "india"
+    ]
+  },
+  {
+    "id": "3y-health",
+    "name": "3Y Health",
+    "domain": "3y.com",
+    "careers_url": "https://jobs.ashbyhq.com/3y-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "India Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "3y-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/3y-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "42northdental",
+    "name": "42 North Dental",
+    "domain": "42northdental.com",
+    "careers_url": "https://boards.greenhouse.io/42northdental",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "42northdental",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/42northdental/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "4dmoleculartherapeutics",
+    "name": "4D Molecular Therapeutics",
+    "domain": "4dmoleculartherapeutics.com",
+    "careers_url": "https://boards.greenhouse.io/4dmoleculartherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "4dmoleculartherapeutics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/4dmoleculartherapeutics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "4paws",
+    "name": "4 Paws Animal Clinic",
+    "domain": "4paws.com",
+    "careers_url": "https://boards.greenhouse.io/4paws",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "4paws",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/4paws/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "clinic"
+    ]
+  },
+  {
+    "id": "617mediagroup",
+    "name": "617MediaGroup",
+    "domain": "617mediagroup.com",
+    "careers_url": "https://boards.greenhouse.io/617mediagroup",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "617mediagroup",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/617mediagroup/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "media",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "a-team",
+    "name": "A.Team",
+    "domain": "ateam.com",
+    "careers_url": "https://jobs.ashbyhq.com/a-team",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "a-team",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/a-team",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "d2c-consumer-brands",
+      "ashby"
+    ]
+  },
+  {
+    "id": "a1care",
+    "name": "A1 Care",
+    "domain": "a1care.com",
+    "careers_url": "https://careers.smartrecruiters.com/A1Care",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "A1Care",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/A1Care/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "abarcahealthllc",
+    "name": "abarca health LLC",
+    "domain": "abarcahealthllc.com",
+    "careers_url": "https://careers.smartrecruiters.com/AbarcaHealthLLC",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AbarcaHealthLLC",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AbarcaHealthLLC/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "abbeycarenwlimited",
+    "name": "ABBEY CARE (NW) LIMITED",
+    "domain": "abbeycarenwlimited.com",
+    "careers_url": "https://careers.smartrecruiters.com/ABBEYCARENWLIMITED",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "ABBEYCARENWLIMITED",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/ABBEYCARENWLIMITED/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "abbott5",
+    "name": "Abbott",
+    "domain": "abbott5.com",
+    "careers_url": "https://careers.smartrecruiters.com/Abbott5",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Abbott5",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Abbott5/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "abcpediatrictherapynetwork",
+    "name": "ABC Pediatric Therapy Network",
+    "domain": "abcpediatrictherapynetwork.com",
+    "careers_url": "https://careers.smartrecruiters.com/ABCPediatricTherapyNetwork",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "ABCPediatricTherapyNetwork",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/ABCPediatricTherapyNetwork/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "abpfoodgroupandaffiliates",
+    "name": "ABP Food Group & Affiliates",
+    "domain": "abpfoodgroupandaffiliates.com",
+    "careers_url": "https://careers.smartrecruiters.com/ABPFoodGroupAndAffiliates",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "ABPFoodGroupAndAffiliates",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/ABPFoodGroupAndAffiliates/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "smartrecruiters",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "absolutelychicagosegwaytours",
+    "name": "Absolutely Chicago Segway Tours",
+    "domain": "absolutelychicagosegwaytours.com",
+    "careers_url": "https://careers.smartrecruiters.com/AbsolutelyChicagoSegwayTours",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AbsolutelyChicagoSegwayTours",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AbsolutelyChicagoSegwayTours/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "travel-hospitality",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "absolutewellnesscenter",
+    "name": "Absolute Wellness Center",
+    "domain": "absolutewellnesscenter.com",
+    "careers_url": "https://careers.smartrecruiters.com/AbsoluteWellnessCenter",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AbsoluteWellnessCenter",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AbsoluteWellnessCenter/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "abstraction-games",
+    "name": "Abstraction",
+    "domain": "abstraction.com",
+    "careers_url": "https://jobs.ashbyhq.com/abstraction.games",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "abstraction.games",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/abstraction.games",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby"
+    ]
+  },
+  {
+    "id": "acadiapharmaceuticals",
+    "name": "Acadia Pharmaceuticals Inc.",
+    "domain": "acadiapharmaceuticals.com",
+    "careers_url": "https://boards.greenhouse.io/acadiapharmaceuticals",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "India Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acadiapharmaceuticals",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acadiapharmaceuticals/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "pharma-life-sciences",
+      "pharmaceutical",
+      "india-consumer",
+      "greenhouse",
+      "pharma",
+      "india"
+    ]
+  },
+  {
+    "id": "accantohealth858accanto858",
+    "name": "Accanto Health",
+    "domain": "accantohealth858accanto858.com",
+    "careers_url": "https://boards.greenhouse.io/accantohealth858accanto858",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accantohealth858accanto858",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accantohealth858accanto858/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "accesshealthca",
+    "name": "Access Healthcare Associates",
+    "domain": "accesshealthca.com",
+    "careers_url": "https://boards.greenhouse.io/accesshealthca",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accesshealthca",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accesshealthca/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "accesshealthcare",
+    "name": "Access Healthcare",
+    "domain": "accesshealthcare.com",
+    "careers_url": "https://careers.smartrecruiters.com/AccessHealthcare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AccessHealthcare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AccessHealthcare/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "accompanyhealth",
+    "name": "Accompany Health",
+    "domain": "accompanyhealth.com",
+    "careers_url": "https://boards.greenhouse.io/accompanyhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accompanyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accompanyhealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "accretivehealth1",
+    "name": "Accretive Health",
+    "domain": "accretivehealth1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AccretiveHealth1",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AccretiveHealth1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AccretiveHealth1/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "accuweather",
+    "name": "AccuWeather Careers",
+    "domain": "accuweather.com",
+    "careers_url": "https://boards.greenhouse.io/accuweather",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accuweather",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accuweather/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "achievementcenteroflecomhealth",
+    "name": "Achievement Center of LECOM Health",
+    "domain": "achievementcenteroflecomhealth.com",
+    "careers_url": "https://boards.greenhouse.io/achievementcenteroflecomhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "achievementcenteroflecomhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/achievementcenteroflecomhealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "achievementfirst",
+    "name": "Achievement First (Teaching)",
+    "domain": "achievementfirst.com",
+    "careers_url": "https://boards.greenhouse.io/achievementfirst",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "achievementfirst",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/achievementfirst/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "acornhealth",
+    "name": "Acorn Health",
+    "domain": "acornhealth.com",
+    "careers_url": "https://boards.greenhouse.io/acornhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acornhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acornhealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "adamsclinical",
+    "name": "Adams Clinical",
+    "domain": "adamsclinical.com",
+    "careers_url": "https://boards.greenhouse.io/adamsclinical",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adamsclinical",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adamsclinical/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "adamsstreetpartnersearlycareers",
+    "name": "Adams Street Partners",
+    "domain": "adamsstreetpartnersearlycareers.com",
+    "careers_url": "https://boards.greenhouse.io/adamsstreetpartnersearlycareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adamsstreetpartnersearlycareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adamsstreetpartnersearlycareers/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "adaptivebiotechnologies",
+    "name": "Adaptive Biotechnologies",
+    "domain": "adaptivebiotechnologies.com",
+    "careers_url": "https://boards.greenhouse.io/adaptivebiotechnologies",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adaptivebiotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adaptivebiotechnologies/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "greenhouse",
+      "biotech",
+      "india"
+    ]
+  },
+  {
+    "id": "adderleydigital",
+    "name": "Adderley Digital",
+    "domain": "adderleydigital.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdderleyDigital",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdderleyDigital",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdderleyDigital/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "additiontherapeutics",
+    "name": "Addition Therapeutics",
+    "domain": "additiontherapeutics.com",
+    "careers_url": "https://boards.greenhouse.io/additiontherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "additiontherapeutics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/additiontherapeutics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "adflavourseffectivebranding",
+    "name": "Adflavours Effective Branding",
+    "domain": "adflavourseffectivebranding.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdflavoursEffectiveBranding",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdflavoursEffectiveBranding",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdflavoursEffectiveBranding/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "brand",
+      "smartrecruiters",
+      "d2c-consumer-brands",
+      "india"
+    ]
+  },
+  {
+    "id": "adgatemedia",
+    "name": "AdGate Media",
+    "domain": "adgatemedia.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdGateMedia",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdGateMedia",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdGateMedia/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "admiralbeveragecorporation",
+    "name": "Admiral Beverage Corporation",
+    "domain": "admiralbeveragecorporation.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdmiralBeverageCorporation",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdmiralBeverageCorporation",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdmiralBeverageCorporation/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "smartrecruiters",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "adstartmedia",
+    "name": "Adstart Media",
+    "domain": "adstartmedia.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdstartMedia",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdstartMedia",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdstartMedia/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "advancedhomecarelimited",
+    "name": "Advanced Home Care Limited",
+    "domain": "advancedhomecarelimited.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdvancedHomeCareLimited",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdvancedHomeCareLimited",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdvancedHomeCareLimited/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "advancedmedicalresources1",
+    "name": "Advanced Medical Resources",
+    "domain": "advancedmedicalresources1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdvancedMedicalResources1",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdvancedMedicalResources1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdvancedMedicalResources1/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters",
+      "medical"
+    ]
+  },
+  {
+    "id": "advancedmedicalsolutions1",
+    "name": "Advanced Medical Solutions",
+    "domain": "advancedmedicalsolutions1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdvancedMedicalSolutions1",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdvancedMedicalSolutions1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdvancedMedicalSolutions1/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters",
+      "medical"
+    ]
+  },
+  {
+    "id": "advancedsportscom",
+    "name": "Advancedsports.com",
+    "domain": "advancedsportscom.com",
+    "careers_url": "https://careers.smartrecruiters.com/Advancedsportscom",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Advancedsportscom",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Advancedsportscom/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "advancedstaffingcare",
+    "name": "Advanced Staffing Care",
+    "domain": "advancedstaffingcare.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdvancedStaffingCare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdvancedStaffingCare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdvancedStaffingCare/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "advancingwellnessllc",
+    "name": "Advancing Wellness, LLC",
+    "domain": "advancingwellnessllc.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdvancingWellnessLLC",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdvancingWellnessLLC",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdvancingWellnessLLC/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "adventisthealthsystem",
+    "name": "Adventist Health System",
+    "domain": "adventisthealthsystem.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdventistHealthSystem",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AdventistHealthSystem",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AdventistHealthSystem/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "advontemedia",
+    "name": "Advontemedia",
+    "domain": "advontemedia.com",
+    "careers_url": "https://careers.smartrecruiters.com/Advontemedia",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Advontemedia",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Advontemedia/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "aethoshotels",
+    "name": "Aethos",
+    "domain": "aethoshotels.com",
+    "careers_url": "https://jobs.lever.co/aethoshotels",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "aethoshotels",
+    "api_endpoint": "https://api.lever.co/v0/postings/aethoshotels?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "travel-hospitality",
+      "lever",
+      "hotel"
+    ]
+  },
+  {
+    "id": "africacommunicationsmediagroup",
+    "name": "Africa Communications Media Group",
+    "domain": "africacommunicationsmediagroup.com",
+    "careers_url": "https://careers.smartrecruiters.com/AfricaCommunicationsMediaGroup",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AfricaCommunicationsMediaGroup",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AfricaCommunicationsMediaGroup/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "afscareersmarketplace",
+    "name": "Accenture Federal Services Careers Marketplace",
+    "domain": "afscareersmarketplace.com",
+    "careers_url": "https://boards.greenhouse.io/afscareersmarketplace",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "afscareersmarketplace",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/afscareersmarketplace/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "agavegames",
+    "name": "Agave Games",
+    "domain": "agavegames.com",
+    "careers_url": "https://jobs.ashbyhq.com/agavegames",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "agavegames",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/agavegames",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby"
+    ]
+  },
+  {
+    "id": "agecareers",
+    "name": "AGE Solutions",
+    "domain": "agecareers.com",
+    "careers_url": "https://boards.greenhouse.io/agecareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "agecareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/agecareers/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "agrifoodcareer",
+    "name": "Agrifoodcareer",
+    "domain": "agrifoodcareer.com",
+    "careers_url": "https://careers.smartrecruiters.com/Agrifoodcareer",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Agrifoodcareer",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Agrifoodcareer/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "aheaddigital",
+    "name": "Ahead Digital",
+    "domain": "aheaddigital.com",
+    "careers_url": "https://careers.smartrecruiters.com/AheadDigital",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AheadDigital",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AheadDigital/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "ahmcanaheimregionalmedicalcenter",
+    "name": "AHMC Anaheim Regional Medical Center",
+    "domain": "ahmcanaheimregionalmedicalcenter.com",
+    "careers_url": "https://careers.smartrecruiters.com/AHMCAnaheimRegionalMedicalCenter",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AHMCAnaheimRegionalMedicalCenter",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AHMCAnaheimRegionalMedicalCenter/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters",
+      "medical"
+    ]
+  },
+  {
+    "id": "ahschc",
+    "name": "Asian Health Services",
+    "domain": "ahschc.com",
+    "careers_url": "https://jobs.lever.co/ahschc",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "ahschc",
+    "api_endpoint": "https://api.lever.co/v0/postings/ahschc?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health"
+    ]
+  },
+  {
+    "id": "aimsportsgroup",
+    "name": "AIM Sports Group",
+    "domain": "aimsportsgroup.com",
+    "careers_url": "https://careers.smartrecruiters.com/AIMSportsGroup",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AIMSportsGroup",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AIMSportsGroup/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "aion-20biosciences",
+    "name": "AION Biosciences",
+    "domain": "aion.com",
+    "careers_url": "https://jobs.ashbyhq.com/aion%20biosciences",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "aion%20biosciences",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/aion%20biosciences",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "ashby"
+    ]
+  },
+  {
+    "id": "aippublishing",
+    "name": "AIP Publishing",
+    "domain": "aippublishing.com",
+    "careers_url": "https://boards.greenhouse.io/aippublishing",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aippublishing",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aippublishing/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "digital-media-entertainment",
+      "india"
+    ]
+  },
+  {
+    "id": "airrmediallc",
+    "name": "AIRR Media, LLC",
+    "domain": "airrmediallc.com",
+    "careers_url": "https://careers.smartrecruiters.com/AIRRMediaLLC",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AIRRMediaLLC",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AIRRMediaLLC/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "aizerhealth",
+    "name": "Aizer Health",
+    "domain": "aizerhealth.com",
+    "careers_url": "https://boards.greenhouse.io/aizerhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aizerhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aizerhealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "akanewmedia",
+    "name": "A.K.A New Media",
+    "domain": "akanewmedia.com",
+    "careers_url": "https://careers.smartrecruiters.com/akanewmedia",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "akanewmedia",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/akanewmedia/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "akronchildrenshospital",
+    "name": "Akron Children's Hospital",
+    "domain": "akronchildrenshospital.com",
+    "careers_url": "https://careers.smartrecruiters.com/AkronChildrensHospital",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AkronChildrensHospital",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AkronChildrensHospital/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "hospital",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alcoenergyrotterdambv",
+    "name": "Alco Energy Rotterdam B.V.",
+    "domain": "alcoenergyrotterdambv.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlcoEnergyRotterdamBV",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlcoEnergyRotterdamBV",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlcoEnergyRotterdamBV/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alemhealth",
+    "name": "AlemHealth",
+    "domain": "alemhealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlemHealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlemHealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlemHealth/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "algorex",
+    "name": "N1 Health",
+    "domain": "algorex.com",
+    "careers_url": "https://jobs.lever.co/algorex",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "algorex",
+    "api_endpoint": "https://api.lever.co/v0/postings/algorex?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health"
+    ]
+  },
+  {
+    "id": "allcare1",
+    "name": "All Care",
+    "domain": "allcare1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllCare1",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllCare1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllCare1/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allcarehomehealth",
+    "name": "All Care Home Health",
+    "domain": "allcarehomehealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllCareHomeHealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllCareHomeHealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllCareHomeHealth/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allcountyhomehealthhospice",
+    "name": "All County Home Health & Hospice",
+    "domain": "allcountyhomehealthhospice.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllCountyHomeHealthHospice",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllCountyHomeHealthHospice",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllCountyHomeHealthHospice/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allegheniesunlimitedcareproviders",
+    "name": "Alleghenies Unlimited Care Providers",
+    "domain": "allegheniesunlimitedcareproviders.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllegheniesUnlimitedCareProviders",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllegheniesUnlimitedCareProviders",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllegheniesUnlimitedCareProviders/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allegiancehomecareservicesinc",
+    "name": "Allegiance Home Care Services, Inc.",
+    "domain": "allegiancehomecareservicesinc.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllegianceHomeCareServicesInc",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllegianceHomeCareServicesInc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllegianceHomeCareServicesInc/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allhandshomecare",
+    "name": "All Hands Home Care",
+    "domain": "allhandshomecare.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllHandsHomeCare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllHandsHomeCare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllHandsHomeCare/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alliancehealthcaresolutions1",
+    "name": "Alliance Healthcare Solutions",
+    "domain": "alliancehealthcaresolutions1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllianceHealthcareSolutions1",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllianceHealthcareSolutions1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllianceHealthcareSolutions1/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alliedhealthgroup",
+    "name": "Allied Health Group",
+    "domain": "alliedhealthgroup.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlliedHealthGroup",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlliedHealthGroup",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlliedHealthGroup/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allsuiteresort",
+    "name": "All Suite Resort",
+    "domain": "allsuiteresort.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllSuiteResort",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllSuiteResort",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllSuiteResort/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "travel-hospitality",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allswellhealthcare2",
+    "name": "Alls Well Healthcare",
+    "domain": "allswellhealthcare2.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllsWellHealthcare2",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllsWellHealthcare2",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllsWellHealthcare2/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allvalleyhomecare",
+    "name": "All Valley Home Care",
+    "domain": "allvalleyhomecare.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllValleyHomeCare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllValleyHomeCare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllValleyHomeCare/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "allwayshomecare",
+    "name": "Allways home care",
+    "domain": "allwayshomecare.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllwaysHomeCare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AllwaysHomeCare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AllwaysHomeCare/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "almedia",
+    "name": "Almedia",
+    "domain": "almedia.com",
+    "careers_url": "https://jobs.ashbyhq.com/almedia",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "almedia",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/almedia",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "ashby"
+    ]
+  },
+  {
+    "id": "alotten-inc",
+    "name": "Alotten",
+    "domain": "alotten.com",
+    "careers_url": "https://jobs.ashbyhq.com/alotten-inc",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "alotten-inc",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/alotten-inc",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby"
+    ]
+  },
+  {
+    "id": "alpha360digitalltd",
+    "name": "Alpha360 Digital Ltd",
+    "domain": "alpha360digitalltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/Alpha360DigitalLtd",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Alpha360DigitalLtd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Alpha360DigitalLtd/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alpha9oncology",
+    "name": "Alpha-9 Oncology",
+    "domain": "alpha9oncology.com",
+    "careers_url": "https://boards.greenhouse.io/alpha9oncology",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "alpha9oncology",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/alpha9oncology/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "alphacomarketingmedia",
+    "name": "Alpha Co. Marketing & Media",
+    "domain": "alphacomarketingmedia.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlphaCoMarketingMedia",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlphaCoMarketingMedia",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlphaCoMarketingMedia/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "media",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alphahomehealthandhospice",
+    "name": "Alpha Home Health and Hospice",
+    "domain": "alphahomehealthandhospice.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlphaHomeHealthAndHospice",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlphaHomeHealthAndHospice",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlphaHomeHealthAndHospice/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alphamudigitalventures",
+    "name": "Alpha Mu Digital Ventures",
+    "domain": "alphamudigitalventures.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlphaMuDigitalVentures",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlphaMuDigitalVentures",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlphaMuDigitalVentures/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital",
+      "digital-media-entertainment",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "altealandsurveyors",
+    "name": "Altea Land Surveyors",
+    "domain": "altealandsurveyors.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlteaLandSurveyors",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlteaLandSurveyors",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlteaLandSurveyors/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "smartrecruiters",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "altegrahealth",
+    "name": "Altegra Health",
+    "domain": "altegrahealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AltegraHealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AltegraHealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AltegraHealth/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alternativehomehealthcareinc",
+    "name": "Alternative Home Health + Care Inc",
+    "domain": "alternativehomehealthcareinc.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlternativeHomeHealthCareInc",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlternativeHomeHealthCareInc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlternativeHomeHealthCareInc/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "alvaradoparkwayinstituteofbehavi",
+    "name": "Alvarado Parkway Institute of Behavioral Health",
+    "domain": "alvaradoparkwayinstituteofbehavi.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlvaradoParkwayInstituteOfBehavi",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AlvaradoParkwayInstituteOfBehavi",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AlvaradoParkwayInstituteOfBehavi/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "amagistechcareers",
+    "name": "AmagisTech",
+    "domain": "amagistechcareers.com",
+    "careers_url": "https://jobs.ashbyhq.com/amagistechcareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "amagistechcareers",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/amagistechcareers",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby"
+    ]
+  },
+  {
+    "id": "ambiencehealthcare",
+    "name": "Ambience Healthcare",
+    "domain": "ambiencehealthcare.com",
+    "careers_url": "https://jobs.ashbyhq.com/ambiencehealthcare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "ambiencehealthcare",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/ambiencehealthcare",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "americanpublichealthassociation",
+    "name": "American Public Health Association",
+    "domain": "americanpublichealthassociation.com",
+    "careers_url": "https://boards.greenhouse.io/americanpublichealthassociation",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "americanpublichealthassociation",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/americanpublichealthassociation/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "anchorage",
+    "name": "Anchorage Digital",
+    "domain": "anchorage.com",
+    "careers_url": "https://jobs.lever.co/anchorage",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "anchorage",
+    "api_endpoint": "https://api.lever.co/v0/postings/anchorage?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment",
+      "digital"
+    ]
+  },
+  {
+    "id": "anglehealth",
+    "name": "Angle Health",
+    "domain": "anglehealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/anglehealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "anglehealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/anglehealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "animocabrands",
+    "name": "Animoca Brands Limited",
+    "domain": "animocabrands.com",
+    "careers_url": "https://jobs.lever.co/animocabrands",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "animocabrands",
+    "api_endpoint": "https://api.lever.co/v0/postings/animocabrands?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "brand",
+      "lever",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "annexonbioscience",
+    "name": "Annexon Biosciences",
+    "domain": "annexonbioscience.com",
+    "careers_url": "https://boards.greenhouse.io/annexonbioscience",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "annexonbioscience",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/annexonbioscience/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "aottechnologies",
+    "name": "AOT Technologies",
+    "domain": "aottechnologies.com",
+    "careers_url": "https://boards.greenhouse.io/aottechnologies",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aottechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aottechnologies/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "apexskincareers",
+    "name": "Apex Skin",
+    "domain": "apexskincareers.com",
+    "careers_url": "https://boards.greenhouse.io/apexskincareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "apexskincareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/apexskincareers/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "arda-therapeutics",
+    "name": "Arda Therapeutics",
+    "domain": "arda.com",
+    "careers_url": "https://jobs.ashbyhq.com/arda-therapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "arda-therapeutics",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/arda-therapeutics",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "ashby"
+    ]
+  },
+  {
+    "id": "arizonaliverhealth",
+    "name": "Arizona Liver Health",
+    "domain": "arizonaliverhealth.com",
+    "careers_url": "https://boards.greenhouse.io/arizonaliverhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "arizonaliverhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/arizonaliverhealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "array-behavioral-care",
+    "name": "Array Behavioral Care",
+    "domain": "array.com",
+    "careers_url": "https://jobs.ashbyhq.com/array-behavioral-care",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "array-behavioral-care",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/array-behavioral-care",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "arspharmaceuticalsoperationsinc",
+    "name": "ARS Pharmaceuticals Operations, Inc.",
+    "domain": "arspharmaceuticalsoperationsinc.com",
+    "careers_url": "https://boards.greenhouse.io/arspharmaceuticalsoperationsinc",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "arspharmaceuticalsoperationsinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/arspharmaceuticalsoperationsinc/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "pharma-life-sciences",
+      "pharmaceutical",
+      "india-consumer",
+      "greenhouse",
+      "pharma",
+      "india"
+    ]
+  },
+  {
+    "id": "aryahealth-ai",
+    "name": "Arya Health",
+    "domain": "aryahealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/aryahealth.ai",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "aryahealth.ai",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/aryahealth.ai",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "aspirehealthalliance",
+    "name": "Aspire Health and Community Services",
+    "domain": "aspirehealthalliance.com",
+    "careers_url": "https://boards.greenhouse.io/aspirehealthalliance",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aspirehealthalliance",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aspirehealthalliance/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "assorthealth",
+    "name": "Assort Health",
+    "domain": "assorthealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/assorthealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "assorthealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/assorthealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "assured-health",
+    "name": "Assured",
+    "domain": "assured.com",
+    "careers_url": "https://jobs.ashbyhq.com/assured-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "assured-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/assured-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "atroposhealth",
+    "name": "Atropos Health",
+    "domain": "atroposhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/atroposhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "atroposhealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/atroposhealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "attainsports",
+    "name": "Attain Sports",
+    "domain": "attainsports.com",
+    "careers_url": "https://boards.greenhouse.io/attainsports",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "attainsports",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/attainsports/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "august-health",
+    "name": "August Health",
+    "domain": "august.com",
+    "careers_url": "https://jobs.ashbyhq.com/august-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "august-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/august-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "avalerehealth",
+    "name": "Avalere Health",
+    "domain": "avalerehealth.com",
+    "careers_url": "https://jobs.lever.co/avalerehealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "avalerehealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/avalerehealth?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health",
+      "india"
+    ]
+  },
+  {
+    "id": "avalynpharma",
+    "name": "Avalyn Pharma",
+    "domain": "avalynpharma.com",
+    "careers_url": "https://boards.greenhouse.io/avalynpharma",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "avalynpharma",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/avalynpharma/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "greenhouse",
+      "pharma",
+      "india"
+    ]
+  },
+  {
+    "id": "ayblehealth",
+    "name": "Ayble Health",
+    "domain": "ayblehealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/ayblehealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "ayblehealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/ayblehealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "balorgames",
+    "name": "Balor Games",
+    "domain": "balorgames.com",
+    "careers_url": "https://jobs.ashbyhq.com/balorgames",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "balorgames",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/balorgames",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "battle-creek-games",
+    "name": "Battle Creek Games",
+    "domain": "battle.com",
+    "careers_url": "https://jobs.ashbyhq.com/battle-creek-games",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "battle-creek-games",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/battle-creek-games",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby"
+    ]
+  },
+  {
+    "id": "bayesianhealth",
+    "name": "Bayesian Health, Inc.",
+    "domain": "bayesianhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/bayesianhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "bayesianhealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/bayesianhealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "beaker",
+    "name": "Beaker Pharmacy",
+    "domain": "beaker.com",
+    "careers_url": "https://jobs.ashbyhq.com/beaker",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "beaker",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/beaker",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "ashby",
+      "pharma"
+    ]
+  },
+  {
+    "id": "beautybarrage",
+    "name": "Beauty Barrage",
+    "domain": "beautybarrage.com",
+    "careers_url": "https://jobs.lever.co/beautybarrage",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "India Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "beautybarrage",
+    "api_endpoint": "https://api.lever.co/v0/postings/beautybarrage?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment",
+      "india"
+    ]
+  },
+  {
+    "id": "benchmarkhealth",
+    "name": "Benchmark Health",
+    "domain": "benchmarkhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/benchmarkhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "benchmarkhealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/benchmarkhealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "bentoboxent",
+    "name": "Bento Box Entertainment",
+    "domain": "bentoboxent.com",
+    "careers_url": "https://jobs.lever.co/bentoboxent",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "bentoboxent",
+    "api_endpoint": "https://api.lever.co/v0/postings/bentoboxent?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "big-leap-health",
+    "name": "Big Leap Health",
+    "domain": "big.com",
+    "careers_url": "https://jobs.ashbyhq.com/big-leap-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "big-leap-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/big-leap-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "biggergames",
+    "name": "Bigger Games",
+    "domain": "biggergames.com",
+    "careers_url": "https://jobs.ashbyhq.com/biggergames",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "biggergames",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/biggergames",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby"
+    ]
+  },
+  {
+    "id": "bighealth",
+    "name": "Big Health",
+    "domain": "bighealth.com",
+    "careers_url": "https://jobs.lever.co/bighealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "bighealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/bighealth?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health",
+      "india"
+    ]
+  },
+  {
+    "id": "bjakcareer",
+    "name": "Bjak",
+    "domain": "bjakcareer.com",
+    "careers_url": "https://jobs.ashbyhq.com/bjakcareer",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "India Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "bjakcareer",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/bjakcareer",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "blockstream",
+    "name": "Blockstream",
+    "domain": "blockstream.com",
+    "careers_url": "https://jobs.ashbyhq.com/blockstream",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "blockstream",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/blockstream",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "blossom-health",
+    "name": "Blossom Health",
+    "domain": "blossom.com",
+    "careers_url": "https://jobs.ashbyhq.com/blossom-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "blossom-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/blossom-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "bluebottlecoffee",
+    "name": "Blue Bottle Coffee",
+    "domain": "bluebottlecoffee.com",
+    "careers_url": "https://jobs.lever.co/bluebottlecoffee",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "bluebottlecoffee",
+    "api_endpoint": "https://api.lever.co/v0/postings/bluebottlecoffee?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "bluestone",
+    "name": "BlueStone Jewellery",
+    "domain": "bluestone.com",
+    "careers_url": "https://careers.smartrecruiters.com/bluestone",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "bluestone",
+    "tags": [
+      "d2c",
+      "jewelry",
+      "ecommerce",
+      "bengaluru",
+      "india",
+      "smartrecruiters",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/bluestone/postings?limit=100"
+  },
+  {
+    "id": "boldgames",
+    "name": "Bold Games",
+    "domain": "boldgames.com",
+    "careers_url": "https://jobs.ashbyhq.com/boldgames",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "boldgames",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/boldgames",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby"
+    ]
+  },
+  {
+    "id": "brandlight",
+    "name": "Brandlight",
+    "domain": "brandlight.com",
+    "careers_url": "https://jobs.ashbyhq.com/brandlight",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "brandlight",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/brandlight",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "brand",
+      "d2c-consumer-brands",
+      "ashby"
+    ]
+  },
+  {
+    "id": "brisk-teaching",
+    "name": "Brisk Teaching",
+    "domain": "brisk.com",
+    "careers_url": "https://jobs.ashbyhq.com/brisk-teaching",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "brisk-teaching",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/brisk-teaching",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "d2c-consumer-brands",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "brooklyn-health",
+    "name": "Brooklyn Health",
+    "domain": "brooklyn.com",
+    "careers_url": "https://jobs.ashbyhq.com/brooklyn-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "brooklyn-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/brooklyn-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "bunkerhillhealth",
+    "name": "Bunkerhill Health",
+    "domain": "bunkerhillhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/bunkerhillhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "bunkerhillhealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/bunkerhillhealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "candidhealth",
+    "name": "Candid Health",
+    "domain": "candidhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/candidhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "candidhealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/candidhealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "canvasmedical",
+    "name": "Canvas Medical",
+    "domain": "canvasmedical.com",
+    "careers_url": "https://jobs.lever.co/canvasmedical",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "canvasmedical",
+    "api_endpoint": "https://api.lever.co/v0/postings/canvasmedical?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "medical",
+      "india"
+    ]
+  },
+  {
+    "id": "cardflight",
+    "name": "SwipeSimple",
+    "domain": "cardflight.com",
+    "careers_url": "https://jobs.ashbyhq.com/cardflight",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "cardflight",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/cardflight",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "travel-hospitality",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "careerswift-ai",
+    "name": "Careerswift",
+    "domain": "careerswift.com",
+    "careers_url": "https://jobs.ashbyhq.com/careerswift.ai",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "careerswift.ai",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/careerswift.ai",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "caregiver",
+    "name": "24 Hour Home Care - Caregiver Division",
+    "domain": "caregiver.com",
+    "careers_url": "https://boards.greenhouse.io/caregiver",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "caregiver",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/caregiver/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "carewest",
+    "name": "Carewest Innovative Healthcare",
+    "domain": "carewest.com",
+    "careers_url": "https://jobs.lever.co/carewest",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "carewest",
+    "api_endpoint": "https://api.lever.co/v0/postings/carewest?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health"
+    ]
+  },
+  {
+    "id": "centuro-global-careers",
+    "name": "Centuro Global",
+    "domain": "centuro.com",
+    "careers_url": "https://jobs.ashbyhq.com/centuro-global-careers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "centuro-global-careers",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/centuro-global-careers",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "century-health",
+    "name": "Century Health",
+    "domain": "century.com",
+    "careers_url": "https://jobs.ashbyhq.com/century.health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "century.health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/century.health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "cge",
+    "name": "Content Growth Engine",
+    "domain": "cge.com",
+    "careers_url": "https://jobs.ashbyhq.com/cge",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "cge",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/cge",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "content",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "chainalysis-careers",
+    "name": "Chainalysis",
+    "domain": "chainalysis.com",
+    "careers_url": "https://jobs.ashbyhq.com/chainalysis-careers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "New Delhi, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "chainalysis-careers",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/chainalysis-careers",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "cirquedusoleil",
+    "name": "Cirque du Soleil Entertainment Group",
+    "domain": "cirquedusoleil.com",
+    "careers_url": "https://jobs.lever.co/cirquedusoleil",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "cirquedusoleil",
+    "api_endpoint": "https://api.lever.co/v0/postings/cirquedusoleil?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "travel-hospitality",
+      "lever"
+    ]
+  },
+  {
+    "id": "clinicalhealthnetworkfortransformation",
+    "name": "Clinical Health Network For Transformation",
+    "domain": "clinicalhealthnetworkfortransformation.com",
+    "careers_url": "https://jobs.lever.co/ClinicalHealthNetworkForTransformation",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "ClinicalHealthNetworkForTransformation",
+    "api_endpoint": "https://api.lever.co/v0/postings/ClinicalHealthNetworkForTransformation?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "pharma-life-sciences",
+      "india"
+    ]
+  },
+  {
+    "id": "clovirtualfashion",
+    "name": "CLO Virtual Fashion",
+    "domain": "clovirtualfashion.com",
+    "careers_url": "https://jobs.lever.co/clovirtualfashion",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "clovirtualfashion",
+    "api_endpoint": "https://api.lever.co/v0/postings/clovirtualfashion?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "d2c-consumer-brands",
+      "india"
+    ]
+  },
+  {
+    "id": "company",
+    "name": "Stealth-mode Battery Startup",
+    "domain": "company.com",
+    "careers_url": "https://jobs.ashbyhq.com/company",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "company",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/company",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "d2c-consumer-brands",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "compoundcontentstudio",
+    "name": "Compound Content Studio",
+    "domain": "compoundcontentstudio.com",
+    "careers_url": "https://jobs.ashbyhq.com/compoundcontentstudio",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "compoundcontentstudio",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/compoundcontentstudio",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "content",
+      "ashby"
+    ]
+  },
+  {
+    "id": "coral-20care",
+    "name": "Coral Care",
+    "domain": "coral.com",
+    "careers_url": "https://jobs.ashbyhq.com/coral%20care",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "coral%20care",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/coral%20care",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "cortea",
+    "name": "Cortea AI",
+    "domain": "cortea.com",
+    "careers_url": "https://jobs.ashbyhq.com/cortea",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "cortea",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/cortea",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "d2c-consumer-brands",
+      "ashby"
+    ]
+  },
+  {
+    "id": "counsel",
+    "name": "Counsel Health",
+    "domain": "counsel.com",
+    "careers_url": "https://jobs.ashbyhq.com/counsel",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "counsel",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/counsel",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "coursecareers",
+    "name": "CourseCareers",
+    "domain": "coursecareers.com",
+    "careers_url": "https://jobs.ashbyhq.com/coursecareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "coursecareers",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/coursecareers",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "cssmerge",
+    "name": "ATOMS Careers page",
+    "domain": "cssmerge.com",
+    "careers_url": "https://boards.greenhouse.io/cssmerge",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cssmerge",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cssmerge/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "daiyafoodsinc",
+    "name": "Daiya Foods Inc.",
+    "domain": "daiyafoodsinc.com",
+    "careers_url": "https://boards.greenhouse.io/daiyafoodsinc",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "daiyafoodsinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/daiyafoodsinc/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "dandelionhealth",
+    "name": "Dandelion Health Inc",
+    "domain": "dandelionhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/dandelionhealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "dandelionhealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/dandelionhealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "decodahealth",
+    "name": "Decoda Health",
+    "domain": "decodahealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/decodahealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "decodahealth",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/decodahealth",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby"
+    ]
+  },
+  {
+    "id": "definitivehcindia",
+    "name": "Definitive Healthcare, India",
+    "domain": "definitivehcindia.com",
+    "careers_url": "https://boards.greenhouse.io/definitivehcindia",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "definitivehcindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/definitivehcindia/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "delfidiagnostics",
+    "name": "DELFI Diagnostics, Inc.",
+    "domain": "delfidiagnostics.com",
+    "careers_url": "https://jobs.lever.co/delfidiagnostics",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "delfidiagnostics",
+    "api_endpoint": "https://api.lever.co/v0/postings/delfidiagnostics?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "india"
+    ]
+  },
+  {
+    "id": "dental365",
+    "name": "Dental365",
+    "domain": "dental365.com",
+    "careers_url": "https://boards.greenhouse.io/dental365",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dental365",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dental365/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "develop-health",
+    "name": "Develop Health",
+    "domain": "develop.com",
+    "careers_url": "https://jobs.ashbyhq.com/develop-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "develop-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/develop-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "dext-careers",
+    "name": "Dext",
+    "domain": "dext.com",
+    "careers_url": "https://jobs.ashbyhq.com/dext-careers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "dext-careers",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/dext-careers",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby"
+    ]
+  },
+  {
+    "id": "discmedicine",
+    "name": "Disc Medicine",
+    "domain": "discmedicine.com",
+    "careers_url": "https://boards.greenhouse.io/discmedicine",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "discmedicine",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/discmedicine/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "doctoralia-brasil",
+    "name": "Doctoralia Brasil",
+    "domain": "doctoralia.com",
+    "careers_url": "https://jobs.ashbyhq.com/doctoralia-brasil",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "doctoralia-brasil",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/doctoralia-brasil",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby"
+    ]
+  },
+  {
+    "id": "doctoralia-colombia",
+    "name": "Doctoralia Colombia",
+    "domain": "doctoraliacolombia.com",
+    "careers_url": "https://jobs.ashbyhq.com/doctoralia-colombia",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "doctoralia-colombia",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/doctoralia-colombia",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby"
+    ]
+  },
+  {
+    "id": "doctoralia-mexico",
+    "name": "Doctoralia Mexico",
+    "domain": "doctoraliamexico.com",
+    "careers_url": "https://jobs.ashbyhq.com/doctoralia-mexico",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "doctoralia-mexico",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/doctoralia-mexico",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby"
+    ]
+  },
+  {
+    "id": "doctoralia-spain",
+    "name": "Doctoralia Spain",
+    "domain": "doctoraliaspain.com",
+    "careers_url": "https://jobs.ashbyhq.com/doctoralia-spain",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "doctoralia-spain",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/doctoralia-spain",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "ashby"
+    ]
+  },
+  {
+    "id": "dottxt",
+    "name": "dottxt",
+    "domain": "dottxt.com",
+    "careers_url": "https://jobs.ashbyhq.com/dottxt",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "dottxt",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/dottxt",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "digital-media-entertainment",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "dozee",
+    "name": "Dozee (Turtle Shell Technologies)",
+    "domain": "dozee.io",
+    "careers_url": "https://jobs.lever.co/dozee",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "dozee",
+    "tags": [
+      "healthcare",
+      "healthtech",
+      "ai",
+      "bengaluru",
+      "india",
+      "lever",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.lever.co/v0/postings/dozee?mode=json"
+  },
+  {
+    "id": "dreamgames",
+    "name": "Dream Games",
+    "domain": "dreamgames.com",
+    "careers_url": "https://jobs.lever.co/dreamgames",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "dreamgames",
+    "api_endpoint": "https://api.lever.co/v0/postings/dreamgames?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "drreddys",
+    "name": "Dr. Reddy's Laboratories",
+    "domain": "drreddys.com",
+    "careers_url": "https://careers.smartrecruiters.com/DrReddysLaboratoriesLimited",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "DrReddysLaboratoriesLimited",
+    "tags": [
+      "pharma",
+      "biotech",
+      "hyderabad",
+      "india",
+      "smartrecruiters",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/DrReddysLaboratoriesLimited/postings?limit=100"
+  },
+  {
+    "id": "drreddys-foundation",
+    "name": "Dr. Reddy's Foundation",
+    "domain": "drreddysfoundation.org",
+    "careers_url": "https://careers.smartrecruiters.com/DrReddysFoundation",
+    "industry": "Healthcare & Social Impact",
+    "hq_location": "Hyderabad, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "DrReddysFoundation",
+    "tags": [
+      "healthcare",
+      "social-impact",
+      "hyderabad",
+      "india",
+      "smartrecruiters",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/DrReddysFoundation/postings?limit=100"
+  },
+  {
+    "id": "dynetherapeutics",
+    "name": "Dyne Therapeutics",
+    "domain": "dynetherapeutics.com",
+    "careers_url": "https://boards.greenhouse.io/dynetherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dynetherapeutics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dynetherapeutics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "dynotherapeutics",
+    "name": "Dyno Therapeutics",
+    "domain": "dynotherapeutics.com",
+    "careers_url": "https://boards.greenhouse.io/dynotherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dynotherapeutics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dynotherapeutics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "eightsleep",
+    "name": "Eight Sleep",
+    "domain": "eightsleep.com",
+    "careers_url": "https://jobs.ashbyhq.com/eightsleep",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "eightsleep",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/eightsleep",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "d2c-consumer-brands",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "eikontherapeutics",
+    "name": "Eikon Therapeutics",
+    "domain": "eikontherapeutics.com",
+    "careers_url": "https://boards.greenhouse.io/eikontherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "eikontherapeutics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/eikontherapeutics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "eleventhhourgames",
+    "name": "Eleventh Hour Games",
+    "domain": "eleventhhourgames.com",
+    "careers_url": "https://boards.greenhouse.io/eleventhhourgames",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "eleventhhourgames",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/eleventhhourgames/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "digital-media-entertainment",
+      "india"
+    ]
+  },
+  {
+    "id": "elfbeauty",
+    "name": "e.l.f. Beauty",
+    "domain": "elfbeauty.com",
+    "careers_url": "https://jobs.lever.co/elfbeauty",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Ahmedabad, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "elfbeauty",
+    "api_endpoint": "https://api.lever.co/v0/postings/elfbeauty?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "beauty",
+      "d2c-consumer-brands",
+      "india"
+    ]
+  },
+  {
+    "id": "eli",
+    "name": "Eli Health",
+    "domain": "eli.com",
+    "careers_url": "https://jobs.ashbyhq.com/eli",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "eli",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/eli",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "ellipsis-health",
+    "name": "Ellipsis Health",
+    "domain": "ellipsis.com",
+    "careers_url": "https://jobs.ashbyhq.com/ellipsis-health",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "ellipsis-health",
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/ellipsis-health",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "ashby",
+      "india"
+    ]
+  },
+  {
+    "id": "emma-sleep",
+    "name": "Emma – The Sleep Company",
+    "domain": "emma.com",
+    "careers_url": "https://jobs.lever.co/emma-sleep",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "New Delhi, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "emma-sleep",
+    "api_endpoint": "https://api.lever.co/v0/postings/emma-sleep?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "d2c-consumer-brands",
+      "india"
+    ]
+  },
+  {
+    "id": "empowerbrands",
+    "name": "Empower Brands",
+    "domain": "empowerbrands.com",
+    "careers_url": "https://boards.greenhouse.io/empowerbrands",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "empowerbrands",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/empowerbrands/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "brand",
+      "greenhouse",
+      "d2c-consumer-brands",
+      "india"
+    ]
+  },
+  {
+    "id": "enarahealth",
+    "name": "Enara Health",
+    "domain": "enarahealth.com",
+    "careers_url": "https://jobs.lever.co/EnaraHealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "EnaraHealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/EnaraHealth?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health"
+    ]
+  },
+  {
+    "id": "endpointclinical",
+    "name": "Endpoint Clinical",
+    "domain": "endpointclinical.com",
+    "careers_url": "https://jobs.lever.co/endpointclinical",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "endpointclinical",
+    "api_endpoint": "https://api.lever.co/v0/postings/endpointclinical?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "pharma-life-sciences",
+      "india"
+    ]
+  },
+  {
+    "id": "enlacehealth",
+    "name": "Enlace Health",
+    "domain": "enlacehealth.com",
+    "careers_url": "https://boards.greenhouse.io/enlacehealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "enlacehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/enlacehealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "entradatherapeutics",
+    "name": "Entrada Therapeutics",
+    "domain": "entradatherapeutics.com",
+    "careers_url": "https://boards.greenhouse.io/entradatherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "entradatherapeutics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/entradatherapeutics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "evolvevacationrental",
+    "name": "Evolve",
+    "domain": "evolvevacationrental.com",
+    "careers_url": "https://boards.greenhouse.io/evolvevacationrental",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "evolvevacationrental",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/evolvevacationrental/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "travel-hospitality",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "extenteamcareers",
+    "name": "Extenteam Careers",
+    "domain": "extenteamcareers.com",
+    "careers_url": "https://boards.greenhouse.io/extenteamcareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "extenteamcareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/extenteamcareers/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "fatetherapeutics",
+    "name": "Fate Therapeutics, Inc.",
+    "domain": "fatetherapeutics.com",
+    "careers_url": "https://jobs.lever.co/fatetherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "fatetherapeutics",
+    "api_endpoint": "https://api.lever.co/v0/postings/fatetherapeutics?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "lever",
+      "pharma-life-sciences"
+    ]
+  },
+  {
+    "id": "feldinc",
+    "name": "Feld Entertainment",
+    "domain": "feldinc.com",
+    "careers_url": "https://jobs.lever.co/feldinc",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "feldinc",
+    "api_endpoint": "https://api.lever.co/v0/postings/feldinc?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "travel-hospitality",
+      "lever",
+      "travel"
+    ]
+  },
+  {
+    "id": "fenwaysports",
+    "name": "Fenway Sports Management",
+    "domain": "fenwaysports.com",
+    "careers_url": "https://jobs.lever.co/fenwaysports",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "fenwaysports",
+    "api_endpoint": "https://api.lever.co/v0/postings/fenwaysports?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "florence",
+    "name": "Florence Health",
+    "domain": "florence.com",
+    "careers_url": "https://jobs.lever.co/florence",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "florence",
+    "api_endpoint": "https://api.lever.co/v0/postings/florence?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health",
+      "india"
+    ]
+  },
+  {
+    "id": "galatea-associates",
+    "name": "Galatea Associates",
+    "domain": "galatea.com",
+    "careers_url": "https://jobs.lever.co/galatea-associates",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "galatea-associates",
+    "api_endpoint": "https://api.lever.co/v0/postings/galatea-associates?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "get-vocal-pbc",
+    "name": "Vocal Media",
+    "domain": "get.com",
+    "careers_url": "https://jobs.lever.co/get-vocal-pbc",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "get-vocal-pbc",
+    "api_endpoint": "https://api.lever.co/v0/postings/get-vocal-pbc?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment",
+      "media",
+      "india"
+    ]
+  },
+  {
+    "id": "glass-health-inc",
+    "name": "Glass Health Inc.",
+    "domain": "glass.com",
+    "careers_url": "https://jobs.lever.co/glass-health-inc",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "glass-health-inc",
+    "api_endpoint": "https://api.lever.co/v0/postings/glass-health-inc?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health",
+      "india"
+    ]
+  },
+  {
+    "id": "healthcare",
+    "name": "HealthCare",
+    "domain": "healthcare.com",
+    "careers_url": "https://jobs.lever.co/healthcare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "healthcare",
+    "api_endpoint": "https://api.lever.co/v0/postings/healthcare?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health",
+      "india"
+    ]
+  },
+  {
+    "id": "heartbeathealth",
+    "name": "Heartbeat Health",
+    "domain": "heartbeathealth.com",
+    "careers_url": "https://jobs.lever.co/heartbeathealth",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "heartbeathealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/heartbeathealth?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health",
+      "india"
+    ]
+  },
+  {
+    "id": "homemarketfoods",
+    "name": "Home Market Foods",
+    "domain": "homemarketfoods.com",
+    "careers_url": "https://boards.greenhouse.io/homemarketfoods",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "homemarketfoods",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/homemarketfoods/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "d2c-consumer-brands",
+      "india"
+    ]
+  },
+  {
+    "id": "hopscotchprimarycare",
+    "name": "Hopscotch Primary Care",
+    "domain": "hopscotchprimarycare.com",
+    "careers_url": "https://boards.greenhouse.io/hopscotchprimarycare",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hopscotchprimarycare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hopscotchprimarycare/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "hotmartcareersbr",
+    "name": "Hotmart",
+    "domain": "hotmartcareersbr.com",
+    "careers_url": "https://boards.greenhouse.io/hotmartcareersbr",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hotmartcareersbr",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hotmartcareersbr/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "hottopic",
+    "name": "Hot Topic & BoxLunch",
+    "domain": "hottopic.com",
+    "careers_url": "https://jobs.lever.co/hottopic",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "hottopic",
+    "api_endpoint": "https://api.lever.co/v0/postings/hottopic?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "lever",
+      "digital-media-entertainment"
+    ]
+  },
+  {
+    "id": "hsag",
+    "name": "Health Services Advisory Group, Inc.",
+    "domain": "hsag.com",
+    "careers_url": "https://jobs.lever.co/hsag",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "hsag",
+    "api_endpoint": "https://api.lever.co/v0/postings/hsag?mode=json",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "lever",
+      "health",
+      "india"
+    ]
+  },
+  {
+    "id": "indicacoesifoodinterno",
+    "name": "iFood Indicações",
+    "domain": "indicacoesifoodinterno.com",
+    "careers_url": "https://boards.greenhouse.io/indicacoesifoodinterno",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "indicacoesifoodinterno",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/indicacoesifoodinterno/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "greenhouse",
+      "d2c-consumer-brands"
+    ]
+  },
+  {
+    "id": "ixigo",
+    "name": "ixigo (Le Travenues Technology)",
+    "domain": "ixigo.com",
+    "careers_url": "https://careers.smartrecruiters.com/ixigo",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "ixigo",
+    "tags": [
+      "travel",
+      "ota",
+      "flights",
+      "trains",
+      "gurugram",
+      "india",
+      "smartrecruiters",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/ixigo/postings?limit=100"
+  },
+  {
+    "id": "jungleegames",
+    "name": "Junglee Games",
+    "domain": "jungleegames.com",
+    "careers_url": "https://careers.smartrecruiters.com/jungleegames",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "jungleegames",
+    "tags": [
+      "gaming",
+      "entertainment",
+      "digital-media",
+      "gurugram",
+      "india",
+      "smartrecruiters",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/jungleegames/postings?limit=100"
+  },
+  {
+    "id": "pilgrim",
+    "name": "Pilgrim Beauty",
+    "domain": "discoverpilgrim.com",
+    "careers_url": "https://jobs.ashbyhq.com/pilgrim",
+    "industry": "D2C & Consumer Brands",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "pilgrim",
+    "tags": [
+      "d2c",
+      "beauty",
+      "cosmetics",
+      "mumbai",
+      "india",
+      "ashby",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/pilgrim"
+  },
+  {
+    "id": "pocketfm",
+    "name": "Pocket FM",
+    "domain": "pocketfm.com",
+    "careers_url": "https://jobs.lever.co/pocketfm",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "pocketfm",
+    "tags": [
+      "digital-media",
+      "audio",
+      "entertainment",
+      "bengaluru",
+      "india",
+      "lever",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://api.lever.co/v0/postings/pocketfm?mode=json"
+  },
+  {
+    "id": "tangotherapeutics",
+    "name": "Tango Therapeutics",
+    "domain": "tangotherapeutics.com",
+    "careers_url": "https://boards.greenhouse.io/tangotherapeutics",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tangotherapeutics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tangotherapeutics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "therapeutics",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "tazewellpikeanimalclinic",
+    "name": "Tazewell Pike Animal Clinic",
+    "domain": "tazewellpikeanimalclinic.com",
+    "careers_url": "https://boards.greenhouse.io/tazewellpikeanimalclinic",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tazewellpikeanimalclinic",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tazewellpikeanimalclinic/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "clinic"
+    ]
+  },
+  {
+    "id": "thehealthmanagementacademy",
+    "name": "The Health Management Academy",
+    "domain": "thehealthmanagementacademy.com",
+    "careers_url": "https://boards.greenhouse.io/thehealthmanagementacademy",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "thehealthmanagementacademy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/thehealthmanagementacademy/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "health",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "tiltingfuturescareers",
+    "name": "Tilting Futures",
+    "domain": "tiltingfuturescareers.com",
+    "careers_url": "https://boards.greenhouse.io/tiltingfuturescareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tiltingfuturescareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tiltingfuturescareers/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "tonixpharmaceuticals",
+    "name": "Tonix Pharmaceuticals",
+    "domain": "tonixpharmaceuticals.com",
+    "careers_url": "https://boards.greenhouse.io/tonixpharmaceuticals",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tonixpharmaceuticals",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tonixpharmaceuticals/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "pharma-life-sciences",
+      "pharmaceutical",
+      "india-consumer",
+      "greenhouse",
+      "pharma"
+    ]
+  },
+  {
+    "id": "totalbond",
+    "name": "TotalBond Veterinary Hospitals",
+    "domain": "totalbond.com",
+    "careers_url": "https://boards.greenhouse.io/totalbond",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "totalbond",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/totalbond/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "hospital"
+    ]
+  },
+  {
+    "id": "transnetyxcareers",
+    "name": "Transnetyx",
+    "domain": "transnetyxcareers.com",
+    "careers_url": "https://boards.greenhouse.io/transnetyxcareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "transnetyxcareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/transnetyxcareers/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "treelinebiosciences",
+    "name": "Treeline Biosciences",
+    "domain": "treelinebiosciences.com",
+    "careers_url": "https://boards.greenhouse.io/treelinebiosciences",
+    "industry": "Pharma & Life Sciences",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "treelinebiosciences",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/treelinebiosciences/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "pharma-life-sciences",
+      "greenhouse"
+    ]
+  },
+  {
+    "id": "tripscout",
+    "name": "@hotel",
+    "domain": "tripscout.com",
+    "careers_url": "https://jobs.lever.co/tripscout",
+    "industry": "Travel & Hospitality",
+    "hq_location": "Global Remote / Tech Hub",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "tripscout",
+    "api_endpoint": "https://api.lever.co/v0/postings/tripscout?mode=json",
+    "is_verified": true,
+    "tags": [
+      "travel-hospitality",
+      "trip",
+      "lever",
+      "india-consumer",
+      "hotel"
+    ]
+  },
+  {
+    "id": "turnkeycareers",
+    "name": "Turnkey",
+    "domain": "turnkeycareers.com",
+    "careers_url": "https://boards.greenhouse.io/turnkeycareers",
+    "industry": "Healthcare & HealthTech",
+    "hq_location": "Remote / India Eligible",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "turnkeycareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/turnkeycareers/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "india-consumer",
+      "healthcare-healthtech",
+      "greenhouse",
+      "india"
+    ]
+  },
+  {
+    "id": "verse-innovation",
+    "name": "VerSe Innovation (Dailyhunt / Josh)",
+    "domain": "verse.in",
+    "careers_url": "https://boards.greenhouse.io/verse",
+    "industry": "Digital Media & Entertainment",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "verse",
+    "tags": [
+      "digital-media",
+      "content",
+      "news",
+      "video",
+      "bengaluru",
+      "india",
+      "greenhouse",
+      "india-consumer"
+    ],
+    "is_verified": true,
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/verse/jobs?content=true"
+  }
+]
