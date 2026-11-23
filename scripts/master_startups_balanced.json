@@ -1,0 +1,6383 @@
+[
+  {
+    "id": "1clicklogisticsltd",
+    "name": "1 Click Logistics LTD",
+    "domain": "1clicklogisticsltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/1ClickLogisticsLTD",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "1clicklogisticsltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/1clicklogisticsltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "1legacyhealthcare",
+    "name": "1 Legacy Health Care",
+    "domain": "1legacyhealthcare.com",
+    "careers_url": "https://careers.smartrecruiters.com/1LegacyHealthCare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "1legacyhealthcare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/1legacyhealthcare/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "1stlogisticscourierservices",
+    "name": "1st Logistics Courier Services",
+    "domain": "1stlogisticscourierservices.com",
+    "careers_url": "https://careers.smartrecruiters.com/1stLogisticsCourierServices",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "1stlogisticscourierservices",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/1stlogisticscourierservices/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "22ndcenturytechnologiesinc",
+    "name": "22nd Century Technologies Inc.",
+    "domain": "22ndcenturytechnologiesinc.com",
+    "careers_url": "https://careers.smartrecruiters.com/22ndCenturyTechnologiesInc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "22ndcenturytechnologiesinc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/22ndcenturytechnologiesinc/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "315logisticsllc",
+    "name": "315 Logistics LLC",
+    "domain": "315logisticsllc.com",
+    "careers_url": "https://careers.smartrecruiters.com/315logisticsllc",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "315logisticsllc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/315logisticsllc/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "365healthservicesllc",
+    "name": "365 Health Services LLC",
+    "domain": "365healthservicesllc.com",
+    "careers_url": "https://careers.smartrecruiters.com/365HealthServicesLLC",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "365healthservicesllc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/365healthservicesllc/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "3yhealth",
+    "name": "3Y Health",
+    "domain": "3y-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/3y-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "3y-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "5inewebsolutionspvtltd",
+    "name": "5ine Web Solutions Pvt Ltd",
+    "domain": "5inewebsolutionspvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/5ineWebSolutionsPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "5inewebsolutionspvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/5inewebsolutionspvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aahanquickgharinfratechpvtltd",
+    "name": "Aahan Quickghar Infratech Pvt. Ltd.",
+    "domain": "aahanquickgharinfratechpvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AahanQuickgharInfratechPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "aahanquickgharinfratechpvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/aahanquickgharinfratechpvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aarikaproductionsprivatelimited",
+    "name": "Aarika Productions Private Limited",
+    "domain": "aarikaproductionsprivatelimited.com",
+    "careers_url": "https://careers.smartrecruiters.com/AarikaProductionsPrivateLimited",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "aarikaproductionsprivatelimited",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/aarikaproductionsprivatelimited/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aarnahrsolutionspvtltd",
+    "name": "Aarna HR Solutions Pvt Ltd",
+    "domain": "aarnahrsolutionspvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AarnaHRSolutionsPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "aarnahrsolutionspvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/aarnahrsolutionspvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "abarcahealthllc",
+    "name": "abarca health LLC",
+    "domain": "abarcahealthllc.com",
+    "careers_url": "https://careers.smartrecruiters.com/AbarcaHealthLLC",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "abarcahealthllc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/abarcahealthllc/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "abbieitmartpvtltd",
+    "name": "Abbie IT Mart Pvt. Ltd.",
+    "domain": "abbieitmartpvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AbbieITMartPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "abbieitmartpvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/abbieitmartpvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "abhibus",
+    "name": "AbhiBus",
+    "domain": "abhibus.com",
+    "careers_url": "https://careers.smartrecruiters.com/abhibus",
+    "industry": "Travel Tech / Bus Ticketing",
+    "hq_location": "Hyderabad, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "abhibus",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/abhibus/postings?limit=100",
+    "tags": [
+      "travel",
+      "mobility",
+      "hyderabad"
+    ]
+  },
+  {
+    "id": "ablysoftpvtltd",
+    "name": "Ablysoft Pvt Ltd",
+    "domain": "ablysoftpvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AblysoftPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "ablysoftpvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/ablysoftpvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "absolutewatertechnologies",
+    "name": "Absolute Water Technologies",
+    "domain": "absolutewatertechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/AbsoluteWaterTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "absolutewatertechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/absolutewatertechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "accantohealth858accanto858",
+    "name": "Accanto Health",
+    "domain": "accantohealth858accanto858.com",
+    "careers_url": "https://job-boards.greenhouse.io/accantohealth858accanto858",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accantohealth858accanto858",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accantohealth858accanto858/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "acceldata",
+    "name": "Acceldata",
+    "domain": "acceldata.io",
+    "careers_url": "https://jobs.lever.co/acceldata",
+    "industry": "Data Observability / SaaS",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "acceldata",
+    "api_endpoint": "https://api.lever.co/v0/postings/acceldata?mode=json",
+    "tags": [
+      "data",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "accesshealthca",
+    "name": "Access Healthcare Associates",
+    "domain": "accesshealthca.com",
+    "careers_url": "https://job-boards.greenhouse.io/accesshealthca",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accesshealthca",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accesshealthca/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "accesshealthcare",
+    "name": "Access Healthcare",
+    "domain": "accesshealthcare.com",
+    "careers_url": "https://careers.smartrecruiters.com/AccessHealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "accesshealthcare",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/accesshealthcare/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "accompanyhealth",
+    "name": "Accompany Health",
+    "domain": "accompanyhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/accompanyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accompanyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accompanyhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "accretivehealth1",
+    "name": "Accretive Health",
+    "domain": "accretivehealth1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AccretiveHealth1",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "accretivehealth1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/accretivehealth1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "accustertechnologiespvtltd",
+    "name": "Accuster Technologies Pvt Ltd",
+    "domain": "accustertechnologiespvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AccusterTechnologiesPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "accustertechnologiespvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/accustertechnologiespvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "acentriatechnologiespltd",
+    "name": "Acentria Technologies (P) Ltd.",
+    "domain": "acentriatechnologiespltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AcentriaTechnologiesPLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "acentriatechnologiespltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/acentriatechnologiespltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aceturtleservicespvtltd",
+    "name": "Ace Turtle Services Pvt Ltd",
+    "domain": "aceturtleservicespvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AceTurtleServicesPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "aceturtleservicespvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/aceturtleservicespvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "achievementcenteroflecomhealth",
+    "name": "Achievement Center of LECOM Health",
+    "domain": "achievementcenteroflecomhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/achievementcenteroflecomhealth",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "achievementcenteroflecomhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/achievementcenteroflecomhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "acommerce",
+    "name": "aCommerce",
+    "domain": "acommerce.com",
+    "careers_url": "https://job-boards.greenhouse.io/acommerce",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acommerce",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acommerce/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "acornhealth",
+    "name": "Acorn Health",
+    "domain": "acornhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/acornhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acornhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acornhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "acrobytetechnologies",
+    "name": "Acrobyte Technologies",
+    "domain": "acrobytetechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/AcrobyteTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "acrobytetechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/acrobytetechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "acselhealth",
+    "name": "Acselhealth",
+    "domain": "acselhealth.com",
+    "careers_url": "https://jobs.lever.co/acselhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "acselhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/acselhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "activespacetechnologies",
+    "name": "Active Space Technologies",
+    "domain": "activespacetechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/ActiveSpaceTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "activespacetechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/activespacetechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "acurussolutions",
+    "name": "Acurus Solutions Private Limited",
+    "domain": "acurussolutions.com",
+    "careers_url": "https://job-boards.greenhouse.io/acurussolutions",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acurussolutions",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acurussolutions/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aczetpvtltd",
+    "name": "Aczet Pvt. Ltd.",
+    "domain": "aczetpvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AczetPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "aczetpvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/aczetpvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adahealth",
+    "name": "Ada Health GmbH",
+    "domain": "adahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/adahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "adaptivebiotechnologies",
+    "name": "Adaptive Biotechnologies",
+    "domain": "adaptivebiotechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/adaptivebiotechnologies",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adaptivebiotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adaptivebiotechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "addonsolutionspvtltd",
+    "name": "Addon Solutions Pvt Ltd",
+    "domain": "addonsolutionspvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AddonSolutionsPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "addonsolutionspvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/addonsolutionspvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "addontechnologiesinc1",
+    "name": "Addon Technologies Inc",
+    "domain": "addontechnologiesinc1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AddonTechnologiesInc1",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "addontechnologiesinc1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/addontechnologiesinc1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adeebaeservicespvtltd",
+    "name": "Adeeba e Services Pvt. Ltd.",
+    "domain": "adeebaeservicespvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdeebaEServicesPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "adeebaeservicespvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/adeebaeservicespvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adeebaeservicespvtltd2",
+    "name": "Adeeba E Services Pvt Ltd",
+    "domain": "adeebaeservicespvtltd2.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdeebaEServicesPvtLtd2",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "adeebaeservicespvtltd2",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/adeebaeservicespvtltd2/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adeebaeservicespvtltd3",
+    "name": "AdeebaEServicesPvt.Ltd",
+    "domain": "adeebaeservicespvtltd3.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdeebaEServicesPvtLtd3",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "adeebaeservicespvtltd3",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/adeebaeservicespvtltd3/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adora",
+    "name": "Adora Technologies Inc",
+    "domain": "adora.com",
+    "careers_url": "https://jobs.lever.co/adora",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "adora",
+    "api_endpoint": "https://api.lever.co/v0/postings/adora?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adroitservepvtltd",
+    "name": "Adroitserve Pvt. Ltd.",
+    "domain": "adroitservepvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdroitservePvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "adroitservepvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/adroitservepvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "advantinetechnologies",
+    "name": "Advantine Technologies",
+    "domain": "advantinetechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdvantineTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "advantinetechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/advantinetechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adventisthealthsystem",
+    "name": "Adventist Health System",
+    "domain": "adventisthealthsystem.com",
+    "careers_url": "https://careers.smartrecruiters.com/AdventistHealthSystem",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "adventisthealthsystem",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/adventisthealthsystem/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "adverum",
+    "name": "Adverum Biotechnologies, Inc.",
+    "domain": "adverum.com",
+    "careers_url": "https://jobs.lever.co/adverum",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "adverum",
+    "api_endpoint": "https://api.lever.co/v0/postings/adverum?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "adwainternationallogistics",
+    "name": "ADWA International Logistics",
+    "domain": "adwainternationallogistics.com",
+    "careers_url": "https://careers.smartrecruiters.com/ADWAInternationalLogistics",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "adwainternationallogistics",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/adwainternationallogistics/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "afslogisticsltd",
+    "name": "AFS Logistics ltd",
+    "domain": "afslogisticsltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AFSLogisticsLtd",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "afslogisticsltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/afslogisticsltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "agaptechnologies",
+    "name": "Agap Technologies",
+    "domain": "agaptechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/AgapTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "agaptechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/agaptechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "agilenttechnologies1",
+    "name": "Agilent Technologies",
+    "domain": "agilenttechnologies1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AgilentTechnologies1",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "agilenttechnologies1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/agilenttechnologies1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "agilenttechnologies2",
+    "name": "Agilent Technologies",
+    "domain": "agilenttechnologies2.com",
+    "careers_url": "https://careers.smartrecruiters.com/AgilentTechnologies2",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "agilenttechnologies2",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/agilenttechnologies2/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "ahschc",
+    "name": "Asian Health Services",
+    "domain": "ahschc.com",
+    "careers_url": "https://jobs.lever.co/ahschc",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "ahschc",
+    "api_endpoint": "https://api.lever.co/v0/postings/ahschc?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "aimdektechnologiespvtltd",
+    "name": "AIMDek Technologies Pvt. LTd.",
+    "domain": "aimdektechnologiespvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AIMDekTechnologiesPvtLTd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "aimdektechnologiespvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/aimdektechnologiespvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aizerhealth",
+    "name": "Aizer Health",
+    "domain": "aizerhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/aizerhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aizerhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aizerhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "akpowerlogistics",
+    "name": "AK POWER LOGISTICS",
+    "domain": "akpowerlogistics.com",
+    "careers_url": "https://careers.smartrecruiters.com/AKPOWERLOGISTICS",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "akpowerlogistics",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/akpowerlogistics/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "akuvainfotechpvtltd",
+    "name": "Akuva Infotech Pvt. Ltd.",
+    "domain": "akuvainfotechpvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AkuvaInfotechPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "akuvainfotechpvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/akuvainfotechpvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "alemhealth",
+    "name": "AlemHealth",
+    "domain": "alemhealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlemHealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alemhealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alemhealth/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "alertus",
+    "name": "Alertus Technologies",
+    "domain": "alertus.com",
+    "careers_url": "https://jobs.lever.co/alertus",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "alertus",
+    "api_endpoint": "https://api.lever.co/v0/postings/alertus?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "algorex",
+    "name": "N1 Health",
+    "domain": "algorex.com",
+    "careers_url": "https://jobs.lever.co/algorex",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "algorex",
+    "api_endpoint": "https://api.lever.co/v0/postings/algorex?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "allcarehomehealth",
+    "name": "All Care Home Health",
+    "domain": "allcarehomehealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllCareHomeHealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "allcarehomehealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/allcarehomehealth/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "allcountyhomehealthhospice",
+    "name": "All County Home Health & Hospice",
+    "domain": "allcountyhomehealthhospice.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllCountyHomeHealthHospice",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "allcountyhomehealthhospice",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/allcountyhomehealthhospice/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "allhealth",
+    "name": "all.health",
+    "domain": "all.health.com",
+    "careers_url": "https://jobs.lever.co/all.health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "all.health",
+    "api_endpoint": "https://api.lever.co/v0/postings/all.health?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "alliancehealthcaresolutions1",
+    "name": "Alliance Healthcare Solutions",
+    "domain": "alliancehealthcaresolutions1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllianceHealthcareSolutions1",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alliancehealthcaresolutions1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alliancehealthcaresolutions1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "alliedhealthgroup",
+    "name": "Allied Health Group",
+    "domain": "alliedhealthgroup.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlliedHealthGroup",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alliedhealthgroup",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alliedhealthgroup/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "allogisticsgroup",
+    "name": "AL LOGISTICS GROUP",
+    "domain": "allogisticsgroup.com",
+    "careers_url": "https://careers.smartrecruiters.com/ALLOGISTICSGROUP",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "allogisticsgroup",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/allogisticsgroup/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "allswellhealthcare2",
+    "name": "Alls Well Healthcare",
+    "domain": "allswellhealthcare2.com",
+    "careers_url": "https://careers.smartrecruiters.com/AllsWellHealthcare2",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "allswellhealthcare2",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/allswellhealthcare2/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "allzonelogisticssl",
+    "name": "ALLZONE LOGISTICS S.L.",
+    "domain": "allzonelogisticssl.com",
+    "careers_url": "https://careers.smartrecruiters.com/ALLZONELOGISTICSSL",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "allzonelogisticssl",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/allzonelogisticssl/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "alom",
+    "name": "ALOM Technologies",
+    "domain": "alom.com",
+    "careers_url": "https://jobs.lever.co/alom",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "alom",
+    "api_endpoint": "https://api.lever.co/v0/postings/alom?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "alphahomehealthandhospice",
+    "name": "Alpha Home Health and Hospice",
+    "domain": "alphahomehealthandhospice.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlphaHomeHealthAndHospice",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alphahomehealthandhospice",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alphahomehealthandhospice/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "alphalogisticsgmbh",
+    "name": "ALPHA Logistics GmbH",
+    "domain": "alphalogisticsgmbh.com",
+    "careers_url": "https://careers.smartrecruiters.com/ALPHALogisticsGmbH",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alphalogisticsgmbh",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alphalogisticsgmbh/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "alphasenseindia",
+    "name": "AlphaSense India",
+    "domain": "alphasenseindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/alphasenseindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "alphasenseindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/alphasenseindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "alphatechnologiesincusa1",
+    "name": "Alpha Technologies Inc USA",
+    "domain": "alphatechnologiesincusa1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlphaTechnologiesIncUSA1",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alphatechnologiesincusa1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alphatechnologiesincusa1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "altamiratechnologies",
+    "name": "Altamira.ai",
+    "domain": "altamiratechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/altamiratechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "altamiratechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/altamiratechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "altaresourcetechnologiesinc",
+    "name": "Alta Resource Technologies, Inc.",
+    "domain": "altaresourcetechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/altaresourcetechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "altaresourcetechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/altaresourcetechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "altegrahealth",
+    "name": "Altegra Health",
+    "domain": "altegrahealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AltegraHealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "altegrahealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/altegrahealth/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "alternativehomehealthcareinc",
+    "name": "Alternative Home Health + Care Inc",
+    "domain": "alternativehomehealthcareinc.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlternativeHomeHealthCareInc",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alternativehomehealthcareinc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alternativehomehealthcareinc/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "alternativepayments",
+    "name": "Alternative Payments",
+    "domain": "alternativepayments.com",
+    "careers_url": "https://jobs.ashbyhq.com/alternativepayments",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "alternativepayments",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "fintech",
+      "india"
+    ]
+  },
+  {
+    "id": "altitudelogisticsservicesllc",
+    "name": "Altitude Logistics Services LLC.",
+    "domain": "altitudelogisticsservicesllc.com",
+    "careers_url": "https://careers.smartrecruiters.com/altitudelogisticsservicesllc",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "altitudelogisticsservicesllc",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/altitudelogisticsservicesllc/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "altruisttechnologiespvtltd1",
+    "name": "Altruist technologies Pvt Ltd",
+    "domain": "altruisttechnologiespvtltd1.com",
+    "careers_url": "https://careers.smartrecruiters.com/AltruistTechnologiesPvtLtd1",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "altruisttechnologiespvtltd1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/altruisttechnologiespvtltd1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "alvaradoparkwayinstituteofbehavi",
+    "name": "Alvarado Parkway Institute of Behavioral Health",
+    "domain": "alvaradoparkwayinstituteofbehavi.com",
+    "careers_url": "https://careers.smartrecruiters.com/AlvaradoParkwayInstituteOfBehavi",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "alvaradoparkwayinstituteofbehavi",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/alvaradoparkwayinstituteofbehavi/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "amaehealth",
+    "name": "Amae Health",
+    "domain": "amaehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/amaehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "amaehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/amaehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "amanzitechnologiespvtltd",
+    "name": "Amanzi Technologies Pvt. Ltd.",
+    "domain": "amanzitechnologiespvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AmanziTechnologiesPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "amanzitechnologiespvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/amanzitechnologiespvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "ambiencehealthcare",
+    "name": "Ambience Healthcare",
+    "domain": "ambiencehealthcare.com",
+    "careers_url": "https://jobs.ashbyhq.com/ambiencehealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "ambiencehealthcare",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "amenitieshealth",
+    "name": "Amenities Health",
+    "domain": "amenitieshealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AmenitiesHealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "amenitieshealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/amenitieshealth/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "americanhealthplans",
+    "name": "American Health Plans",
+    "domain": "americanhealthplans.com",
+    "careers_url": "https://careers.smartrecruiters.com/AmericanHealthPlans",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "americanhealthplans",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/americanhealthplans/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "americanpublichealthassociation",
+    "name": "American Public Health Association",
+    "domain": "americanpublichealthassociation.com",
+    "careers_url": "https://job-boards.greenhouse.io/americanpublichealthassociation",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "americanpublichealthassociation",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/americanpublichealthassociation/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "amisofttechnologieslimited",
+    "name": "Amisoft Technologies Limited",
+    "domain": "amisofttechnologieslimited.com",
+    "careers_url": "https://careers.smartrecruiters.com/AmisoftTechnologiesLimited",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "amisofttechnologieslimited",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/amisofttechnologieslimited/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "amlhealthcoaching",
+    "name": "AML Health Coaching",
+    "domain": "amlhealthcoaching.com",
+    "careers_url": "https://careers.smartrecruiters.com/AMLHealthCoaching",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "amlhealthcoaching",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/amlhealthcoaching/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "amlogisticsgroupltd",
+    "name": "AM Logistics Group Ltd",
+    "domain": "amlogisticsgroupltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AMLogisticsGroupLtd",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "amlogisticsgroupltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/amlogisticsgroupltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "anastechnologies",
+    "name": "Anas Technologies",
+    "domain": "anastechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/AnasTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "anastechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/anastechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "anaxeedigitalrunnersprivatelimited",
+    "name": "Anaxee Digital Runners Private Limited",
+    "domain": "anaxeedigitalrunnersprivatelimited.com",
+    "careers_url": "https://careers.smartrecruiters.com/AnaxeeDigitalRunnersPrivateLimited",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "anaxeedigitalrunnersprivatelimited",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/anaxeedigitalrunnersprivatelimited/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "angarosindiapvtltd",
+    "name": "Angaros India Pvt Ltd",
+    "domain": "angarosindiapvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AngarosIndiaPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "angarosindiapvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/angarosindiapvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "angelsofcarepediatrichomehealth",
+    "name": "Angels of Care Pediatric Home Health",
+    "domain": "angelsofcarepediatrichomehealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/AngelsOfCarePediatricHomeHealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "angelsofcarepediatrichomehealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/angelsofcarepediatrichomehealth/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "anglehealth",
+    "name": "Angle Health",
+    "domain": "anglehealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/anglehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "anglehealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "animalnutritionhealthnederlandbv",
+    "name": "Animal Nutrition & Health Nederland B.V.",
+    "domain": "animalnutritionhealthnederlandbv.com",
+    "careers_url": "https://careers.smartrecruiters.com/AnimalNutritionHealthNederlandBV",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "animalnutritionhealthnederlandbv",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/animalnutritionhealthnederlandbv/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "animalnutritionhealthsolutions",
+    "name": "Animal Nutrition & Health Solutions",
+    "domain": "animalnutritionhealthsolutions.com",
+    "careers_url": "https://careers.smartrecruiters.com/AnimalNutritionHealthSolutions",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "animalnutritionhealthsolutions",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/animalnutritionhealthsolutions/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "anrisolutionshrservicespvtltd1",
+    "name": "ANRI Solutions HR Services Pvt. Ltd.",
+    "domain": "anrisolutionshrservicespvtltd1.com",
+    "careers_url": "https://careers.smartrecruiters.com/ANRISolutionsHRServicesPvtLtd1",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "anrisolutionshrservicespvtltd1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/anrisolutionshrservicespvtltd1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "ansiblehealth",
+    "name": "AnsibleHealth Inc.",
+    "domain": "ansiblehealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/ansiblehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "ansiblehealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "anylinuxworkpvtltd",
+    "name": "AnyLinuxWork Pvt Ltd",
+    "domain": "anylinuxworkpvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AnyLinuxWorkPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "anylinuxworkpvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/anylinuxworkpvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "anzutechnologiesprivatelimited",
+    "name": "Anzu Technologies Private Limited",
+    "domain": "anzutechnologiesprivatelimited.com",
+    "careers_url": "https://careers.smartrecruiters.com/AnzuTechnologiesPrivateLimited",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "anzutechnologiesprivatelimited",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/anzutechnologiesprivatelimited/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aottechnologies",
+    "name": "AOT Technologies",
+    "domain": "aottechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/aottechnologies",
+    "industry": "Gaming & Digital Media",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aottechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aottechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "media",
+      "india"
+    ]
+  },
+  {
+    "id": "aperiatechnologies",
+    "name": "Aperia Technologies, Inc",
+    "domain": "aperiatechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/aperiatechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aperiatechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aperiatechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "apertumonlinepvtltd",
+    "name": "Apertum Online Pvt Ltd",
+    "domain": "apertumonlinepvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/ApertumOnlinePvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "apertumonlinepvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/apertumonlinepvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aperturehealth",
+    "name": "Verisys",
+    "domain": "aperturehealth.com",
+    "careers_url": "https://jobs.lever.co/aperturehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "aperturehealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/aperturehealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "apideltechnologies2",
+    "name": "Apidel Technologies",
+    "domain": "apideltechnologies2.com",
+    "careers_url": "https://careers.smartrecruiters.com/ApidelTechnologies2",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "apideltechnologies2",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/apideltechnologies2/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "apollohealthcare1",
+    "name": "Apollo Healthcare",
+    "domain": "apollohealthcare1.com",
+    "careers_url": "https://careers.smartrecruiters.com/ApolloHealthcare1",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "apollohealthcare1",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/apollohealthcare1/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "appliftindiapvtltd",
+    "name": "AppLift India Pvt Ltd",
+    "domain": "appliftindiapvtltd.com",
+    "careers_url": "https://careers.smartrecruiters.com/AppLiftIndiaPvtLtd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "appliftindiapvtltd",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/appliftindiapvtltd/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "appnovation",
+    "name": "Appnovation Technologies",
+    "domain": "appnovation.com",
+    "careers_url": "https://job-boards.greenhouse.io/appnovation",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "appnovation",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/appnovation/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "appnowtechnologies",
+    "name": "Appnow Technologies",
+    "domain": "appnowtechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/AppnowTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "appnowtechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/appnowtechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "appxcryptotechnologies",
+    "name": "APPx Crypto Technologies",
+    "domain": "appxcryptotechnologies.com",
+    "careers_url": "https://careers.smartrecruiters.com/APPxCryptoTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "appxcryptotechnologies",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/appxcryptotechnologies/postings?limit=100",
+    "tags": [
+      "startup",
+      "smartrecruiters",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aquark",
+    "name": "Aquark Technologies Ltd",
+    "domain": "aquark.com",
+    "careers_url": "https://jobs.ashbyhq.com/aquark",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "aquark",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "arbitalhealth",
+    "name": "Arbital Health",
+    "domain": "arbitalhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/arbitalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "arbitalhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/arbitalhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "arizonaliverhealth",
+    "name": "Arizona Liver Health",
+    "domain": "arizonaliverhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/arizonaliverhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "arizonaliverhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/arizonaliverhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "aryahealthai",
+    "name": "Arya Health",
+    "domain": "aryahealth.ai.com",
+    "careers_url": "https://jobs.ashbyhq.com/aryahealth.ai",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "aryahealth.ai",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ascellahealth",
+    "name": "AscellaHealth",
+    "domain": "ascellahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/ascellahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ascellahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ascellahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ascenttechnologies",
+    "name": "Ascent",
+    "domain": "ascenttechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/ascenttechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ascenttechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ascenttechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "aspirehealthalliance",
+    "name": "Aspire Health and Community Services",
+    "domain": "aspirehealthalliance.com",
+    "careers_url": "https://job-boards.greenhouse.io/aspirehealthalliance",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aspirehealthalliance",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aspirehealthalliance/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "assemblyhealth",
+    "name": "Assembly Health",
+    "domain": "assemblyhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/assemblyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "assemblyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/assemblyhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "assorthealth",
+    "name": "Assort Health",
+    "domain": "assorthealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/assorthealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "assorthealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "assuredhealth",
+    "name": "Assured",
+    "domain": "assured-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/assured-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "assured-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "atlan",
+    "name": "Atlan",
+    "domain": "atlan.com",
+    "careers_url": "https://jobs.ashbyhq.com/atlan",
+    "industry": "Data Governance / Active Metadata SaaS",
+    "hq_location": "New Delhi, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "atlan",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "data",
+      "unicorn",
+      "delhi"
+    ]
+  },
+  {
+    "id": "atp",
+    "name": "AT Process Technologies",
+    "domain": "atp.com",
+    "careers_url": "https://jobs.ashbyhq.com/atp",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "atp",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "atroposhealth",
+    "name": "Atropos Health",
+    "domain": "atroposhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/atroposhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "atroposhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "augusthealth",
+    "name": "August Health",
+    "domain": "august-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/august-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "august-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "aviahealth",
+    "name": "AVIA",
+    "domain": "aviahealth.com",
+    "careers_url": "https://jobs.lever.co/aviahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "aviahealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/aviahealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ayblehealth",
+    "name": "Ayble Health",
+    "domain": "ayblehealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/ayblehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "ayblehealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bayesianhealth",
+    "name": "Bayesian Health, Inc.",
+    "domain": "bayesianhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/bayesianhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "bayesianhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "belonghealth",
+    "name": "Belong Health",
+    "domain": "belonghealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/belonghealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "belonghealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/belonghealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "benchmarkhealth",
+    "name": "Benchmark Health",
+    "domain": "benchmarkhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/benchmarkhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "benchmarkhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bighealth",
+    "name": "Big Health",
+    "domain": "bighealth.com",
+    "careers_url": "https://jobs.lever.co/bighealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "bighealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/bighealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bigleaphealth",
+    "name": "Big Leap Health",
+    "domain": "big-leap-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/big-leap-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "big-leap-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "blackbirdhealth",
+    "name": "Blackbird Health",
+    "domain": "blackbirdhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/blackbirdhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "blackbirdhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/blackbirdhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "blinkhealth",
+    "name": "Blink Health",
+    "domain": "blinkhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/blinkhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "blinkhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/blinkhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "blossomhealth",
+    "name": "Blossom Health",
+    "domain": "blossom-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/blossom-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "blossom-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bluebirdkidshealth",
+    "name": "Bluebird Kids Health",
+    "domain": "bluebirdkidshealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/bluebirdkidshealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bluebirdkidshealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bluebirdkidshealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bluelinkwireless",
+    "name": "Blue Link Wireless an Authorized Retailer of AT&T",
+    "domain": "bluelinkwireless.com",
+    "careers_url": "https://job-boards.greenhouse.io/bluelinkwireless",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bluelinkwireless",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bluelinkwireless/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "bluevineindia",
+    "name": "Bluevine - India",
+    "domain": "bluevineindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/bluevineindia",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bluevineindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bluevineindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "boon",
+    "name": "Boon Technologies, Inc.",
+    "domain": "boon.com",
+    "careers_url": "https://jobs.ashbyhq.com/boon",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "boon",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "bottomlinetechnologies",
+    "name": "Bottomline",
+    "domain": "bottomlinetechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/bottomlinetechnologies",
+    "industry": "Gaming & Digital Media",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bottomlinetechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bottomlinetechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "media",
+      "india"
+    ]
+  },
+  {
+    "id": "bounce",
+    "name": "Bounce",
+    "domain": "bounceinfinity.com",
+    "careers_url": "https://jobs.ashbyhq.com/bounce",
+    "industry": "Mobility / EV",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "bounce",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "mobility",
+      "ev",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "bridgeway",
+    "name": "Bridgeway Benefit Technologies",
+    "domain": "bridgeway.com",
+    "careers_url": "https://job-boards.greenhouse.io/bridgeway",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bridgeway",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bridgeway/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "brigadehealth",
+    "name": "Brigade Health",
+    "domain": "brigadehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/brigadehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "brigadehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/brigadehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "brooklynhealth",
+    "name": "Brooklyn Health",
+    "domain": "brooklyn-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/brooklyn-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "brooklyn-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bswiftindia",
+    "name": "bswift India",
+    "domain": "bswiftindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/bswiftindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bswiftindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bswiftindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "bunkerhillhealth",
+    "name": "Bunkerhill Health",
+    "domain": "bunkerhillhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/bunkerhillhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "bunkerhillhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bureau",
+    "name": "Bureau ID",
+    "domain": "bureau.id",
+    "careers_url": "https://jobs.ashbyhq.com/bureau",
+    "industry": "Fintech / Fraud Prevention & Identity",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "bureau",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "fintech",
+      "security",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "bythebayhealth",
+    "name": "By the Bay Health",
+    "domain": "bythebayhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/bythebayhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bythebayhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bythebayhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "calahealth",
+    "name": "Cala Health",
+    "domain": "calahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/calahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "calahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/calahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "caliberhealth",
+    "name": "Caliber Healthcare Solutions",
+    "domain": "caliberhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/caliberhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "caliberhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/caliberhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "calizafinancialtechnologies",
+    "name": "Caliza",
+    "domain": "caliza-financial-technologies.com",
+    "careers_url": "https://jobs.lever.co/caliza-financial-technologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "caliza-financial-technologies",
+    "api_endpoint": "https://api.lever.co/v0/postings/caliza-financial-technologies?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "canarytechnologies",
+    "name": "Canary Technologies Corp",
+    "domain": "canarytechnologies.com",
+    "careers_url": "https://jobs.lever.co/canarytechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "canarytechnologies",
+    "api_endpoint": "https://api.lever.co/v0/postings/canarytechnologies?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "candidhealth",
+    "name": "Candid Health",
+    "domain": "candidhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/candidhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "candidhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "captainfresh",
+    "name": "Captain Fresh",
+    "domain": "captainfresh.in",
+    "careers_url": "https://careers.smartrecruiters.com/captainfresh",
+    "industry": "B2B Supply Chain / Seafood",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "captainfresh",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/captainfresh/postings?limit=100",
+    "tags": [
+      "b2b",
+      "supplychain",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "carbonhealth",
+    "name": "Carbon Health",
+    "domain": "carbonhealth.com",
+    "careers_url": "https://jobs.lever.co/carbonhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "carbonhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/carbonhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "caretalkhealth",
+    "name": "CareTalk Health",
+    "domain": "caretalkhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/caretalkhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "caretalkhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/caretalkhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cars24",
+    "name": "CARS24",
+    "domain": "cars24.com",
+    "careers_url": "https://careers.smartrecruiters.com/cars24",
+    "industry": "AutoTech / Used Cars Marketplace",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "cars24",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/cars24/postings?limit=100",
+    "tags": [
+      "autotech",
+      "ecommerce",
+      "unicorn",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "cartahealthcare",
+    "name": "Carta Healthcare",
+    "domain": "cartahealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/cartahealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cartahealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cartahealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cascalahealth",
+    "name": "Cascala Health",
+    "domain": "cascalahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/cascalahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cascalahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cascalahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "centriahealthcare",
+    "name": "Centria Healthcare",
+    "domain": "centriahealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/centriahealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "centriahealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/centriahealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "centrumhealth",
+    "name": "Centrum Health",
+    "domain": "centrumhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/centrumhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "centrumhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/centrumhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "centuryhealth",
+    "name": "Century Health",
+    "domain": "century.health.com",
+    "careers_url": "https://jobs.ashbyhq.com/century.health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "century.health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthbehavioralhealthoperations",
+    "name": "Charlie Health Behavioral Health Operations",
+    "domain": "charliehealthbehavioralhealthoperations.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthbehavioralhealthoperations",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthbehavioralhealthoperations",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthbehavioralhealthoperations/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthclinical",
+    "name": "Charlie Health Clinical",
+    "domain": "charliehealthclinical.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthclinical",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthclinical",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthclinical/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthepd",
+    "name": "Charlie Health Engineering, Product & Design",
+    "domain": "charliehealthepd.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthepd",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthepd",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthepd/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthoutreach",
+    "name": "Charlie Health Outreach",
+    "domain": "charliehealthoutreach.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthoutreach",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthoutreach",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthoutreach/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthstrategyoperations",
+    "name": "Charlie Health Strategy & Operations",
+    "domain": "charliehealthstrategyoperations.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthstrategyoperations",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthstrategyoperations",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthstrategyoperations/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cipherminingtechnologiesinc",
+    "name": "Cipher Digital",
+    "domain": "cipherminingtechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/cipherminingtechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cipherminingtechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cipherminingtechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "citrushealthgroup",
+    "name": "Citrus Health Group, Inc",
+    "domain": "citrushealthgroup.com",
+    "careers_url": "https://job-boards.greenhouse.io/citrushealthgroup",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "citrushealthgroup",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/citrushealthgroup/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "clarifyhealth",
+    "name": "Clarify Health",
+    "domain": "clarifyhealth.com",
+    "careers_url": "https://jobs.lever.co/clarifyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "clarifyhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/clarifyhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "clarishealth62",
+    "name": "ClarisHealth",
+    "domain": "clarishealth62.com",
+    "careers_url": "https://job-boards.greenhouse.io/clarishealth62",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clarishealth62",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clarishealth62/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cleancroptech",
+    "name": "Clean Crop Technologies, Inc.",
+    "domain": "cleancroptech.com",
+    "careers_url": "https://job-boards.greenhouse.io/cleancroptech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cleancroptech",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cleancroptech/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "clear",
+    "name": "Clear",
+    "domain": "clear.in",
+    "careers_url": "https://clear.in/careers",
+    "industry": "Fintech / Tax Compliance",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clear",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clear/jobs?content=true",
+    "tags": [
+      "fintech",
+      "saas",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "clearlinktechnologiesllc",
+    "name": "Clearlink Technologies, LLC",
+    "domain": "clearlinktechnologiesllc.com",
+    "careers_url": "https://job-boards.greenhouse.io/clearlinktechnologiesllc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clearlinktechnologiesllc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clearlinktechnologiesllc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "clearviewhealthcarepartners",
+    "name": "ClearView Healthcare Partners",
+    "domain": "clearviewhealthcarepartners.com",
+    "careers_url": "https://job-boards.greenhouse.io/clearviewhealthcarepartners",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clearviewhealthcarepartners",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clearviewhealthcarepartners/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cleerlyhealth",
+    "name": "Cleerly",
+    "domain": "cleerlyhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/cleerlyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cleerlyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cleerlyhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "clinicalhealthnetworkfortransformation",
+    "name": "Clinical Health Network For Transformation",
+    "domain": "clinicalhealthnetworkfortransformation.com",
+    "careers_url": "https://jobs.lever.co/ClinicalHealthNetworkForTransformation",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "clinicalhealthnetworkfortransformation",
+    "api_endpoint": "https://api.lever.co/v0/postings/clinicalhealthnetworkfortransformation?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "clutch",
+    "name": "Clutch Technologies Inc.",
+    "domain": "clutch.com",
+    "careers_url": "https://job-boards.greenhouse.io/clutch",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clutch",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clutch/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "collahealth",
+    "name": "Colla Health",
+    "domain": "collahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/collahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "collahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/collahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "collegedekho",
+    "name": "CollegeDekho",
+    "domain": "collegedekho.com",
+    "careers_url": "https://careers.smartrecruiters.com/collegedekho",
+    "industry": "EdTech / Counseling",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "collegedekho",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/collegedekho/postings?limit=100",
+    "tags": [
+      "edtech",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "commercearchitects",
+    "name": "Commerce Architects",
+    "domain": "commercearchitects.com",
+    "careers_url": "https://jobs.lever.co/commercearchitects",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "commercearchitects",
+    "api_endpoint": "https://api.lever.co/v0/postings/commercearchitects?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "commerceundergraduate",
+    "name": "Commerce Undergraduate Society",
+    "domain": "commerce-undergraduate.com",
+    "careers_url": "https://jobs.lever.co/commerce-undergraduate",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "commerce-undergraduate",
+    "api_endpoint": "https://api.lever.co/v0/postings/commerce-undergraduate?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "concerthealth",
+    "name": "Concert Health",
+    "domain": "concerthealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/concerthealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "concerthealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/concerthealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cordtechnologies",
+    "name": "Encord",
+    "domain": "cordtechnologies.com",
+    "careers_url": "https://jobs.lever.co/CordTechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "cordtechnologies",
+    "api_endpoint": "https://api.lever.co/v0/postings/cordtechnologies?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "counsel",
+    "name": "Counsel Health",
+    "domain": "counsel.com",
+    "careers_url": "https://jobs.ashbyhq.com/counsel",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "counsel",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cred",
+    "name": "CRED",
+    "domain": "cred.club",
+    "careers_url": "https://careers.cred.club",
+    "industry": "Fintech / Rewards",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "cred",
+    "api_endpoint": "https://api.lever.co/v0/postings/cred?mode=json",
+    "is_verified": true,
+    "tags": [
+      "fintech",
+      "unicorn",
+      "credit",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "croihealth",
+    "name": "Croí Health",
+    "domain": "croihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/croihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "croihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/croihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "crosslaketech",
+    "name": "Crosslake Technologies LLC",
+    "domain": "crosslaketech.com",
+    "careers_url": "https://jobs.lever.co/crosslaketech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "crosslaketech",
+    "api_endpoint": "https://api.lever.co/v0/postings/crosslaketech?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "csit",
+    "name": "Centre for Strategic Infocomm Technologies",
+    "domain": "csit.com",
+    "careers_url": "https://jobs.lever.co/csit",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "csit",
+    "api_endpoint": "https://api.lever.co/v0/postings/csit?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "cybermediatechnologies",
+    "name": "CyberMedia Technologies",
+    "domain": "cybermediatechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/cybermediatechnologies",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cybermediatechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cybermediatechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cynlr",
+    "name": "CynLr",
+    "domain": "cynlr.com",
+    "careers_url": "https://jobs.ashbyhq.com/cynlr",
+    "industry": "Robotics & Visual Cybernetics",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "cynlr",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "robotics",
+      "ai",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "dandelionhealth",
+    "name": "Dandelion Health Inc",
+    "domain": "dandelionhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/dandelionhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "dandelionhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "danielssharpsmart",
+    "name": "Daniels Health",
+    "domain": "daniels-sharpsmart.com",
+    "careers_url": "https://jobs.lever.co/daniels-sharpsmart",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "daniels-sharpsmart",
+    "api_endpoint": "https://api.lever.co/v0/postings/daniels-sharpsmart?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "decodahealth",
+    "name": "Decoda Health",
+    "domain": "decodahealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/decodahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "decodahealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "definitivehcindia",
+    "name": "Definitive Healthcare, India",
+    "domain": "definitivehcindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/definitivehcindia",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "definitivehcindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/definitivehcindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "develophealth",
+    "name": "Develop Health",
+    "domain": "develop-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/develop-health",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "develop-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "devrev",
+    "name": "DevRev",
+    "domain": "devrev.ai",
+    "careers_url": "https://boards.greenhouse.io/devrev",
+    "industry": "Developer Tools / AI CRM",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "devrev",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/devrev/jobs?content=true",
+    "tags": [
+      "saas",
+      "ai",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "dexcarehealth",
+    "name": "DexCare",
+    "domain": "dexcarehealth.com",
+    "careers_url": "https://jobs.lever.co/dexcarehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "dexcarehealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/dexcarehealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "digit",
+    "name": "Digit Insurance",
+    "domain": "godigit.com",
+    "careers_url": "https://boards.greenhouse.io/digit",
+    "industry": "InsurTech / General Insurance",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "digit",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/digit/jobs?content=true",
+    "tags": [
+      "insurtech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "distance",
+    "name": "Distance Technologies",
+    "domain": "distance.com",
+    "careers_url": "https://jobs.ashbyhq.com/distance",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "distance",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "dnagenotek",
+    "name": "OraSure Technologies Inc.",
+    "domain": "dnagenotek.com",
+    "careers_url": "https://jobs.lever.co/dnagenotek",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "dnagenotek",
+    "api_endpoint": "https://api.lever.co/v0/postings/dnagenotek?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "ekohealth",
+    "name": "Eko",
+    "domain": "ekohealth.com",
+    "careers_url": "https://jobs.lever.co/ekohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "ekohealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/ekohealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "eli",
+    "name": "Eli Health",
+    "domain": "eli.com",
+    "careers_url": "https://jobs.ashbyhq.com/eli",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "eli",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ellipsishealth",
+    "name": "Ellipsis Health",
+    "domain": "ellipsis-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/ellipsis-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "ellipsis-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "empo20health",
+    "name": "Empo Health",
+    "domain": "empo%20health.com",
+    "careers_url": "https://jobs.ashbyhq.com/empo%20health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "empo%20health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "enarahealth",
+    "name": "Enara Health",
+    "domain": "enarahealth.com",
+    "careers_url": "https://jobs.lever.co/EnaraHealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "enarahealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/enarahealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "enlacehealth",
+    "name": "Enlace Health",
+    "domain": "enlacehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/enlacehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "enlacehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/enlacehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "epifi",
+    "name": "Epifi Technologies",
+    "domain": "epifi.com",
+    "careers_url": "https://jobs.lever.co/epifi",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "epifi",
+    "api_endpoint": "https://api.lever.co/v0/postings/epifi?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "epsilonhealth",
+    "name": "Epsilon Health",
+    "domain": "epsilon-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/epsilon-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "epsilon-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "equip",
+    "name": "Equip Health",
+    "domain": "equip.com",
+    "careers_url": "https://jobs.ashbyhq.com/equip",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "equip",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "famatechnologiesinc",
+    "name": "Fama Technologies",
+    "domain": "fama-technologies-inc.com",
+    "careers_url": "https://jobs.ashbyhq.com/fama-technologies-inc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "fama-technologies-inc",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "fampay",
+    "name": "FamPay",
+    "domain": "fampay.in",
+    "careers_url": "https://jobs.lever.co/fampay",
+    "industry": "Fintech / Gen-Z Banking",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "fampay",
+    "api_endpoint": "https://api.lever.co/v0/postings/fampay?mode=json",
+    "tags": [
+      "fintech",
+      "payments",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "fetchpethealth",
+    "name": "Fetch Pet",
+    "domain": "fetch-pet-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/fetch-pet-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "fetch-pet-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "fi",
+    "name": "Fi Money",
+    "domain": "fi.money",
+    "careers_url": "https://jobs.lever.co/fi",
+    "industry": "Fintech / Neobank",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "fi",
+    "api_endpoint": "https://api.lever.co/v0/postings/fi?mode=json",
+    "tags": [
+      "fintech",
+      "neobank",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "finnihealth",
+    "name": "Finni Health",
+    "domain": "finni-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/finni-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "finni-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "flaglerhealth",
+    "name": "Flagler Health",
+    "domain": "flaglerhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/flaglerhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "flaglerhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "florence",
+    "name": "Florence Health",
+    "domain": "florence.com",
+    "careers_url": "https://jobs.lever.co/florence",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "florence",
+    "api_endpoint": "https://api.lever.co/v0/postings/florence?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "florenceeu",
+    "name": "Florence Healthcare - EU",
+    "domain": "florenceeu.com",
+    "careers_url": "https://job-boards.greenhouse.io/florenceeu",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "florenceeu",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/florenceeu/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "fluxmobility",
+    "name": "Flux Mobility",
+    "domain": "flux-mobility.com",
+    "careers_url": "https://jobs.lever.co/flux-mobility",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "flux-mobility",
+    "api_endpoint": "https://api.lever.co/v0/postings/flux-mobility?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "fortress",
+    "name": "Fortress Financial Technologies",
+    "domain": "fortress.com",
+    "careers_url": "https://jobs.lever.co/fortress",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "fortress",
+    "api_endpoint": "https://api.lever.co/v0/postings/fortress?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "foundationhealthcareers",
+    "name": "Foundation Health",
+    "domain": "foundationhealthcareers.com",
+    "careers_url": "https://jobs.ashbyhq.com/foundationhealthcareers",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "foundationhealthcareers",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "foundationllmtechnologies",
+    "name": "Foundation EGI",
+    "domain": "foundation-llm-technologies.com",
+    "careers_url": "https://jobs.lever.co/foundation-llm-technologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "foundation-llm-technologies",
+    "api_endpoint": "https://api.lever.co/v0/postings/foundation-llm-technologies?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "freiheit2",
+    "name": "freiheit.com technologies",
+    "domain": "freiheit-2.com",
+    "careers_url": "https://jobs.lever.co/freiheit-2",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "freiheit-2",
+    "api_endpoint": "https://api.lever.co/v0/postings/freiheit-2?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "freshworks",
+    "name": "Freshworks",
+    "domain": "freshworks.com",
+    "careers_url": "https://careers.freshworks.com",
+    "industry": "Enterprise SaaS",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "freshworks",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/freshworks/postings?limit=100",
+    "tags": [
+      "saas",
+      "crm",
+      "unicorn",
+      "chennai"
+    ]
+  },
+  {
+    "id": "fronterahealth",
+    "name": "Frontera",
+    "domain": "fronterahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/fronterahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fronterahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fronterahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "frontierhealth",
+    "name": "Frontier Health",
+    "domain": "frontier-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/frontier-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "frontier-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "fsh",
+    "name": "FSH Technologies",
+    "domain": "fsh.com",
+    "careers_url": "https://jobs.ashbyhq.com/fsh",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "fsh",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "fulcrumglobaltechnologies",
+    "name": "Fulcrum Global Technologies",
+    "domain": "fulcrumglobaltechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/fulcrumglobaltechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fulcrumglobaltechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fulcrumglobaltechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "gemtechnologies",
+    "name": "GEM Technologies, Inc.",
+    "domain": "gem-technologies.com",
+    "careers_url": "https://jobs.ashbyhq.com/gem-technologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "gem-technologies",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "gentrellis",
+    "name": "Trellis Technologies",
+    "domain": "gen-trellis.com",
+    "careers_url": "https://jobs.ashbyhq.com/gen-trellis",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "gen-trellis",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "glance",
+    "name": "Glance",
+    "domain": "glance.com",
+    "careers_url": "https://boards.greenhouse.io/glance",
+    "industry": "Consumer Tech / Smart Lock Screen",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "glance",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/glance/jobs?content=true",
+    "tags": [
+      "consumer",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "glasshealthinc",
+    "name": "Glass Health Inc.",
+    "domain": "glass-health-inc.com",
+    "careers_url": "https://jobs.lever.co/glass-health-inc",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "glass-health-inc",
+    "api_endpoint": "https://api.lever.co/v0/postings/glass-health-inc?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "goventi",
+    "name": "Venti Technologies",
+    "domain": "goventi.com",
+    "careers_url": "https://jobs.ashbyhq.com/goventi",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "goventi",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "gripinvest",
+    "name": "Grip Invest",
+    "domain": "gripinvest.in",
+    "careers_url": "https://careers.smartrecruiters.com/gripinvest",
+    "industry": "Fintech / Alternative Wealth",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "gripinvest",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/gripinvest/postings?limit=100",
+    "tags": [
+      "fintech",
+      "wealthtech",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "groww",
+    "name": "Groww",
+    "domain": "groww.in",
+    "careers_url": "https://groww.in/careers",
+    "industry": "Fintech / WealthTech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "groww",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/groww/jobs?content=true",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "wealthtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "grvt",
+    "name": "GRVT TECHNOLOGIES",
+    "domain": "grvt.com",
+    "careers_url": "https://jobs.ashbyhq.com/grvt",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "grvt",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "h3xtechnologies",
+    "name": "H3X Technologies",
+    "domain": "h3x-technologies.com",
+    "careers_url": "https://jobs.ashbyhq.com/h3x-technologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "h3x-technologies",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "hackerrank",
+    "name": "HackerRank",
+    "domain": "hackerrank.com",
+    "careers_url": "https://boards.greenhouse.io/hackerrank",
+    "industry": "Developer Assessment / Tech Hiring",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hackerrank",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs?content=true",
+    "tags": [
+      "devtools",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "havenpointhealth",
+    "name": "HavenPoint Health",
+    "domain": "havenpoint-health.com",
+    "careers_url": "https://jobs.lever.co/havenpoint-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "havenpoint-health",
+    "api_endpoint": "https://api.lever.co/v0/postings/havenpoint-health?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthaxis",
+    "name": "HealthAxis Group, LLC",
+    "domain": "healthaxis.com",
+    "careers_url": "https://jobs.ashbyhq.com/healthaxis",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "healthaxis",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthcare",
+    "name": "HealthCare",
+    "domain": "healthcare.com",
+    "careers_url": "https://jobs.lever.co/healthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "healthcare",
+    "api_endpoint": "https://api.lever.co/v0/postings/healthcare?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthgorilla",
+    "name": "Health Gorilla, Inc.",
+    "domain": "healthgorilla.com",
+    "careers_url": "https://jobs.ashbyhq.com/healthgorilla",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "healthgorilla",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthleap",
+    "name": "HealthLeap",
+    "domain": "healthleap.com",
+    "careers_url": "https://jobs.ashbyhq.com/healthleap",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "healthleap",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthmatch",
+    "name": "HealthMatch",
+    "domain": "healthmatch.com",
+    "careers_url": "https://jobs.ashbyhq.com/healthmatch",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "healthmatch",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthsherpa",
+    "name": "HealthSherpa",
+    "domain": "healthsherpa.com",
+    "careers_url": "https://jobs.ashbyhq.com/healthsherpa",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "healthsherpa",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthtech1",
+    "name": "Healthtech-1",
+    "domain": "healthtech-1.com",
+    "careers_url": "https://jobs.ashbyhq.com/healthtech-1",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "healthtech-1",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "heartbeathealth",
+    "name": "Heartbeat Health",
+    "domain": "heartbeathealth.com",
+    "careers_url": "https://jobs.lever.co/heartbeathealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "heartbeathealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/heartbeathealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "hevodata",
+    "name": "Hevo Data",
+    "domain": "hevodata.com",
+    "careers_url": "https://jobs.lever.co/hevodata",
+    "industry": "Data Integration / ETL SaaS",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "hevodata",
+    "api_endpoint": "https://api.lever.co/v0/postings/hevodata?mode=json",
+    "tags": [
+      "data",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "hint",
+    "name": "Hint Health",
+    "domain": "hint.com",
+    "careers_url": "https://jobs.lever.co/hint",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "hint",
+    "api_endpoint": "https://api.lever.co/v0/postings/hint?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "hipp",
+    "name": "Hipp Health",
+    "domain": "hipp.com",
+    "careers_url": "https://jobs.ashbyhq.com/hipp",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "hipp",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "hivehealth",
+    "name": "Hive Health",
+    "domain": "hivehealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/hivehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "hivehealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "homerahealth",
+    "name": "Homera Health",
+    "domain": "homera-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/homera-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "homera-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "hopscotch",
+    "name": "Hopscotch",
+    "domain": "hopscotch.in",
+    "careers_url": "https://boards.greenhouse.io/hopscotch",
+    "industry": "Kids Fashion / E-Commerce",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hopscotch",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hopscotch/jobs?content=true",
+    "tags": [
+      "ecommerce",
+      "fashion",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "humatahealth",
+    "name": "Humata Health, Inc",
+    "domain": "humatahealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/humatahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "humatahealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "iheartjane",
+    "name": "Jane Technologies",
+    "domain": "iheartjane.com",
+    "careers_url": "https://jobs.lever.co/iheartjane",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "iheartjane",
+    "api_endpoint": "https://api.lever.co/v0/postings/iheartjane?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "imoonline",
+    "name": "IMO Health",
+    "domain": "imo-online.com",
+    "careers_url": "https://jobs.lever.co/imo-online",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "imo-online",
+    "api_endpoint": "https://api.lever.co/v0/postings/imo-online?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "inductivehealth",
+    "name": "InductiveHealth",
+    "domain": "inductivehealth.com",
+    "careers_url": "https://jobs.lever.co/inductivehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "inductivehealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/inductivehealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "infinitefield",
+    "name": "Field Technologies FZCO",
+    "domain": "infinitefield.com",
+    "careers_url": "https://jobs.ashbyhq.com/infinitefield",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "infinitefield",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "inmobi",
+    "name": "InMobi",
+    "domain": "inmobi.com",
+    "careers_url": "https://boards.greenhouse.io/inmobi",
+    "industry": "AdTech / Marketing Cloud",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "inmobi",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/inmobi/jobs?content=true",
+    "tags": [
+      "adtech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "instahyre",
+    "name": "Instahyre",
+    "domain": "instahyre.com",
+    "careers_url": "https://careers.smartrecruiters.com/instahyre",
+    "industry": "HRTech / AI Recruitment",
+    "hq_location": "New Delhi, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "instahyre",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/instahyre/postings?limit=100",
+    "tags": [
+      "hrtech",
+      "ai",
+      "delhi"
+    ]
+  },
+  {
+    "id": "instridehealth",
+    "name": "InStride Health",
+    "domain": "instridehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/instridehealth",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "instridehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/instridehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "insurityindia",
+    "name": "Insurity India",
+    "domain": "insurityindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/insurityindia",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "insurityindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/insurityindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "fintech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "integratedhealth",
+    "name": "Tideline RCM",
+    "domain": "integratedhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/integratedhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "integratedhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "interrahealth",
+    "name": "Interra Health",
+    "domain": "interrahealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/interrahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "interrahealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "iphi",
+    "name": "Institute for Public Health Innovation",
+    "domain": "iphi.com",
+    "careers_url": "https://jobs.lever.co/IPHI",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "iphi",
+    "api_endpoint": "https://api.lever.co/v0/postings/iphi?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ixigo",
+    "name": "Ixigo",
+    "domain": "ixigo.com",
+    "careers_url": "https://careers.smartrecruiters.com/ixigo",
+    "industry": "Travel Tech / OTA",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "ixigo",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/ixigo/postings?limit=100",
+    "tags": [
+      "travel",
+      "ota",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "join9am",
+    "name": "9amHealth",
+    "domain": "join9am.com",
+    "careers_url": "https://jobs.ashbyhq.com/join9am",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "join9am",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "joinbetter",
+    "name": "Better Health",
+    "domain": "joinbetter.com",
+    "careers_url": "https://jobs.ashbyhq.com/joinbetter",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "joinbetter",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "koalahealth",
+    "name": "Koala Health",
+    "domain": "koalahealth.com",
+    "careers_url": "https://jobs.lever.co/koalahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "koalahealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/koalahealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "kouperhealth",
+    "name": "Kouper Health",
+    "domain": "kouperhealth.com",
+    "careers_url": "https://jobs.lever.co/kouperhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "kouperhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/kouperhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "krafton",
+    "name": "Krafton India",
+    "domain": "krafton.com",
+    "careers_url": "https://boards.greenhouse.io/krafton",
+    "industry": "Gaming & Esports",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "krafton",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/krafton/jobs?content=true",
+    "tags": [
+      "gaming",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "kuberahealth",
+    "name": "Kubera Health",
+    "domain": "kubera-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/kubera-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "kubera-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "kyanhealth",
+    "name": "Kyan Health",
+    "domain": "kyanhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/kyanhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "kyanhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "lark",
+    "name": "Lark Health",
+    "domain": "lark.com",
+    "careers_url": "https://jobs.ashbyhq.com/lark",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "lark",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "leantech",
+    "name": "Lean Technologies",
+    "domain": "leantech.com",
+    "careers_url": "https://jobs.ashbyhq.com/leantech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "leantech",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "legionhealth",
+    "name": "Legion Health",
+    "domain": "legionhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/legionhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "legionhealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "lendingkart",
+    "name": "Lendingkart",
+    "domain": "lendingkart.com",
+    "careers_url": "https://careers.smartrecruiters.com/lendingkart",
+    "industry": "Fintech / MSME Lending",
+    "hq_location": "Ahmedabad, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "lendingkart",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/lendingkart/postings?limit=100",
+    "tags": [
+      "fintech",
+      "lending",
+      "ahmedabad"
+    ]
+  },
+  {
+    "id": "leona",
+    "name": "Leona Health",
+    "domain": "leona.com",
+    "careers_url": "https://jobs.ashbyhq.com/leona",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "leona",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "lifestance",
+    "name": "LifeStance Health",
+    "domain": "lifestance.com",
+    "careers_url": "https://jobs.ashbyhq.com/lifestance",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "lifestance",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "loginext",
+    "name": "LogiNext",
+    "domain": "loginextsolutions.com",
+    "careers_url": "https://careers.smartrecruiters.com/loginext",
+    "industry": "Logistics Automation SaaS",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "loginext",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/loginext/postings?limit=100",
+    "tags": [
+      "logistics",
+      "saas",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "loophealth",
+    "name": "Loop Health",
+    "domain": "loophealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/loophealth",
+    "industry": "HealthTech / Group Health Insurance",
+    "hq_location": "Pune, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "loophealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/loophealth/postings?limit=100",
+    "tags": [
+      "healthtech",
+      "insurtech",
+      "pune"
+    ]
+  },
+  {
+    "id": "loyalhealth",
+    "name": "Loyal",
+    "domain": "loyalhealth.com",
+    "careers_url": "https://jobs.lever.co/loyalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "loyalhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/loyalhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "lwolf",
+    "name": "Lone Wolf Technologies",
+    "domain": "lwolf.com",
+    "careers_url": "https://jobs.lever.co/lwolf",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "lwolf",
+    "api_endpoint": "https://api.lever.co/v0/postings/lwolf?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "lyrahealth",
+    "name": "Lyra Health",
+    "domain": "lyrahealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/lyrahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "lyrahealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "lyrebirdhealth",
+    "name": "Lyrebird Health",
+    "domain": "lyrebirdhealth.com",
+    "careers_url": "https://jobs.lever.co/lyrebirdhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "lyrebirdhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/lyrebirdhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "m7health",
+    "name": "M7 Health",
+    "domain": "m7health.com",
+    "careers_url": "https://jobs.ashbyhq.com/m7health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "m7health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mainstreethealth",
+    "name": "Main Street Health",
+    "domain": "mainstreethealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/mainstreethealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mainstreethealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mainstreethealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "marigoldhealth",
+    "name": "Marigold Health",
+    "domain": "marigoldhealth.com",
+    "careers_url": "https://jobs.lever.co/marigoldhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "marigoldhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/marigoldhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "maximustribe",
+    "name": "Maximus Health, Inc.",
+    "domain": "maximustribe.com",
+    "careers_url": "https://jobs.ashbyhq.com/maximustribe",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "maximustribe",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "maxretail",
+    "name": "Max Retail",
+    "domain": "max-retail.com",
+    "careers_url": "https://jobs.lever.co/max-retail",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "max-retail",
+    "api_endpoint": "https://api.lever.co/v0/postings/max-retail?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "mboothhealth",
+    "name": "M Booth Health",
+    "domain": "mboothhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/mboothhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mboothhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mboothhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "domain": "meesho.com",
+    "careers_url": "https://careers.meesho.com",
+    "industry": "E-Commerce Marketplace",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "meesho",
+    "api_endpoint": "https://api.lever.co/v0/postings/meesho?mode=json",
+    "tags": [
+      "ecommerce",
+      "unicorn",
+      "socialcommerce",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "mindtickle",
+    "name": "Mindtickle",
+    "domain": "mindtickle.com",
+    "careers_url": "https://jobs.lever.co/mindtickle",
+    "industry": "Sales Enablement SaaS",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "mindtickle",
+    "api_endpoint": "https://api.lever.co/v0/postings/mindtickle?mode=json",
+    "tags": [
+      "saas",
+      "unicorn",
+      "pune"
+    ]
+  },
+  {
+    "id": "moodhealth",
+    "name": "Mood Health",
+    "domain": "moodhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/moodhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "moodhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/moodhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mtiinc",
+    "name": "Monterey Technologies Inc",
+    "domain": "mti-inc.com",
+    "careers_url": "https://jobs.lever.co/mti-inc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "mti-inc",
+    "api_endpoint": "https://api.lever.co/v0/postings/mti-inc?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "mtspartners",
+    "name": "MTS Health Partners, L.P.",
+    "domain": "mtspartners.com",
+    "careers_url": "https://jobs.lever.co/mtspartners",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "mtspartners",
+    "api_endpoint": "https://api.lever.co/v0/postings/mtspartners?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "muralhealth",
+    "name": "Mural Health",
+    "domain": "muralhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/muralhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "muralhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/muralhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mylaurelhealth",
+    "name": "myLaurel",
+    "domain": "mylaurelhealth.com",
+    "careers_url": "https://jobs.lever.co/mylaurelhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "mylaurelhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/mylaurelhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "myvessel",
+    "name": "Vessel Technologies",
+    "domain": "myvessel.com",
+    "careers_url": "https://jobs.lever.co/myvessel",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "myvessel",
+    "api_endpoint": "https://api.lever.co/v0/postings/myvessel?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "nanoqt",
+    "name": "Nanofiber Quantum Technologies, Inc.",
+    "domain": "nano-qt.com",
+    "careers_url": "https://jobs.ashbyhq.com/nano-qt",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "nano-qt",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "navi",
+    "name": "Navi Technologies",
+    "domain": "navi.com",
+    "careers_url": "https://jobs.ashbyhq.com/navi",
+    "industry": "Fintech / Lending & Insurance",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "navi",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "nesthealth",
+    "name": "Nest Health",
+    "domain": "nest-health.com",
+    "careers_url": "https://jobs.ashbyhq.com/nest-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "nest-health",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "newtonschool",
+    "name": "Newton School",
+    "domain": "newtonschool.co",
+    "careers_url": "https://careers.smartrecruiters.com/newtonschool",
+    "industry": "EdTech / Neo-University",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "newtonschool",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/newtonschool/postings?limit=100",
+    "tags": [
+      "edtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "nexthealth",
+    "name": "Next Health",
+    "domain": "next-health.com",
+    "careers_url": "https://jobs.lever.co/next-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "next-health",
+    "api_endpoint": "https://api.lever.co/v0/postings/next-health?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "nidustechnologies",
+    "name": "Nidus Technologies",
+    "domain": "nidus-technologies.com",
+    "careers_url": "https://jobs.ashbyhq.com/nidus-technologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "nidus-technologies",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "nobroker",
+    "name": "NoBroker",
+    "domain": "nobroker.in",
+    "careers_url": "https://careers.smartrecruiters.com/nobroker",
+    "industry": "PropTech / Real Estate",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "nobroker",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/nobroker/postings?limit=100",
+    "tags": [
+      "proptech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "nollahealth",
+    "name": "Nolla Health",
+    "domain": "nollahealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/nollahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "nollahealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "nomihealth",
+    "name": "Nomi Health",
+    "domain": "nomihealth.com",
+    "careers_url": "https://jobs.lever.co/nomihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "nomihealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/nomihealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "northslopetechnologies",
+    "name": "Northslope",
+    "domain": "northslope-technologies.com",
+    "careers_url": "https://jobs.ashbyhq.com/northslope-technologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "northslope-technologies",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "observeai",
+    "name": "Observe.ai",
+    "domain": "observe.ai",
+    "careers_url": "https://boards.greenhouse.io/observeai",
+    "industry": "AI / Contact Center Intelligence",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "observeai",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/observeai/jobs?content=true",
+    "tags": [
+      "ai",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "omnidesigntech",
+    "name": "Omni Design Technologies",
+    "domain": "omnidesigntech.com",
+    "careers_url": "https://jobs.lever.co/omnidesigntech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "omnidesigntech",
+    "api_endpoint": "https://api.lever.co/v0/postings/omnidesigntech?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "onehealth",
+    "name": "OneHealth Tech Corp",
+    "domain": "onehealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/onehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "onehealth",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "startup",
+      "ashby",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "paradigmhealth",
+    "name": "Paradigm Health",
+    "domain": "paradigm-health.com",
+    "careers_url": "https://jobs.lever.co/paradigm-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "paradigm-health",
+    "api_endpoint": "https://api.lever.co/v0/postings/paradigm-health?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "paramobility",
+    "name": "Para Mobility",
+    "domain": "paramobility.com",
+    "careers_url": "https://jobs.lever.co/paramobility",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "paramobility",
+    "api_endpoint": "https://api.lever.co/v0/postings/paramobility?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "domain": "paytm.com",
+    "careers_url": "https://careers.paytm.com",
+    "industry": "Fintech / Payments",
+    "hq_location": "Noida, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "paytm",
+    "api_endpoint": "https://api.lever.co/v0/postings/paytm?mode=json",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "payments",
+      "noida"
+    ]
+  },
+  {
+    "id": "pilgrim",
+    "name": "Pilgrim",
+    "domain": "journeyofpilgrim.com",
+    "careers_url": "https://jobs.ashbyhq.com/pilgrim",
+    "industry": "D2C / Beauty & Personal Care",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "pilgrim",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "d2c",
+      "beauty",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "planettechnologies",
+    "name": "Planet Technologies",
+    "domain": "planettechnologies.com",
+    "careers_url": "https://jobs.lever.co/planettechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "planettechnologies",
+    "api_endpoint": "https://api.lever.co/v0/postings/planettechnologies?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "pocketfm",
+    "name": "Pocket FM",
+    "domain": "pocketfm.com",
+    "careers_url": "https://jobs.lever.co/pocketfm",
+    "industry": "Media / Audio Entertainment",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "pocketfm",
+    "api_endpoint": "https://api.lever.co/v0/postings/pocketfm?mode=json",
+    "is_verified": true,
+    "tags": [
+      "media",
+      "audio",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "pockethealth",
+    "name": "PocketHealth",
+    "domain": "pockethealth.com",
+    "careers_url": "https://jobs.lever.co/PocketHealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "pockethealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/pockethealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "porter",
+    "name": "Porter",
+    "domain": "porter.in",
+    "careers_url": "https://porter.in/careers",
+    "industry": "Logistics / Intra-City",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "porter",
+    "api_endpoint": "https://api.lever.co/v0/postings/porter?mode=json",
+    "tags": [
+      "logistics",
+      "mobility",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "ppink",
+    "name": "Planned Parenthood of Indiana and Kentucky, Inc.",
+    "domain": "ppink.com",
+    "careers_url": "https://jobs.lever.co/ppink",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "ppink",
+    "api_endpoint": "https://api.lever.co/v0/postings/ppink?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "pt78",
+    "name": "Platinum Technologies",
+    "domain": "pt78.com",
+    "careers_url": "https://jobs.lever.co/pt78",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "pt78",
+    "api_endpoint": "https://api.lever.co/v0/postings/pt78?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "quiltedhealth",
+    "name": "Quilted Health",
+    "domain": "quilted-health.com",
+    "careers_url": "https://jobs.lever.co/quilted-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "quilted-health",
+    "api_endpoint": "https://api.lever.co/v0/postings/quilted-health?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "rapido",
+    "name": "Rapido",
+    "domain": "rapido.bike",
+    "careers_url": "https://www.rapido.bike/careers",
+    "industry": "Mobility / Logistics",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "rapido",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/rapido/postings?limit=100",
+    "is_verified": true,
+    "tags": [
+      "mobility",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "razorpay",
+    "name": "Razorpay",
+    "domain": "razorpay.com",
+    "careers_url": "https://razorpay.com/jobs",
+    "industry": "Fintech / Payments",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "razorpaysoftwareprivatelimited",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs?content=true",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "payments",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "rebelfoods",
+    "name": "Rebel Foods",
+    "domain": "rebelfoods.com",
+    "careers_url": "https://careers.smartrecruiters.com/rebelfoods",
+    "industry": "Cloud Kitchen / FoodTech",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "rebelfoods",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/rebelfoods/postings?limit=100",
+    "tags": [
+      "foodtech",
+      "unicorn",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "revhealth",
+    "name": "Revhealth",
+    "domain": "revhealth.com",
+    "careers_url": "https://jobs.lever.co/revhealth",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "revhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/revhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "river",
+    "name": "River Mobility",
+    "domain": "rideriver.com",
+    "careers_url": "https://jobs.ashbyhq.com/river",
+    "industry": "Mobility / Electric Vehicles",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "river",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "mobility",
+      "ev",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "rupa",
+    "name": "Rupa Health",
+    "domain": "rupa.com",
+    "careers_url": "https://jobs.lever.co/rupa",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "rupa",
+    "api_endpoint": "https://api.lever.co/v0/postings/rupa?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "salvohealth",
+    "name": "Salvo Health",
+    "domain": "salvohealth.com",
+    "careers_url": "https://jobs.lever.co/salvohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "salvohealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/salvohealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "sarvam",
+    "name": "Sarvam AI",
+    "domain": "sarvam.ai",
+    "careers_url": "https://jobs.ashbyhq.com/sarvam",
+    "industry": "Artificial Intelligence / Indic GenAI",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "sarvam",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "ai",
+      "genai",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "scaler",
+    "name": "Scaler (InterviewBit)",
+    "domain": "scaler.com",
+    "careers_url": "https://careers.smartrecruiters.com/interviewbit",
+    "industry": "EdTech / Tech Skilling",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "interviewbit",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/interviewbit/postings?limit=100",
+    "tags": [
+      "edtech",
+      "skilling",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "seurat",
+    "name": "Seurat Technologies",
+    "domain": "seurat.com",
+    "careers_url": "https://job-boards.greenhouse.io/seurat",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "seurat",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/seurat/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "shennonbiotechnologies",
+    "name": "Shennon Biotechnologies",
+    "domain": "shennonbiotechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/shennonbiotechnologies",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "shennonbiotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/shennonbiotechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "shipsy",
+    "name": "Shipsy",
+    "domain": "shipsy.io",
+    "careers_url": "https://careers.smartrecruiters.com/shipsy",
+    "industry": "Logistics & Supply Chain SaaS",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "shipsy",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/shipsy/postings?limit=100",
+    "tags": [
+      "logistics",
+      "saas",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "signoz",
+    "name": "SigNoz",
+    "domain": "signoz.io",
+    "careers_url": "https://jobs.ashbyhq.com/signoz",
+    "industry": "Developer Tools / Observability",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "signoz",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "devtools",
+      "opensource",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "silananotechnologies",
+    "name": "Sila",
+    "domain": "silananotechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/silananotechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "silananotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/silananotechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "skima",
+    "name": "SKIMA INNOVATIONS PRIVATE LIMITED",
+    "domain": "skima.com",
+    "careers_url": "https://jobs.lever.co/skima",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "skima",
+    "api_endpoint": "https://api.lever.co/v0/postings/skima?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "slice",
+    "name": "Slice",
+    "domain": "sliceit.com",
+    "careers_url": "https://sliceit.com/careers",
+    "industry": "Fintech / Banking",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "slice",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/slice/jobs?content=true",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "neobank",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "smiledigitalhealth",
+    "name": "Smile Digital Health",
+    "domain": "smiledigitalhealth.com",
+    "careers_url": "https://jobs.lever.co/smiledigitalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "smiledigitalhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/smiledigitalhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "solmentalhealth",
+    "name": "SOL Mental Health",
+    "domain": "solmentalhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/solmentalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "solmentalhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/solmentalhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "solvhealth",
+    "name": "Solv",
+    "domain": "solvhealth.com",
+    "careers_url": "https://jobs.lever.co/solvhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "solvhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/solvhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "stage",
+    "name": "Stage OTT",
+    "domain": "stage.in",
+    "careers_url": "https://boards.greenhouse.io/stage",
+    "industry": "Media / Regional OTT",
+    "hq_location": "Noida, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "stage",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true",
+    "tags": [
+      "media",
+      "streaming",
+      "noida"
+    ]
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "domain": "swiggy.com",
+    "careers_url": "https://careers.swiggy.com",
+    "industry": "Food Delivery / Quick Commerce",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "swiggy",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/swiggy/postings?limit=100",
+    "tags": [
+      "ecommerce",
+      "quickcommerce",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "swordhealth",
+    "name": "Sword Health",
+    "domain": "swordhealth.com",
+    "careers_url": "https://jobs.lever.co/swordhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "swordhealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/swordhealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "thehealthmanagementacademy",
+    "name": "The Health Management Academy",
+    "domain": "thehealthmanagementacademy.com",
+    "careers_url": "https://job-boards.greenhouse.io/thehealthmanagementacademy",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "thehealthmanagementacademy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/thehealthmanagementacademy/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "truezerotech",
+    "name": "True Zero Technologies",
+    "domain": "truezerotech.com",
+    "careers_url": "https://jobs.lever.co/truezerotech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "truezerotech",
+    "api_endpoint": "https://api.lever.co/v0/postings/truezerotech?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "turtlemint",
+    "name": "Turtlemint",
+    "domain": "turtlemint.com",
+    "careers_url": "https://careers.smartrecruiters.com/turtlemint",
+    "industry": "InsurTech",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "turtlemint",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/turtlemint/postings?limit=100",
+    "tags": [
+      "insurtech",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "uft",
+    "name": "United Flow Technologies",
+    "domain": "uft.com",
+    "careers_url": "https://jobs.lever.co/uft",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "uft",
+    "api_endpoint": "https://api.lever.co/v0/postings/uft?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "unacademy",
+    "name": "Unacademy",
+    "domain": "unacademy.com",
+    "careers_url": "https://careers.smartrecruiters.com/unacademy",
+    "industry": "EdTech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "unacademy",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/unacademy/postings?limit=100",
+    "tags": [
+      "edtech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "verse",
+    "name": "Dailyhunt (Verse)",
+    "domain": "verse.in",
+    "careers_url": "https://boards.greenhouse.io/verse",
+    "industry": "Media / Vernacular Content",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "verse",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/verse/jobs?content=true",
+    "tags": [
+      "media",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "vida",
+    "name": "Vida Health",
+    "domain": "vida.com",
+    "careers_url": "https://jobs.lever.co/vida",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "vida",
+    "api_endpoint": "https://api.lever.co/v0/postings/vida?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "wellfit",
+    "name": "Wellfit Technologies",
+    "domain": "wellfit.com",
+    "careers_url": "https://jobs.lever.co/wellfit",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "wellfit",
+    "api_endpoint": "https://api.lever.co/v0/postings/wellfit?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "whatfix",
+    "name": "Whatfix",
+    "domain": "whatfix.com",
+    "careers_url": "https://careers.smartrecruiters.com/whatfix",
+    "industry": "Enterprise SaaS / DAP",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "whatfix",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/whatfix/postings?limit=100",
+    "tags": [
+      "saas",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "wishpond",
+    "name": "Wishpond Technologies",
+    "domain": "wishpond.com",
+    "careers_url": "https://jobs.lever.co/wishpond",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "wishpond",
+    "api_endpoint": "https://api.lever.co/v0/postings/wishpond?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "zenoti",
+    "name": "Zenoti",
+    "domain": "zenoti.com",
+    "careers_url": "https://boards.greenhouse.io/zenoti",
+    "industry": "Enterprise SaaS / Wellness",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zenoti",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zenoti/jobs?content=true",
+    "tags": [
+      "saas",
+      "unicorn",
+      "hyderabad"
+    ]
+  },
+  {
+    "id": "zepto",
+    "name": "Zepto",
+    "domain": "zeptonow.com",
+    "careers_url": "https://careers.zeptonow.com",
+    "industry": "Quick Commerce",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "zepto",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "is_verified": true,
+    "tags": [
+      "quickcommerce",
+      "unicorn",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "zinghr",
+    "name": "ZingHR",
+    "domain": "zinghr.com",
+    "careers_url": "https://careers.smartrecruiters.com/zinghr",
+    "industry": "HRTech / Cloud HCM",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "zinghr",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/zinghr/postings?limit=100",
+    "tags": [
+      "hrtech",
+      "saas",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "zushealth",
+    "name": "Zus Health",
+    "domain": "zushealth.com",
+    "careers_url": "https://jobs.lever.co/zushealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "zushealth",
+    "api_endpoint": "https://api.lever.co/v0/postings/zushealth?mode=json",
+    "tags": [
+      "startup",
+      "lever",
+      "healthtech",
+      "india"
+    ]
+  }
+]

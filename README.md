@@ -1,55 +1,67 @@
-# JobScrap — Ultimate Job Scraper & Aggregator
+# JobScrap — Autonomous Direct Company Career & Job Aggregator
 
 <p align="center">
-  <strong>The high-performance, open-source Python Job Scraper & Aggregator for India & Global tech hiring.</strong><br>
-  <em>Direct JSON APIs, TLS Fingerprint Bypass, Smart Jaccard Deduplication, and Autonomous Dead-Link Removal.</em>
+  <strong>The high-performance, open-source Python Job Scraper & Direct Career Aggregator for India & Global tech hiring.</strong><br>
+  <em>Direct-to-Company Ingestion, 1,500+ Verified Company Career Portals, TLS Fingerprint Bypass, and Smart Deduplication.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bytebldr/jobscrap/releases/tag/v0.4"><img src="https://img.shields.io/badge/Release-v0.4-blue.svg" alt="Release v0.4" /></a>
+  <a href="https://github.com/bytebldr/jobscrap/releases/tag/v0.5"><img src="https://img.shields.io/badge/Release-v0.5-blue.svg" alt="Release v0.5" /></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg" alt="Python Version" />
+  <img src="https://img.shields.io/badge/Companies-1%2C500%2B%20Verified-orange.svg" alt="Companies" />
+  <img src="https://img.shields.io/badge/Engines-Greenhouse%20%7C%20Lever%20%7C%20Ashby%20%7C%20SmartRecruiters%20%7C%20Workday-purple.svg" alt="Direct Engines" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License" />
-  <img src="https://img.shields.io/badge/Portals-9%20Sources-orange.svg" alt="Portals" />
-  <img src="https://img.shields.io/badge/Anti--Bot-TLS%20Bypass-purple.svg" alt="TLS Bypass" />
 </p>
 
 ---
 
 ## 📖 About JobScrap
 
-**JobScrap** is the most complete, modern, and autonomous **Python job scraper and aggregator** built to ingest, normalize, and validate job postings from the top hiring platforms without fragile dependencies or expensive commercial APIs.
+**JobScrap** is a modern, standalone **Python job scraper and primary-source aggregator** built to extract job postings directly from corporate career portals and major hiring platforms with zero fragile dependencies or commercial API keys.
 
-Unlike generic scrapers that only dump raw un-deduplicated CSVs, **JobScrap** is a self-contained aggregation pipeline that handles the full job lifecycle:
-1. **Multi-Source Scraping**: Scrapes 9 major hiring portals with zero third-party scraper wrappers.
-2. **TLS Fingerprint Bypass**: Emulates genuine browser TLS signatures (JA3, JA4, cipher suites, HTTP/2 frames) to bypass Cloudflare Turnstile and anti-scraping firewalls.
-3. **Cross-Board Jaccard Deduplication**: Detects and links identical job postings across multiple boards using token similarity (`0.75`).
-4. **Dead-Link Auto-Purge & Soft-404 Detection**: Regularly audits job links with asynchronous requests, detecting 404s and stealth redirects (e.g. Naukri `?expJD=true`), auto-purging dead postings.
-5. **REST API & Autonomous Daemon**: Serves data through a built-in FastAPI backend (`GET /search`, `GET /jobs`, `GET /stats`) and runs 24/7 background cron loops.
-
----
-
-## 🚀 Release v0.4 Highlights
-
-- 🌐 **All 9 Platforms Synchronized**: Guaranteed parallel execution across Naukri, Instahyre, Internshala, Shine, Freshersworld, Apna, Indeed, LinkedIn, and Glassdoor without silent omissions.
-- ⚡ **Auto-Adapter Hydration**: Auto-merges and enables all 9 platforms so legacy browser storage states never restrict searches to only 2 boards.
-- 🛡️ **Race-Condition-Free Streaming**: Robust `Promise.allSettled` execution ensuring all platform streams complete and populate live job links.
-- 🚫 **Zero Mock Guarantee**: Completely removed legacy fake mock URL generators across the entire system.
+Unlike generic aggregators that scrape third-party boards and deliver stale, expired, or redirect-trapped links, **JobScrap** features a **Direct-to-Company Pipeline**:
+1. **Direct Company Career Ingestion**: Directly taps into the underlying recruitment engines (**Greenhouse, Lever, Ashby, SmartRecruiters, Workday CX**) powering official company career pages.
+2. **Master Directory of 1,565+ Employers**: Pre-indexed catalog of Indian Unicorns, Startups, GCCs, and Global Tech firms with SQLite FTS5 BM25 search.
+3. **100% Direct Application Links**: Every posting provides the official application URL straight on the employer's portal—zero middlemen, zero affiliate walls.
+4. **Autonomous Career Discovery**: Given any domain (e.g., `cred.club`), automatically crawls, fingerprints the hiring engine, and pulls live jobs.
+5. **Multi-Source Fallback**: Native high-speed scrapers for major tech boards (Naukri, LinkedIn, Indeed, Glassdoor, Instahyre, Internshala, Shine, Freshersworld, Apna) with `curl_cffi` TLS impersonation.
+6. **Cross-Board Jaccard Deduplication**: Clusters identical job postings across multiple boards and corporate portals using token similarity (`0.75`).
 
 ---
 
-## 🌐 Supported Job Portals & Scraping Methods
+## 🚀 Release v0.5 Highlights
 
-| Job Portal | Tier | Scraping Method | Anti-Bot Bypass |
+- 🏢 **Direct-to-Company Career Pipeline**: Pulls 100% active, primary-source job postings directly from corporate portals (Greenhouse, Lever, Ashby, SmartRecruiters, Workday CX) in <500ms.
+- ⚡ **1,565+ Master Company Directory**: Pre-indexed catalog of Indian Unicorns, Startups, GCCs, and Global Tech firms with SQLite FTS5 BM25 search.
+- 🔗 **Direct Apply Guarantee**: 100% authentic URLs leading straight to company hiring forms with zero aggregator delays or redirect traps.
+- 🔍 **Autonomous Career Resolver**: Automatically fingerprints uncataloged company domains to detect their underlying career engine.
+- 📦 **Python Library & Modern CLI**: Installable via `pip install -e .` with direct imports (`from jobscrap import JobScraper, CompanyCatalog`) and CLI (`jobscrap company <name>`, `jobscrap search <role>`).
+
+---
+
+## 🌐 Supported Engines & Platforms
+
+### 1. Direct Company Career Engines (Primary Sources)
+| Engine | Protocol | Supported Platforms & Examples | Anti-Bot / Speed |
 |---|:---:|---|---|
-| **Naukri** | Tier 1/2 | Native Windows Edge via Playwright | Bypasses client-side React rendering & reCAPTCHA with zero binary downloads |
-| **LinkedIn** | Tier 3 | Public Guest Search API | Direct HTTP, no login credentials required |
-| **Indeed India** | Tier 2 | Server-Rendered Mobile Engine | Safari 17 TLS fingerprint bypass via `curl_cffi` |
-| **Glassdoor** | Tier 3 | Server-Rendered HTML Scraper | Chrome 124 TLS fingerprint bypass (solves Cloudflare blocks) |
-| **Instahyre** | Tier 1 | Direct JSON Search API (`/api/v1/job_search/`) | High-speed direct JSON ingestion |
-| **Internshala** | Tier 1/2 | Server-Rendered HTML Scraper | Fresher & internship focus with salary parsing |
-| **Shine.com** | Tier 2 | Next.js SSR JSON (`__NEXT_DATA__`) | Structured JSON extraction directly from page payload |
-| **Freshersworld** | Tier 2 | Server-Rendered HTML Scraper | Entry-level & graduate job vacancy coverage |
-| **Apna** | Tier 2 | Server-Rendered HTML Scraper | Blue-collar & Tier 2/3 city job coverage with salary normalization |
+| **Greenhouse** | Board JSON API | Razorpay, Stripe, Coinbase, Groww, Cloudflare, Databricks, Figma | Zero blocks (<300ms) |
+| **Ashby HQ** | GraphQL API | Supabase, Linear, Ramp, CRED, Zepto, Deel, Vercel | Zero blocks (<350ms) |
+| **Lever** | Postings v0 API | Spotify, Atlassian, Netflix, Swiggy, Nykaa, Paytm | Zero blocks (<250ms) |
+| **SmartRecruiters** | Postings v1 API | Freshworks, Zomato, Delivery Hero, Visa, Miro | Zero blocks (<400ms) |
+| **Workday CX** | REST CX Client | TCS, Infosys, Cognizant, PayPal India, Target India | REST JSON (<600ms) |
+
+### 2. Public Hiring Portals (Aggregators)
+| Job Portal | Method | Anti-Bot Evasion |
+|---|---|---|
+| **Naukri** | Native Windows Edge via Playwright | Bypasses client-side React rendering & reCAPTCHA |
+| **LinkedIn** | Public Guest Search API | Direct HTTP, zero login required |
+| **Indeed India** | Server-Rendered Mobile Engine | Safari 17 TLS fingerprint bypass via `curl_cffi` |
+| **Glassdoor** | Server-Rendered HTML Scraper | Chrome 124 TLS fingerprint bypass |
+| **Instahyre** | Direct JSON Search API | High-speed direct JSON ingestion |
+| **Internshala** | Server-Rendered HTML Scraper | Fresher & internship focus with salary parsing |
+| **Shine.com** | Next.js SSR JSON (`__NEXT_DATA__`) | Structured JSON extraction directly from page payload |
+| **Freshersworld** | Server-Rendered HTML Scraper | Entry-level & graduate job vacancy coverage |
+| **Apna** | Server-Rendered HTML Scraper | Blue-collar & Tier 2/3 city job coverage |
 
 ---
 
@@ -57,17 +69,17 @@ Unlike generic scrapers that only dump raw un-deduplicated CSVs, **JobScrap** is
 
 | Feature / Capability | Standard / Generic Scrapers | JobScrap (This Engine) |
 |---|:---:|:---:|
-| **India & Tech Portal Depth** | ❌ Limited coverage; dynamic React portals frequently break; no native Instahyre, Internshala, Shine, Apna, or Freshersworld support | ✅ **Complete native coverage** across all 9 primary hiring portals |
+| **Direct Company Career Ingestion** | ❌ None; only scrapes third-party aggregators (Naukri, Indeed) with 3–7 day lag | ✅ **1,565+ direct corporate career endpoints** (Greenhouse, Lever, Ashby, SmartRecruiters, Workday) |
+| **Direct Apply Link Integrity** | ❌ Stale links, affiliate trackers, and expired 404/login redirects | ✅ **100% direct official application forms** on company sites |
 | **Anti-Bot & TLS Fingerprint Evasion** | ⚠️ Basic HTTP headers easily blocked by Cloudflare Turnstile, Akamai, and JA3/JA4 fingerprinting | ✅ **Full browser impersonation** via `curl_cffi` (`chrome124`, `safari17_0`) + native Edge for complex React SPAs |
 | **Cross-Portal Deduplication** | ❌ None; returns unlinked duplicate entries across multiple job boards | ✅ **Built-in Jaccard similarity (`0.75`)** with indexed candidate pre-filtering to cluster cross-board postings |
 | **Self-Healing Dead-Link Purge** | ❌ None; expired and closed postings remain in output datasets indefinitely | ✅ **Autonomous async validator** with soft-404 redirect detection, auto-purging dead links after 2 strikes |
-| **Persistence & Concurrency** | ❌ Ephemeral in-memory data structures or raw single-file CSV dumps | ✅ **Server-side SQLite** with Write-Ahead Logging (WAL) and conflict-safe upserts |
-| **Built-in REST API Server** | ❌ Script-only; requires writing custom backend wrappers for frontend consumption | ✅ **FastAPI server** with search, pagination, stats, triggers, and export endpoints |
-| **Autonomous Scheduling** | ❌ None; requires manual execution or heavy external orchestrators | ✅ **Built-in asyncio daemon** running decoupled scraping and validation cron loops |
+| **Master Company Directory** | ❌ None; requires manual search keywords | ✅ **1,565+ pre-indexed companies** with SQLite FTS5 BM25 search |
+| **Autonomous Career Resolver** | ❌ None | ✅ **Automatic domain crawler** that fingerprints any unlisted company's career engine |
 
 ---
 
-## 🚀 Quickstart & Installation
+## 🚀 Quickstart
 
 ### 1. Installation
 ```bash
@@ -75,28 +87,49 @@ Unlike generic scrapers that only dump raw un-deduplicated CSVs, **JobScrap** is
 git clone https://github.com/bytebldr/jobscrap.git
 cd jobscrap
 
-# Install lightweight dependencies
-pip install curl_cffi beautifulsoup4 playwright fastapi uvicorn
+# Install as an editable Python library
+pip install -e .
 ```
 
-*(Optional: Add HTTP/SOCKS proxies to `proxies.txt` for high-volume distributed scraping)*
+### 2. Python Library Usage
 
-### 2. Scrape Jobs
-```bash
-# Scrape across all 9 supported portals (e.g. 5 jobs per board)
-python scraper.py scrape --source all --query "python developer" --count 5
+```python
+from jobscrap import JobScraper, CompanyCatalog
 
-# Scrape from a single specific portal
-python scraper.py scrape --source naukri --query "react developer" --count 10
-python scraper.py scrape --source linkedin --query "data engineer" --count 10
-python scraper.py scrape --source glassdoor --query "backend developer" --count 10
-python scraper.py scrape --source instahyre --count 15
+scraper = JobScraper()
+
+# 1. Fetch live jobs directly from a company's official career portal
+jobs = scraper.get_company_jobs("Razorpay")
+print(f"Found {len(jobs)} live jobs directly from Razorpay!")
+for j in jobs[:5]:
+    print(f"• {j.title} ({j.location}) -> {j.url}")
+
+# 2. Search across 1,565+ company career portals in parallel
+matches = scraper.search_companies(
+    query="Backend Engineer",
+    locations=["Bengaluru", "Remote"],
+    limit=25
+)
+for m in matches:
+    print(f"[{m.company}] {m.title} | {m.url}")
 ```
 
-### 3. Validate Links & Purge Expired Jobs
+### 3. Command-Line Interface (CLI)
+
 ```bash
-# Run asynchronous dead-link verification and purge 404/410 postings
-python scraper.py validate --hours 6
+# Fetch live jobs from any company career portal
+jobscrap company "Razorpay"
+jobscrap company "Supabase"
+jobscrap company "Freshworks"
+
+# Search across all company career portals
+jobscrap search "Software Engineer" --location "Bengaluru"
+
+# Search pre-indexed companies in the catalog
+jobscrap catalog --query "fintech"
+
+# Automatically resolve an unlisted company's career engine
+jobscrap resolve "cred.club"
 ```
 
 ### 4. Run REST API Server
@@ -105,31 +138,18 @@ python scraper.py validate --hours 6
 python scraper.py serve --port 8000
 
 # Available Endpoints:
-# GET  /jobs?query=python&location=bangalore&min_salary=1000000&limit=50
-# GET  /jobs/{id}
+# GET  /search?query=developer&sources=razorpay
+# GET  /jobs?query=python&location=bangalore
 # GET  /stats
-# POST /scrape?source=all&query=developer&count=10
+# POST /scrape?source=all
 # POST /validate?stale_hours=6
 # GET  /export?format=json|csv
 ```
 
-### 5. Export Jobs to CSV / JSON
+### 5. Run Verification Test Suite
 ```bash
-# Export active database to CSV or JSON
-python scraper.py export --format csv --output jobs.csv
-python scraper.py export --format json --output jobs.json
-```
-
-### 6. Run Autonomous 24/7 Scheduler Daemon
-```bash
-# Scrapes every 12 hours, validates links every 4 hours automatically
-python scheduler.py --scrape-hours 12 --validate-hours 4
-```
-
-### 7. Run Verification Test Suite
-```bash
-# Run internal self-tests (SSRF protection, salary parsing, scalable dedup, DB operations)
-python scraper.py test
+# Run unit and scale verification tests
+python -m unittest tests/test_catalog_scale.py tests/test_v05_direct_company.py
 ```
 
 ---
@@ -140,24 +160,22 @@ Every job record is normalized into this consistent schema:
 
 ```json
 {
-  "id": "c3a64939-5ce5-41be-b697-76b2512f453c",
-  "source": "naukri | linkedin | indeed | glassdoor | instahyre | internshala | shine | freshersworld | apna",
-  "source_job_id": "naukri_210726911215",
-  "title": "Python Backend Developer",
-  "company": "Infosys",
-  "location": "Bengaluru",
+  "id": "gh_razorpay_4741226005",
+  "source": "greenhouse",
+  "source_type": "ats",
+  "company": "Razorpay",
+  "title": "Analyst, Banking Alliances",
+  "location": "Chennai",
+  "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4741226005",
+  "is_remote": false,
   "job_type": "fulltime",
-  "experience_level": "2-5 Yrs",
-  "url": "https://www.naukri.com/job-listings-python-backend-developer-infosys-limited-bengaluru-2-to-5-years-210726911215",
-  "description": "Skills: Python, Django, REST APIs",
-  "posted_date": "2026-09-02T10:00:00Z",
-  "scraped_at": "2026-09-03T05:00:00Z",
-  "last_checked_at": "2026-09-03T05:10:00Z",
+  "experience_level": "mid",
+  "department": "Banking Alliances",
+  "posted_date": "2026-11-20",
+  "scraped_at": "2026-11-23T14:30:00Z",
   "status": "live",
-  "consecutive_fails": 0,
-  "dedup_group_id": "a9840bb8-2a14-4eb9-bfd4-cf3d8495a123",
-  "min_salary_inr": 800000,
-  "max_salary_inr": 1400000
+  "min_salary_inr": null,
+  "max_salary_inr": null
 }
 ```
 

@@ -1,0 +1,6241 @@
+[
+  {
+    "id": "3m-india",
+    "name": "3M India",
+    "domain": "3m.com",
+    "careers_url": "https://3m.wd1.myworkdayjobs.com/Search",
+    "industry": "Applied Science & Industrial Tech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "3m",
+    "api_endpoint": "https://3m.wd1.myworkdayjobs.com/wday/cxs/3m/Search/jobs",
+    "is_verified": true,
+    "tags": [
+      "manufacturing",
+      "science",
+      "materials",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "acquia",
+    "name": "Acquia India",
+    "domain": "acquia.com",
+    "careers_url": "https://boards.greenhouse.io/acquia",
+    "industry": "Open Digital Experience Platform (Drupal Cloud)",
+    "hq_location": "Pune / Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acquia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acquia/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "cms",
+      "digitalexperience",
+      "drupal"
+    ]
+  },
+  {
+    "id": "adaptivebiotechnologies",
+    "name": "Adaptive Biotechnologies",
+    "domain": "adaptivebiotech.com",
+    "careers_url": "https://boards.greenhouse.io/adaptivebiotechnologies",
+    "industry": "Immune System Genomics & Biotech Software",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adaptivebiotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adaptivebiotechnologies/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "genomics",
+      "greenhouse",
+      "enterprise",
+      "biotech",
+      "healthtech"
+    ]
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe India",
+    "domain": "adobe.com",
+    "careers_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+    "industry": "Creative & Digital Experience Software",
+    "hq_location": "Noida / Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "adobe",
+    "api_endpoint": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs",
+    "is_verified": true,
+    "tags": [
+      "saas",
+      "creative",
+      "ai",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "affirm",
+    "name": "Affirm",
+    "domain": "affirm.com",
+    "careers_url": "https://boards.greenhouse.io/affirm",
+    "industry": "Buy Now, Pay Later Consumer FinTech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "affirm",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/affirm/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "bnpl",
+      "fintech"
+    ]
+  },
+  {
+    "id": "agilysys",
+    "name": "Agilysys India",
+    "domain": "agilysys.com",
+    "careers_url": "https://boards.greenhouse.io/agilysys",
+    "industry": "Hospitality Management Software & POS",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "agilysys",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/agilysys/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "hospitality",
+      "pos"
+    ]
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "domain": "airbnb.com",
+    "careers_url": "https://boards.greenhouse.io/airbnb",
+    "industry": "Vacation Rentals & Experiences Marketplace",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "airbnb",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketplace",
+      "enterprise",
+      "hospitality",
+      "travel"
+    ]
+  },
+  {
+    "id": "airship",
+    "name": "Airship",
+    "domain": "airship.com",
+    "careers_url": "https://boards.greenhouse.io/airship",
+    "industry": "Mobile App Experience & Customer Journey Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "airship",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/airship/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cx",
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "mobile"
+    ]
+  },
+  {
+    "id": "airtable",
+    "name": "Airtable",
+    "domain": "airtable.com",
+    "careers_url": "https://boards.greenhouse.io/airtable",
+    "industry": "Connected Apps & Relational Database Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "airtable",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/airtable/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "database",
+      "saas",
+      "nocode"
+    ]
+  },
+  {
+    "id": "alertmedia",
+    "name": "AlertMedia",
+    "domain": "alertmedia.com",
+    "careers_url": "https://boards.greenhouse.io/alertmedia",
+    "industry": "Emergency Communication & Threat Intelligence",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "alertmedia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/alertmedia/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "safety",
+      "saas",
+      "communications"
+    ]
+  },
+  {
+    "id": "algolia",
+    "name": "Algolia",
+    "domain": "algolia.com",
+    "careers_url": "https://boards.greenhouse.io/algolia",
+    "industry": "AI-Powered Search & Discovery Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "algolia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/algolia/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "search",
+      "ai",
+      "enterprise",
+      "api"
+    ]
+  },
+  {
+    "id": "alorica-india",
+    "name": "Alorica India",
+    "domain": "alorica.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Alorica",
+    "industry": "Customer Experience & Business Process IT",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Alorica",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Alorica/postings",
+    "is_verified": true,
+    "tags": [
+      "bpm",
+      "customerexperience",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "altruist",
+    "name": "Altruist",
+    "domain": "altruist.com",
+    "careers_url": "https://boards.greenhouse.io/altruist",
+    "industry": "Modern Custodial Platform for Financial Advisors",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "altruist",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/altruist/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "wealthtech",
+      "greenhouse",
+      "custody",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "amperity",
+    "name": "Amperity",
+    "domain": "amperity.com",
+    "careers_url": "https://boards.greenhouse.io/amperity",
+    "industry": "Enterprise Customer Data Platform (CDP)",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "amperity",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/amperity/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "data",
+      "cdp"
+    ]
+  },
+  {
+    "id": "anaplan",
+    "name": "Anaplan India",
+    "domain": "anaplan.com",
+    "careers_url": "https://boards.greenhouse.io/anaplan",
+    "industry": "Connected Business Strategy & Financial Planning",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "anaplan",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/anaplan/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "planning",
+      "enterprise",
+      "saas"
+    ]
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "domain": "anthropic.com",
+    "careers_url": "https://boards.greenhouse.io/anthropic",
+    "industry": "AI Research & Frontier Foundation Models",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "anthropic",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "research",
+      "ai",
+      "enterprise",
+      "llm"
+    ]
+  },
+  {
+    "id": "apollo",
+    "name": "Apollo.io",
+    "domain": "apollo.io",
+    "careers_url": "https://boards.greenhouse.io/apollo",
+    "industry": "B2B Sales Intelligence & Lead Engagement",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "apollo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/apollo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "sales",
+      "enterprise",
+      "b2b",
+      "saas"
+    ]
+  },
+  {
+    "id": "appian",
+    "name": "Appian India",
+    "domain": "appian.com",
+    "careers_url": "https://boards.greenhouse.io/appian",
+    "industry": "Low-Code Process Automation & Case Management",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "appian",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/appian/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "automation",
+      "greenhouse",
+      "enterprise",
+      "bpm",
+      "lowcode"
+    ]
+  },
+  {
+    "id": "applovin",
+    "name": "AppLovin",
+    "domain": "applovin.com",
+    "careers_url": "https://boards.greenhouse.io/applovin",
+    "industry": "Mobile Growth Platform & App Monetization",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "applovin",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/applovin/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "adtech",
+      "enterprise",
+      "mobile",
+      "growth"
+    ]
+  },
+  {
+    "id": "aramark",
+    "name": "Aramark",
+    "domain": "aramark.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Aramark",
+    "industry": "Facilities Management & Operations",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Aramark",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Aramark/postings",
+    "is_verified": true,
+    "tags": [
+      "facilities",
+      "hospitality",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "asana",
+    "name": "Asana",
+    "domain": "asana.com",
+    "careers_url": "https://boards.greenhouse.io/asana",
+    "industry": "Enterprise Work Management & Collaboration",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "asana",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/asana/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "collaboration",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "assemblyai",
+    "name": "AssemblyAI",
+    "domain": "assemblyai.com",
+    "careers_url": "https://boards.greenhouse.io/assemblyai",
+    "industry": "Speech AI Models & Voice Transcription APIs",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "assemblyai",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/assemblyai/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "speech",
+      "enterprise",
+      "transcription"
+    ]
+  },
+  {
+    "id": "attentive",
+    "name": "Attentive",
+    "domain": "attentive.com",
+    "careers_url": "https://boards.greenhouse.io/attentive",
+    "industry": "Conversational Commerce & SMS Marketing",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "attentive",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/attentive/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "sms",
+      "martech",
+      "enterprise",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "aura",
+    "name": "Aura",
+    "domain": "aura.com",
+    "careers_url": "https://boards.greenhouse.io/aura",
+    "industry": "Intelligent Digital Safety & Identity Protection",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aura",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aura/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "identity",
+      "consumer",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "autodesk",
+    "name": "Autodesk India",
+    "domain": "autodesk.com",
+    "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "industry": "Design & 3D Engineering Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "autodesk",
+    "api_endpoint": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
+    "is_verified": true,
+    "tags": [
+      "cad",
+      "3d",
+      "design",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "automox",
+    "name": "Automox",
+    "domain": "automox.com",
+    "careers_url": "https://boards.greenhouse.io/automox",
+    "industry": "Cloud-Native Endpoint Management & Patching",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "automox",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/automox/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "endpoints",
+      "greenhouse",
+      "enterprise",
+      "itmanagement",
+      "cloud"
+    ]
+  },
+  {
+    "id": "avery-dennison-india",
+    "name": "Avery Dennison India",
+    "domain": "averydennison.com",
+    "careers_url": "https://jobs.smartrecruiters.com/AveryDennison",
+    "industry": "Materials Science & Digital Identification Tech",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "AveryDennison",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/AveryDennison/postings",
+    "is_verified": true,
+    "tags": [
+      "rfid",
+      "materials",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "aviatrix",
+    "name": "Aviatrix",
+    "domain": "aviatrix.com",
+    "careers_url": "https://boards.greenhouse.io/aviatrix",
+    "industry": "Cloud Network Security & Transit Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aviatrix",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aviatrix/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "networking",
+      "cloud"
+    ]
+  },
+  {
+    "id": "awin",
+    "name": "Awin",
+    "domain": "awin.com",
+    "careers_url": "https://boards.greenhouse.io/awin",
+    "industry": "Global Affiliate Marketing Network & Technology",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "awin",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/awin/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketing",
+      "ecommerce",
+      "enterprise",
+      "affiliate"
+    ]
+  },
+  {
+    "id": "axon",
+    "name": "Axon India",
+    "domain": "axon.com",
+    "careers_url": "https://boards.greenhouse.io/axon",
+    "industry": "Public Safety Hardware & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "axon",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/axon/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "hardware",
+      "publicsafety",
+      "cloud"
+    ]
+  },
+  {
+    "id": "backblaze",
+    "name": "Backblaze",
+    "domain": "backblaze.com",
+    "careers_url": "https://boards.greenhouse.io/backblaze",
+    "industry": "Cloud Storage & Computer Backup",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "backblaze",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/backblaze/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "backup",
+      "greenhouse",
+      "storage",
+      "enterprise",
+      "cloud"
+    ]
+  },
+  {
+    "id": "bandwidth",
+    "name": "Bandwidth",
+    "domain": "bandwidth.com",
+    "careers_url": "https://boards.greenhouse.io/bandwidth",
+    "industry": "Cloud Communications & Voice/SMS Telecom APIs",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bandwidth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bandwidth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "api",
+      "telecom",
+      "cpaas"
+    ]
+  },
+  {
+    "id": "bark",
+    "name": "BARK (BarkBox)",
+    "domain": "bark.co",
+    "careers_url": "https://boards.greenhouse.io/bark",
+    "industry": "Subscription Pet Care, Products & Tech Services",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bark",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bark/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "consumer",
+      "enterprise",
+      "subscription",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "betterment",
+    "name": "Betterment",
+    "domain": "betterment.com",
+    "careers_url": "https://boards.greenhouse.io/betterment",
+    "industry": "Automated Investing & Wealth Management",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "betterment",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/betterment/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "investing",
+      "enterprise",
+      "roboadvisor",
+      "fintech"
+    ]
+  },
+  {
+    "id": "beyondtrust",
+    "name": "BeyondTrust",
+    "domain": "beyondtrust.com",
+    "careers_url": "https://boards.greenhouse.io/beyondtrust",
+    "industry": "Privileged Access Management (PAM) Security",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "beyondtrust",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/beyondtrust/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "identity",
+      "enterprise",
+      "pam"
+    ]
+  },
+  {
+    "id": "bigid",
+    "name": "BigID",
+    "domain": "bigid.com",
+    "careers_url": "https://boards.greenhouse.io/bigid",
+    "industry": "Data Security, Privacy & Compliance Automation",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bigid",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bigid/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "privacy",
+      "datagovernance",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "billtrust",
+    "name": "Billtrust",
+    "domain": "billtrust.com",
+    "careers_url": "https://boards.greenhouse.io/billtrust",
+    "industry": "B2B Accounts Receivable & Order-to-Cash Automation",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "billtrust",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/billtrust/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "b2b",
+      "fintech"
+    ]
+  },
+  {
+    "id": "binance",
+    "name": "Binance",
+    "domain": "binance.com",
+    "careers_url": "https://boards.greenhouse.io/binance",
+    "industry": "Cryptocurrency & Blockchain Infrastructure",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "binance",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/binance/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "web3",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "id": "bird",
+    "name": "Bird Global",
+    "domain": "bird.co",
+    "careers_url": "https://boards.greenhouse.io/bird",
+    "industry": "Shared Electric Micromobility Network",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bird",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bird/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "mobility",
+      "greenhouse",
+      "enterprise",
+      "hardware",
+      "ev"
+    ]
+  },
+  {
+    "id": "bitgo",
+    "name": "BitGo",
+    "domain": "bitgo.com",
+    "careers_url": "https://boards.greenhouse.io/bitgo",
+    "industry": "Digital Asset Custody & Security Infrastructure",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bitgo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bitgo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "id": "bitmovin",
+    "name": "Bitmovin",
+    "domain": "bitmovin.com",
+    "careers_url": "https://boards.greenhouse.io/bitmovin",
+    "industry": "Video Streaming Infrastructure & Player APIs",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bitmovin",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bitmovin/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "video",
+      "enterprise",
+      "developer",
+      "streaming"
+    ]
+  },
+  {
+    "id": "bitpanda",
+    "name": "Bitpanda",
+    "domain": "bitpanda.com",
+    "careers_url": "https://boards.greenhouse.io/bitpanda",
+    "industry": "Digital Investing & Multi-Asset Brokerage",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bitpanda",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bitpanda/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "investing",
+      "enterprise",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "id": "bitwarden",
+    "name": "Bitwarden",
+    "domain": "bitwarden.com",
+    "careers_url": "https://boards.greenhouse.io/bitwarden",
+    "industry": "Open Source Password Management",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bitwarden",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bitwarden/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "passwords",
+      "opensource"
+    ]
+  },
+  {
+    "id": "blend",
+    "name": "Blend",
+    "domain": "blend.com",
+    "careers_url": "https://boards.greenhouse.io/blend",
+    "industry": "Digital Banking Infrastructure Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "blend",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/blend/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "banking",
+      "greenhouse",
+      "enterprise",
+      "lending",
+      "fintech"
+    ]
+  },
+  {
+    "id": "bloom",
+    "name": "Bloom",
+    "domain": "bloom.co",
+    "careers_url": "https://boards.greenhouse.io/bloom",
+    "industry": "Digital Identity & Credit Score Verification",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bloom",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bloom/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "identity",
+      "enterprise",
+      "credit",
+      "fintech"
+    ]
+  },
+  {
+    "id": "bloomreach",
+    "name": "Bloomreach India",
+    "domain": "bloomreach.com",
+    "careers_url": "https://boards.greenhouse.io/bloomreach",
+    "industry": "Commerce Experience Cloud & Personalization AI",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bloomreach",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bloomreach/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "personalization",
+      "ai",
+      "enterprise",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "bluestone",
+    "name": "BlueStone",
+    "domain": "bluestone.com",
+    "careers_url": "https://boards.greenhouse.io/bluestone",
+    "industry": "Omnichannel Fine Jewelry & Retail Tech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bluestone",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bluestone/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "unicorn",
+      "retail",
+      "enterprise",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "bosch-india",
+    "name": "Bosch India",
+    "domain": "bosch.in",
+    "careers_url": "https://jobs.smartrecruiters.com/BoschGroup",
+    "industry": "Mobility & Industrial Technology",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "BoschGroup",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings",
+    "is_verified": true,
+    "tags": [
+      "mobility",
+      "iot",
+      "automotive",
+      "engineering",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "branch",
+    "name": "Branch Metrics",
+    "domain": "branch.io",
+    "careers_url": "https://boards.greenhouse.io/branch",
+    "industry": "Deep Linking & Mobile Measurement Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "branch",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/branch/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "mobile",
+      "analytics"
+    ]
+  },
+  {
+    "id": "brave",
+    "name": "Brave Software",
+    "domain": "brave.com",
+    "careers_url": "https://boards.greenhouse.io/brave",
+    "industry": "Privacy Browser & Web3 Search Engine",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "brave",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/brave/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "browser",
+      "privacy",
+      "enterprise",
+      "web3"
+    ]
+  },
+  {
+    "id": "braze",
+    "name": "Braze",
+    "domain": "braze.com",
+    "careers_url": "https://boards.greenhouse.io/braze",
+    "industry": "Customer Engagement Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "braze",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/braze/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "saas",
+      "engagement"
+    ]
+  },
+  {
+    "id": "brex",
+    "name": "Brex",
+    "domain": "brex.com",
+    "careers_url": "https://boards.greenhouse.io/brex",
+    "industry": "Corporate Cards & AI Spend Management",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "brex",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/brex/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "fintech",
+      "spendmanagement",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "bungie",
+    "name": "Bungie (Sony Interactive)",
+    "domain": "bungie.com",
+    "careers_url": "https://boards.greenhouse.io/bungie",
+    "industry": "AAA Game Development & Interactive Worlds",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bungie",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bungie/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "creative",
+      "greenhouse",
+      "enterprise",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "buzzfeed",
+    "name": "BuzzFeed",
+    "domain": "buzzfeed.com",
+    "careers_url": "https://boards.greenhouse.io/buzzfeed",
+    "industry": "Digital Media, Pop Culture & News Network",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "buzzfeed",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/buzzfeed/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "news",
+      "greenhouse",
+      "media",
+      "enterprise",
+      "content"
+    ]
+  },
+  {
+    "id": "calendly",
+    "name": "Calendly",
+    "domain": "calendly.com",
+    "careers_url": "https://boards.greenhouse.io/calendly",
+    "industry": "Automated Scheduling & Meeting Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "calendly",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/calendly/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "scheduling",
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "calm",
+    "name": "Calm",
+    "domain": "calm.com",
+    "careers_url": "https://boards.greenhouse.io/calm",
+    "industry": "Mental Health, Sleep & Meditation App",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "calm",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/calm/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "wellness",
+      "greenhouse",
+      "consumer",
+      "enterprise",
+      "healthtech"
+    ]
+  },
+  {
+    "id": "cameo",
+    "name": "Cameo",
+    "domain": "cameo.com",
+    "careers_url": "https://boards.greenhouse.io/cameo",
+    "industry": "Personalized Celebrity Video Shoutouts & Media",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cameo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cameo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "consumer",
+      "media",
+      "enterprise",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "canonical",
+    "name": "Canonical (Ubuntu)",
+    "domain": "canonical.com",
+    "careers_url": "https://boards.greenhouse.io/canonical",
+    "industry": "Open Source Operating Systems & Cloud",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "canonical",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/canonical/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "ubuntu",
+      "linux",
+      "opensource"
+    ]
+  },
+  {
+    "id": "careem",
+    "name": "Careem (Uber)",
+    "domain": "careem.com",
+    "careers_url": "https://boards.greenhouse.io/careem",
+    "industry": "Everything App for Mobility, Food & Payments",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "careem",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/careem/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "mobility",
+      "greenhouse",
+      "superapp",
+      "enterprise",
+      "delivery"
+    ]
+  },
+  {
+    "id": "carta",
+    "name": "Carta",
+    "domain": "carta.com",
+    "careers_url": "https://boards.greenhouse.io/carta",
+    "industry": "Equity Management & Ownership Infrastructure",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "carta",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/carta/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "equity",
+      "saas",
+      "fintech"
+    ]
+  },
+  {
+    "id": "carvana",
+    "name": "Carvana",
+    "domain": "carvana.com",
+    "careers_url": "https://boards.greenhouse.io/carvana",
+    "industry": "Online Auto Retailing & Buying Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "carvana",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/carvana/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "automotive",
+      "enterprise",
+      "ecommerce",
+      "fintech"
+    ]
+  },
+  {
+    "id": "caylent",
+    "name": "Caylent",
+    "domain": "caylent.com",
+    "careers_url": "https://boards.greenhouse.io/caylent",
+    "industry": "Cloud-Native & Generative AI AWS Consulting",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "caylent",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/caylent/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "aws",
+      "enterprise",
+      "consulting",
+      "cloud"
+    ]
+  },
+  {
+    "id": "celonis",
+    "name": "Celonis India",
+    "domain": "celonis.com",
+    "careers_url": "https://boards.greenhouse.io/celonis",
+    "industry": "Process Mining & Execution Management",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "celonis",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "processmining",
+      "greenhouse",
+      "enterprise",
+      "saas"
+    ]
+  },
+  {
+    "id": "cern",
+    "name": "CERN",
+    "domain": "cern.ch",
+    "careers_url": "https://jobs.smartrecruiters.com/CERN",
+    "industry": "Nuclear & Computational Research",
+    "hq_location": "Geneva, Switzerland / India Collaboration",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "CERN",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/CERN/postings",
+    "is_verified": true,
+    "tags": [
+      "research",
+      "computing",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "chargepoint",
+    "name": "ChargePoint",
+    "domain": "chargepoint.com",
+    "careers_url": "https://boards.greenhouse.io/chargepoint",
+    "industry": "EV Charging Network & Infrastructure Software",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "chargepoint",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/chargepoint/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "cleantech",
+      "enterprise",
+      "ev",
+      "charging"
+    ]
+  },
+  {
+    "id": "chartboost",
+    "name": "Chartboost",
+    "domain": "chartboost.com",
+    "careers_url": "https://boards.greenhouse.io/chartboost",
+    "industry": "Mobile In-App Advertising & Monetization",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "chartboost",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/chartboost/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "greenhouse",
+      "adtech",
+      "enterprise",
+      "mobile"
+    ]
+  },
+  {
+    "id": "checkr",
+    "name": "Checkr",
+    "domain": "checkr.com",
+    "careers_url": "https://boards.greenhouse.io/checkr",
+    "industry": "AI-Powered Background Check Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "checkr",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/checkr/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "compliance",
+      "hrtech"
+    ]
+  },
+  {
+    "id": "chime",
+    "name": "Chime",
+    "domain": "chime.com",
+    "careers_url": "https://boards.greenhouse.io/chime",
+    "industry": "Consumer Neobanking Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "chime",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/chime/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "banking",
+      "greenhouse",
+      "enterprise",
+      "mobile",
+      "fintech"
+    ]
+  },
+  {
+    "id": "circleci",
+    "name": "CircleCI",
+    "domain": "circleci.com",
+    "careers_url": "https://boards.greenhouse.io/circleci",
+    "industry": "Continuous Integration & Delivery Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "circleci",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/circleci/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "devops",
+      "greenhouse",
+      "enterprise",
+      "cicd",
+      "cloud"
+    ]
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco Systems India",
+    "domain": "cisco.com",
+    "careers_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers",
+    "industry": "Networking & Cloud Security",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "cisco",
+    "api_endpoint": "https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs",
+    "is_verified": true,
+    "tags": [
+      "networking",
+      "cloud",
+      "cybersecurity",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "clara",
+    "name": "Clara",
+    "domain": "clara.com",
+    "careers_url": "https://boards.greenhouse.io/clara",
+    "industry": "Corporate Spend Management & Credit Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clara",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clara/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "corporatecards",
+      "enterprise",
+      "fintech",
+      "latam"
+    ]
+  },
+  {
+    "id": "clear",
+    "name": "CLEAR (Secure Identity)",
+    "domain": "clearme.com",
+    "careers_url": "https://boards.greenhouse.io/clear",
+    "industry": "Biometric Identity & Travel Security Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clear",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clear/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "identity",
+      "enterprise",
+      "biometrics",
+      "travel"
+    ]
+  },
+  {
+    "id": "cleargov",
+    "name": "ClearGov",
+    "domain": "cleargov.com",
+    "careers_url": "https://boards.greenhouse.io/cleargov",
+    "industry": "Government Budgeting & Modern Transparency Software",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cleargov",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cleargov/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "govtech",
+      "finance",
+      "saas"
+    ]
+  },
+  {
+    "id": "clever",
+    "name": "Clever",
+    "domain": "clever.com",
+    "careers_url": "https://boards.greenhouse.io/clever",
+    "industry": "Single Sign-On & EdTech Platform for Schools",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clever",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clever/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "sso",
+      "enterprise",
+      "schools"
+    ]
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare India",
+    "domain": "cloudflare.com",
+    "careers_url": "https://boards.greenhouse.io/cloudflare",
+    "industry": "Cloud Connectivity & Edge Cybersecurity",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cloudflare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cdn",
+      "cybersecurity",
+      "greenhouse",
+      "enterprise",
+      "cloud"
+    ]
+  },
+  {
+    "id": "cockroachlabs",
+    "name": "Cockroach Labs",
+    "domain": "cockroachlabs.com",
+    "careers_url": "https://boards.greenhouse.io/cockroachlabs",
+    "industry": "Cloud Distributed SQL Database",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cockroachlabs",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cockroachlabs/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "sql",
+      "enterprise",
+      "database",
+      "cloud"
+    ]
+  },
+  {
+    "id": "coinbase",
+    "name": "Coinbase India",
+    "domain": "coinbase.com",
+    "careers_url": "https://boards.greenhouse.io/coinbase",
+    "industry": "Cryptocurrency & Web3 Financial Infrastructure",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "coinbase",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "web3",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "id": "collibra",
+    "name": "Collibra",
+    "domain": "collibra.com",
+    "careers_url": "https://boards.greenhouse.io/collibra",
+    "industry": "Data Intelligence & Enterprise Governance",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "collibra",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/collibra/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "data",
+      "governance",
+      "saas"
+    ]
+  },
+  {
+    "id": "colliers-india",
+    "name": "Colliers International India",
+    "domain": "colliers.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Colliers",
+    "industry": "Real Estate Advisory & PropTech",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Colliers",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Colliers/postings",
+    "is_verified": true,
+    "tags": [
+      "proptech",
+      "realestate",
+      "consulting",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "connectwise",
+    "name": "ConnectWise",
+    "domain": "connectwise.com",
+    "careers_url": "https://boards.greenhouse.io/connectwise",
+    "industry": "Software Platform for Technology Solution Providers",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "connectwise",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/connectwise/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "msp",
+      "saas",
+      "itservices"
+    ]
+  },
+  {
+    "id": "contentful",
+    "name": "Contentful",
+    "domain": "contentful.com",
+    "careers_url": "https://boards.greenhouse.io/contentful",
+    "industry": "Composable Headless Content Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "contentful",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/contentful/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "headless",
+      "greenhouse",
+      "enterprise",
+      "cms",
+      "developer"
+    ]
+  },
+  {
+    "id": "contentstack",
+    "name": "Contentstack",
+    "domain": "contentstack.com",
+    "careers_url": "https://boards.greenhouse.io/contentstack",
+    "industry": "Composable Digital Experience Platform (DXP)",
+    "hq_location": "Mumbai / Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "contentstack",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/contentstack/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "mumbai",
+      "enterprise",
+      "saas",
+      "cms",
+      "dxp"
+    ]
+  },
+  {
+    "id": "continental-india",
+    "name": "Continental India",
+    "domain": "continental.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Continental",
+    "industry": "Automotive Software & Autonomous Driving",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Continental",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Continental/postings",
+    "is_verified": true,
+    "tags": [
+      "automotive",
+      "mobility",
+      "embedded",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "conviva",
+    "name": "Conviva",
+    "domain": "conviva.com",
+    "careers_url": "https://boards.greenhouse.io/conviva",
+    "industry": "Operational Data Platform for Streaming Media",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "conviva",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/conviva/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "data",
+      "analytics",
+      "streaming"
+    ]
+  },
+  {
+    "id": "cornerstone",
+    "name": "Cornerstone OnDemand",
+    "domain": "cornerstoneondemand.com",
+    "careers_url": "https://boards.greenhouse.io/cornerstone",
+    "industry": "Talent Management & Learning Experience SaaS",
+    "hq_location": "Mumbai / Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cornerstone",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cornerstone/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "hcm",
+      "enterprise",
+      "hrtech",
+      "learning"
+    ]
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera India",
+    "domain": "coursera.org",
+    "careers_url": "https://boards.greenhouse.io/coursera",
+    "industry": "Higher Education & Degrees Platform",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "coursera",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/coursera/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "education",
+      "degrees",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "cred-lever",
+    "name": "CRED",
+    "domain": "cred.club",
+    "careers_url": "https://jobs.lever.co/cred",
+    "industry": "FinTech / Credit & Rewards",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "cred",
+    "api_endpoint": "https://api.lever.co/v0/postings/cred?mode=json",
+    "is_verified": true,
+    "tags": [
+      "fintech",
+      "unicorn",
+      "bengaluru",
+      "lever"
+    ]
+  },
+  {
+    "id": "crunchyroll",
+    "name": "Crunchyroll",
+    "domain": "crunchyroll.com",
+    "careers_url": "https://boards.greenhouse.io/crunchyroll",
+    "industry": "Anime Streaming & Manga Entertainment",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "crunchyroll",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/crunchyroll/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "media",
+      "enterprise",
+      "anime",
+      "streaming"
+    ]
+  },
+  {
+    "id": "customerio",
+    "name": "Customer.io",
+    "domain": "customer.io",
+    "careers_url": "https://boards.greenhouse.io/customerio",
+    "industry": "Automated Messaging & Workflow Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "customerio",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/customerio/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "automation",
+      "greenhouse",
+      "martech",
+      "email",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "databricks",
+    "name": "Databricks India",
+    "domain": "databricks.com",
+    "careers_url": "https://boards.greenhouse.io/databricks",
+    "industry": "Data Lakehouse & Enterprise AI",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "databricks",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "lakehouse",
+      "ai",
+      "enterprise",
+      "data"
+    ]
+  },
+  {
+    "id": "datacamp",
+    "name": "DataCamp",
+    "domain": "datacamp.com",
+    "careers_url": "https://boards.greenhouse.io/datacamp",
+    "industry": "Interactive Data Science & AI Learning",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "datacamp",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/datacamp/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "python",
+      "enterprise",
+      "datascience"
+    ]
+  },
+  {
+    "id": "datadog",
+    "name": "Datadog India",
+    "domain": "datadoghq.com",
+    "careers_url": "https://boards.greenhouse.io/datadog",
+    "industry": "Cloud Observability & Security Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "datadog",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "observability",
+      "devops",
+      "greenhouse",
+      "enterprise",
+      "cloud"
+    ]
+  },
+  {
+    "id": "dataiku",
+    "name": "Dataiku",
+    "domain": "dataiku.com",
+    "careers_url": "https://boards.greenhouse.io/dataiku",
+    "industry": "Everyday AI & Collaborative Data Science",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dataiku",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dataiku/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "machinelearning",
+      "datascience"
+    ]
+  },
+  {
+    "id": "deliveroo",
+    "name": "Deliveroo India Tech Hub",
+    "domain": "deliveroo.com",
+    "careers_url": "https://boards.greenhouse.io/deliveroo",
+    "industry": "Online Food Delivery Engineering Hub",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "deliveroo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/deliveroo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "hyderabad",
+      "enterprise",
+      "techhub",
+      "foodtech"
+    ]
+  },
+  {
+    "id": "dialpad",
+    "name": "Dialpad India",
+    "domain": "dialpad.com",
+    "careers_url": "https://boards.greenhouse.io/dialpad",
+    "industry": "AI-Powered Customer Intelligence & Voice Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dialpad",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dialpad/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "cpaas",
+      "telephony"
+    ]
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "domain": "discord.com",
+    "careers_url": "https://boards.greenhouse.io/discord",
+    "industry": "Voice, Video & Text Communication Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "discord",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/discord/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "community",
+      "greenhouse",
+      "enterprise",
+      "chat"
+    ]
+  },
+  {
+    "id": "disney",
+    "name": "Disney Streaming / Disney+",
+    "domain": "disney.com",
+    "careers_url": "https://boards.greenhouse.io/disney",
+    "industry": "Global Entertainment & Video Streaming Tech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "disney",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/disney/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "media",
+      "enterprise",
+      "streaming",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "distrokid",
+    "name": "DistroKid",
+    "domain": "distrokid.com",
+    "careers_url": "https://boards.greenhouse.io/distrokid",
+    "industry": "Independent Music Distribution to Streaming Services",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "distrokid",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/distrokid/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "music",
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "distribution"
+    ]
+  },
+  {
+    "id": "doximity",
+    "name": "Doximity",
+    "domain": "doximity.com",
+    "careers_url": "https://boards.greenhouse.io/doximity",
+    "industry": "Professional Medical Network for US Clinicians",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "doximity",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/doximity/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "medical",
+      "enterprise",
+      "healthtech",
+      "telehealth"
+    ]
+  },
+  {
+    "id": "dremio",
+    "name": "Dremio",
+    "domain": "dremio.com",
+    "careers_url": "https://boards.greenhouse.io/dremio",
+    "industry": "Easy & Open Data Lakehouse Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dremio",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dremio/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "sql",
+      "lakehouse",
+      "enterprise",
+      "data"
+    ]
+  },
+  {
+    "id": "drivewealth",
+    "name": "DriveWealth",
+    "domain": "drivewealth.com",
+    "careers_url": "https://boards.greenhouse.io/drivewealth",
+    "industry": "Embedded Finance & Fractional Investing APIs",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "drivewealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/drivewealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "api",
+      "brokerage",
+      "fintech"
+    ]
+  },
+  {
+    "id": "dropbox",
+    "name": "Dropbox",
+    "domain": "dropbox.com",
+    "careers_url": "https://boards.greenhouse.io/dropbox",
+    "industry": "Cloud Storage, Collaboration & DocuSign",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dropbox",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dropbox/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "storage",
+      "enterprise",
+      "collaboration",
+      "saas"
+    ]
+  },
+  {
+    "id": "druva",
+    "name": "Druva",
+    "domain": "druva.com",
+    "careers_url": "https://boards.greenhouse.io/druva",
+    "industry": "Cloud Data Protection & Cyber Resilience",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "druva",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/druva/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "unicorn",
+      "enterprise",
+      "saas",
+      "pune",
+      "cloud"
+    ]
+  },
+  {
+    "id": "duda",
+    "name": "Duda",
+    "domain": "duda.co",
+    "careers_url": "https://boards.greenhouse.io/duda",
+    "industry": "Web Design Platform for Digital Agencies",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "duda",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/duda/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "webdesign",
+      "enterprise",
+      "saas",
+      "agencies"
+    ]
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "domain": "duolingo.com",
+    "careers_url": "https://boards.greenhouse.io/duolingo",
+    "industry": "Mobile Language Learning & Gamified EdTech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "duolingo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/duolingo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "language",
+      "edtech",
+      "greenhouse",
+      "education",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "eab",
+    "name": "EAB Global",
+    "domain": "eab.com",
+    "careers_url": "https://boards.greenhouse.io/eab",
+    "industry": "Education Research, Technology & Enrollment Solutions",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "eab",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/eab/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "highered",
+      "enterprise",
+      "consulting"
+    ]
+  },
+  {
+    "id": "ebury",
+    "name": "Ebury",
+    "domain": "ebury.com",
+    "careers_url": "https://boards.greenhouse.io/ebury",
+    "industry": "Global Cross-Border FinTech & FX Liquidity",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ebury",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ebury/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "fx",
+      "crossborder",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "elastic",
+    "name": "Elastic India",
+    "domain": "elastic.co",
+    "careers_url": "https://boards.greenhouse.io/elastic",
+    "industry": "Search AI & Enterprise Analytics Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "elastic",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "observability",
+      "greenhouse",
+      "search",
+      "ai",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "elationhealth",
+    "name": "Elation Health",
+    "domain": "elationhealth.com",
+    "careers_url": "https://boards.greenhouse.io/elationhealth",
+    "industry": "Clinical-First EHR Platform for Primary Care",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "elationhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/elationhealth/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "clinical",
+      "enterprise",
+      "ehr",
+      "healthtech"
+    ]
+  },
+  {
+    "id": "ensemble",
+    "name": "Ensemble Health Partners",
+    "domain": "ensemblehp.com",
+    "careers_url": "https://boards.greenhouse.io/ensemble",
+    "industry": "Revenue Cycle Management (RCM) for Hospitals",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ensemble",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ensemble/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "rcm",
+      "enterprise",
+      "healthtech",
+      "hospital"
+    ]
+  },
+  {
+    "id": "ensono",
+    "name": "Ensono India",
+    "domain": "ensono.com",
+    "careers_url": "https://boards.greenhouse.io/ensono",
+    "industry": "Hybrid Cloud IT & Mainframe Managed Services",
+    "hq_location": "Pune / Chennai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ensono",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ensono/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "hybrid",
+      "managedservices",
+      "cloud"
+    ]
+  },
+  {
+    "id": "epicgames",
+    "name": "Epic Games India",
+    "domain": "epicgames.com",
+    "careers_url": "https://boards.greenhouse.io/epicgames",
+    "industry": "Unreal Engine & Interactive Entertainment",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "epicgames",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/epicgames/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "3d",
+      "greenhouse",
+      "enterprise",
+      "unrealengine"
+    ]
+  },
+  {
+    "id": "esri",
+    "name": "Esri India",
+    "domain": "esri.in",
+    "careers_url": "https://boards.greenhouse.io/esri",
+    "industry": "Geographic Information System (GIS) Software",
+    "hq_location": "Noida, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "esri",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/esri/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "mapping",
+      "gis",
+      "greenhouse",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "essential",
+    "name": "Essential Accessibility",
+    "domain": "essentialaccessibility.com",
+    "careers_url": "https://boards.greenhouse.io/essential",
+    "industry": "Digital Accessibility & WCAG Compliance SaaS",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "essential",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/essential/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "compliance",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "eucalyptus",
+    "name": "Eucalyptus",
+    "domain": "eucalyptus.vc",
+    "careers_url": "https://boards.greenhouse.io/eucalyptus",
+    "industry": "Digital Healthcare Brands & Telehealth Models",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "eucalyptus",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/eucalyptus/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "consumer",
+      "enterprise",
+      "healthtech",
+      "telehealth"
+    ]
+  },
+  {
+    "id": "eurofins-india",
+    "name": "Eurofins Scientific India",
+    "domain": "eurofins.in",
+    "careers_url": "https://jobs.smartrecruiters.com/Eurofins",
+    "industry": "Bioanalytical Testing & Genomics",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Eurofins",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Eurofins/postings",
+    "is_verified": true,
+    "tags": [
+      "biotech",
+      "genomics",
+      "testing",
+      "healthtech",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "everquote",
+    "name": "EverQuote",
+    "domain": "everquote.com",
+    "careers_url": "https://boards.greenhouse.io/everquote",
+    "industry": "Online Insurance Marketplace Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "everquote",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/everquote/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketplace",
+      "insurance",
+      "enterprise",
+      "insurtech"
+    ]
+  },
+  {
+    "id": "exabeam",
+    "name": "Exabeam",
+    "domain": "exabeam.com",
+    "careers_url": "https://boards.greenhouse.io/exabeam",
+    "industry": "Next-Gen SIEM & Cybersecurity Analytics",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "exabeam",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/exabeam/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "enterprise",
+      "siem",
+      "analytics"
+    ]
+  },
+  {
+    "id": "faire",
+    "name": "Faire",
+    "domain": "faire.com",
+    "careers_url": "https://boards.greenhouse.io/faire",
+    "industry": "Online Wholesale B2B Marketplace",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "faire",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/faire/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketplace",
+      "enterprise",
+      "b2b",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "fandom",
+    "name": "Fandom",
+    "domain": "fandom.com",
+    "careers_url": "https://boards.greenhouse.io/fandom",
+    "industry": "Entertainment Fan Platform & Gaming Communities",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fandom",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fandom/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "community",
+      "greenhouse",
+      "enterprise",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "fanduel",
+    "name": "FanDuel",
+    "domain": "fanduel.com",
+    "careers_url": "https://boards.greenhouse.io/fanduel",
+    "industry": "Online Sportsbook & Daily Fantasy Sports Tech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fanduel",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fanduel/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "greenhouse",
+      "gambling",
+      "enterprise",
+      "sports"
+    ]
+  },
+  {
+    "id": "fareharbor",
+    "name": "FareHarbor",
+    "domain": "fareharbor.com",
+    "careers_url": "https://boards.greenhouse.io/fareharbor",
+    "industry": "Online Reservation & Activity Booking Software",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fareharbor",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fareharbor/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "booking",
+      "tourism"
+    ]
+  },
+  {
+    "id": "fastly",
+    "name": "Fastly",
+    "domain": "fastly.com",
+    "careers_url": "https://boards.greenhouse.io/fastly",
+    "industry": "Edge Cloud Platform & Real-Time CDN",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fastly",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fastly/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cdn",
+      "greenhouse",
+      "enterprise",
+      "edge",
+      "cloud"
+    ]
+  },
+  {
+    "id": "fender",
+    "name": "Fender Musical Instruments",
+    "domain": "fender.com",
+    "careers_url": "https://boards.greenhouse.io/fender",
+    "industry": "Musical Instruments & Digital Learning Apps",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fender",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fender/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "music",
+      "edtech",
+      "greenhouse",
+      "enterprise",
+      "hardware"
+    ]
+  },
+  {
+    "id": "fetch",
+    "name": "Fetch Rewards",
+    "domain": "fetch.com",
+    "careers_url": "https://boards.greenhouse.io/fetch",
+    "industry": "Consumer Rewards & Shopping Engagement App",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fetch",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fetch/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "shopping",
+      "greenhouse",
+      "rewards",
+      "consumer",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "fictiv",
+    "name": "Fictiv",
+    "domain": "fictiv.com",
+    "careers_url": "https://boards.greenhouse.io/fictiv",
+    "industry": "Custom Manufacturing & Digital Sourcing Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fictiv",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fictiv/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "manufacturing",
+      "enterprise",
+      "hardware",
+      "supplychain"
+    ]
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "domain": "figma.com",
+    "careers_url": "https://boards.greenhouse.io/figma",
+    "industry": "Collaborative Interface Design Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "figma",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "collaboration",
+      "ui",
+      "design"
+    ]
+  },
+  {
+    "id": "figure",
+    "name": "Figure Technologies",
+    "domain": "figure.com",
+    "careers_url": "https://boards.greenhouse.io/figure",
+    "industry": "Blockchain Financial Services & Home Equity Lending",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "figure",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/figure/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "blockchain",
+      "enterprise",
+      "lending",
+      "fintech"
+    ]
+  },
+  {
+    "id": "fireblocks",
+    "name": "Fireblocks",
+    "domain": "fireblocks.com",
+    "careers_url": "https://boards.greenhouse.io/fireblocks",
+    "industry": "Enterprise Digital Asset Security & Transfer Tech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fireblocks",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "id": "five9",
+    "name": "Five9 India",
+    "domain": "five9.com",
+    "careers_url": "https://boards.greenhouse.io/five9",
+    "industry": "Intelligent Cloud Contact Center",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "five9",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/five9/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cx",
+      "greenhouse",
+      "enterprise",
+      "cpaas",
+      "cloud"
+    ]
+  },
+  {
+    "id": "fivetran",
+    "name": "Fivetran India",
+    "domain": "fivetran.com",
+    "careers_url": "https://boards.greenhouse.io/fivetran",
+    "industry": "Automated Data Movement & ELT Pipelines",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fivetran",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fivetran/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "etl",
+      "greenhouse",
+      "integration",
+      "enterprise",
+      "data"
+    ]
+  },
+  {
+    "id": "flexport",
+    "name": "Flexport",
+    "domain": "flexport.com",
+    "careers_url": "https://boards.greenhouse.io/flexport",
+    "industry": "Global Freight Forwarding & Supply Chain SaaS",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "flexport",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/flexport/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "logistics",
+      "supplychain"
+    ]
+  },
+  {
+    "id": "forbes",
+    "name": "Forbes",
+    "domain": "forbes.com",
+    "careers_url": "https://boards.greenhouse.io/forbes",
+    "industry": "Business Journalism & Digital Media",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "forbes",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/forbes/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "media",
+      "enterprise",
+      "journalism",
+      "publishing"
+    ]
+  },
+  {
+    "id": "formlabs",
+    "name": "Formlabs",
+    "domain": "formlabs.com",
+    "careers_url": "https://boards.greenhouse.io/formlabs",
+    "industry": "3D Printing Systems & Materials Engineering",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "formlabs",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/formlabs/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "engineering",
+      "enterprise",
+      "hardware",
+      "3dprinting"
+    ]
+  },
+  {
+    "id": "fourkites",
+    "name": "FourKites India",
+    "domain": "fourkites.com",
+    "careers_url": "https://boards.greenhouse.io/fourkites",
+    "industry": "Real-Time Supply Chain Visibility Platform",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fourkites",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fourkites/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "chennai",
+      "enterprise",
+      "logistics",
+      "supplychain"
+    ]
+  },
+  {
+    "id": "freshworks",
+    "name": "Freshworks",
+    "domain": "freshworks.com",
+    "careers_url": "https://careers.smartrecruiters.com/freshworks",
+    "industry": "Enterprise SaaS / CRM",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "freshworks",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/freshworks/postings",
+    "is_verified": true,
+    "tags": [
+      "saas",
+      "crm",
+      "chennai",
+      "nasdaq",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "gallup",
+    "name": "Gallup India",
+    "domain": "gallup.com",
+    "careers_url": "https://boards.greenhouse.io/gallup",
+    "industry": "Workplace Analytics & Management Advisory",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gallup",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gallup/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "analytics",
+      "workplace",
+      "consulting"
+    ]
+  },
+  {
+    "id": "gateway",
+    "name": "Gateway Group",
+    "domain": "gatewaygroup.com",
+    "careers_url": "https://boards.greenhouse.io/gateway",
+    "industry": "Enterprise IT Consulting & Digital Engineering",
+    "hq_location": "Ahmedabad, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gateway",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gateway/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "engineering",
+      "enterprise",
+      "ahmedabad",
+      "consulting"
+    ]
+  },
+  {
+    "id": "gather",
+    "name": "Gather",
+    "domain": "gather.town",
+    "careers_url": "https://boards.greenhouse.io/gather",
+    "industry": "Virtual Spaces & Interactive Proximity Chat",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gather",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gather/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "collaboration",
+      "remote",
+      "virtual"
+    ]
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "domain": "gemini.com",
+    "careers_url": "https://boards.greenhouse.io/gemini",
+    "industry": "Cryptocurrency Exchange & Custodian",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gemini",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gemini/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "web3",
+      "crypto",
+      "gurugram",
+      "fintech"
+    ]
+  },
+  {
+    "id": "generalassembly",
+    "name": "General Assembly",
+    "domain": "generalassemb.ly",
+    "careers_url": "https://boards.greenhouse.io/generalassembly",
+    "industry": "Tech Career Accelerator & Professional Training",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "generalassembly",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/generalassembly/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "career",
+      "enterprise",
+      "training"
+    ]
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis Global",
+    "domain": "genesis.global",
+    "careers_url": "https://boards.greenhouse.io/genesis",
+    "industry": "Low-Code Application Platform for Financial Markets",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "genesis",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/genesis/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "capitalmarkets",
+      "fintech",
+      "lowcode"
+    ]
+  },
+  {
+    "id": "genius",
+    "name": "Genius",
+    "domain": "genius.com",
+    "careers_url": "https://boards.greenhouse.io/genius",
+    "industry": "Music Knowledge & Crowdsourced Lyrics Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "genius",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/genius/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "knowledge",
+      "music",
+      "greenhouse",
+      "media",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "getyourguide",
+    "name": "GetYourGuide",
+    "domain": "getyourguide.com",
+    "careers_url": "https://boards.greenhouse.io/getyourguide",
+    "industry": "Travel Experiences & Tours Marketplace",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "getyourguide",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketplace",
+      "enterprise",
+      "tourism",
+      "travel"
+    ]
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "domain": "ghost.org",
+    "careers_url": "https://boards.greenhouse.io/ghost",
+    "industry": "Open Source Independent Creator Publishing",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ghost",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ghost/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "creator",
+      "enterprise",
+      "opensource",
+      "publishing"
+    ]
+  },
+  {
+    "id": "gitlab",
+    "name": "GitLab",
+    "domain": "gitlab.com",
+    "careers_url": "https://boards.greenhouse.io/gitlab",
+    "industry": "DevSecOps & Code Collaboration Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gitlab",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gitlab/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "devops",
+      "greenhouse",
+      "enterprise",
+      "remote",
+      "git"
+    ]
+  },
+  {
+    "id": "glance",
+    "name": "Glance",
+    "domain": "glance.com",
+    "careers_url": "https://boards.greenhouse.io/glance",
+    "industry": "Smart Lock Screen Content Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "glance",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/glance/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "greenhouse",
+      "ai",
+      "consumer",
+      "media",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "gocardless",
+    "name": "GoCardless",
+    "domain": "gocardless.com",
+    "careers_url": "https://boards.greenhouse.io/gocardless",
+    "industry": "Direct Bank Payment & Recurring Billing",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gocardless",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gocardless/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "fintech",
+      "directdebit"
+    ]
+  },
+  {
+    "id": "godaddy",
+    "name": "GoDaddy India",
+    "domain": "godaddy.com",
+    "careers_url": "https://boards.greenhouse.io/godaddy",
+    "industry": "Domains, Hosting & Website Services",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "godaddy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/godaddy/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "hosting",
+      "domains",
+      "cloud"
+    ]
+  },
+  {
+    "id": "goodnotes",
+    "name": "GoodNotes",
+    "domain": "goodnotes.com",
+    "careers_url": "https://boards.greenhouse.io/goodnotes",
+    "industry": "Digital Paper & AI Note-Taking App",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "goodnotes",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/goodnotes/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "education",
+      "enterprise",
+      "mobile",
+      "productivity"
+    ]
+  },
+  {
+    "id": "grafanalabs",
+    "name": "Grafana Labs",
+    "domain": "grafana.com",
+    "careers_url": "https://boards.greenhouse.io/grafanalabs",
+    "industry": "Open Observability & Dashboards Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "grafanalabs",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "observability",
+      "greenhouse",
+      "metrics",
+      "enterprise",
+      "opensource"
+    ]
+  },
+  {
+    "id": "gravity",
+    "name": "Gravity Payments",
+    "domain": "gravitypayments.com",
+    "careers_url": "https://boards.greenhouse.io/gravity",
+    "industry": "Merchant Services & Credit Card Processing",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gravity",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gravity/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "merchant",
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "groupon",
+    "name": "Groupon",
+    "domain": "groupon.com",
+    "careers_url": "https://boards.greenhouse.io/groupon",
+    "industry": "Local Commerce & Experiences Marketplace",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "groupon",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/groupon/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "local",
+      "greenhouse",
+      "marketplace",
+      "enterprise",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "groww",
+    "name": "Groww",
+    "domain": "groww.in",
+    "careers_url": "https://boards.greenhouse.io/groww",
+    "industry": "Investment & Wealth Management Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "groww",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/groww/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "wealthtech",
+      "greenhouse",
+      "unicorn",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "guild",
+    "name": "Guild Education",
+    "domain": "guild.com",
+    "careers_url": "https://boards.greenhouse.io/guild",
+    "industry": "Education Benefits & Career Opportunity Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "guild",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/guild/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "benefits",
+      "career",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "gusto",
+    "name": "Gusto",
+    "domain": "gusto.com",
+    "careers_url": "https://boards.greenhouse.io/gusto",
+    "industry": "Payroll, HR & Benefits Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gusto",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gusto/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "hrtech",
+      "payroll",
+      "fintech"
+    ]
+  },
+  {
+    "id": "gympass",
+    "name": "Gympass (Wellhub)",
+    "domain": "wellhub.com",
+    "careers_url": "https://boards.greenhouse.io/gympass",
+    "industry": "Corporate Wellbeing & Fitness Network Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gympass",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gympass/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "wellness",
+      "greenhouse",
+      "benefits",
+      "enterprise",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hackerrank",
+    "name": "HackerRank",
+    "domain": "hackerrank.com",
+    "careers_url": "https://boards.greenhouse.io/hackerrank",
+    "industry": "Developer Skills & Technical Assessment",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hackerrank",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "edtech",
+      "greenhouse",
+      "enterprise",
+      "developer",
+      "hrtech"
+    ]
+  },
+  {
+    "id": "handshake",
+    "name": "Handshake",
+    "domain": "joinhandshake.com",
+    "careers_url": "https://boards.greenhouse.io/handshake",
+    "industry": "Early-Career Network & College Recruiting Tech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "handshake",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/handshake/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "career",
+      "enterprise",
+      "recruiting"
+    ]
+  },
+  {
+    "id": "haven",
+    "name": "Haven Technologies",
+    "domain": "haventech.us",
+    "careers_url": "https://boards.greenhouse.io/haven",
+    "industry": "Cloud SaaS Platform for Life Insurance",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "haven",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/haven/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "lifeinsurance",
+      "enterprise",
+      "saas",
+      "insurtech"
+    ]
+  },
+  {
+    "id": "hearst",
+    "name": "Hearst Corporation",
+    "domain": "hearst.com",
+    "careers_url": "https://boards.greenhouse.io/hearst",
+    "industry": "Global Diversified Media, Info & Services",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hearst",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hearst/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "information",
+      "greenhouse",
+      "media",
+      "enterprise",
+      "publishing"
+    ]
+  },
+  {
+    "id": "hellofresh",
+    "name": "HelloFresh",
+    "domain": "hellofresh.com",
+    "careers_url": "https://boards.greenhouse.io/hellofresh",
+    "industry": "Meal Kit Delivery & Direct-to-Consumer FoodTech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hellofresh",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "subscription",
+      "foodtech",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "highradius",
+    "name": "HighRadius",
+    "domain": "highradius.com",
+    "careers_url": "https://boards.greenhouse.io/highradius",
+    "industry": "Autonomous Finance & Order-to-Cash SaaS",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "highradius",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/highradius/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "unicorn",
+      "hyderabad",
+      "enterprise",
+      "saas",
+      "fintech"
+    ]
+  },
+  {
+    "id": "hive",
+    "name": "Hive",
+    "domain": "hive.com",
+    "careers_url": "https://boards.greenhouse.io/hive",
+    "industry": "Project Management & Team Collaboration Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hive",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hive/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "projectmanagement",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hootsuite",
+    "name": "Hootsuite",
+    "domain": "hootsuite.com",
+    "careers_url": "https://boards.greenhouse.io/hootsuite",
+    "industry": "Social Media Management Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hootsuite",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hootsuite/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "saas",
+      "socialmedia"
+    ]
+  },
+  {
+    "id": "hp",
+    "name": "HP India Tech",
+    "domain": "hp.com",
+    "careers_url": "https://boards.greenhouse.io/hp",
+    "industry": "Personal Systems & Digital Printing Solutions",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hp",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hp/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "printers",
+      "hardware",
+      "computing"
+    ]
+  },
+  {
+    "id": "hudl",
+    "name": "Hudl India",
+    "domain": "hudl.com",
+    "careers_url": "https://boards.greenhouse.io/hudl",
+    "industry": "Sports Video Analysis & Performance Tools",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hudl",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hudl/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "video",
+      "enterprise",
+      "sports",
+      "analytics"
+    ]
+  },
+  {
+    "id": "hungryroot",
+    "name": "Hungryroot",
+    "domain": "hungryroot.com",
+    "careers_url": "https://boards.greenhouse.io/hungryroot",
+    "industry": "AI-Powered Grocery & Recipe Delivery",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hungryroot",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hungryroot/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "foodtech",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "huntress",
+    "name": "Huntress",
+    "domain": "huntress.com",
+    "careers_url": "https://boards.greenhouse.io/huntress",
+    "industry": "Managed Cybersecurity & Endpoint Detection (EDR)",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "huntress",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/huntress/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "enterprise",
+      "managed",
+      "edr"
+    ]
+  },
+  {
+    "id": "hyperproof",
+    "name": "Hyperproof",
+    "domain": "hyperproof.io",
+    "careers_url": "https://boards.greenhouse.io/hyperproof",
+    "industry": "Compliance Operations & Risk Management SaaS",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hyperproof",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hyperproof/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "grc",
+      "compliance"
+    ]
+  },
+  {
+    "id": "hypr",
+    "name": "HYPR",
+    "domain": "hypr.com",
+    "careers_url": "https://boards.greenhouse.io/hypr",
+    "industry": "Passwordless Authentication & Multi-Factor Security",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hypr",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hypr/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "identity",
+      "passwordless",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "icon",
+    "name": "ICON plc India",
+    "domain": "iconplc.com",
+    "careers_url": "https://boards.greenhouse.io/icon",
+    "industry": "Clinical Research & Healthcare Intelligence (CRO)",
+    "hq_location": "Chennai / Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "icon",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/icon/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "clinical",
+      "healthcare",
+      "enterprise",
+      "cro"
+    ]
+  },
+  {
+    "id": "idnow",
+    "name": "IDnow",
+    "domain": "idnow.io",
+    "careers_url": "https://boards.greenhouse.io/idnow",
+    "industry": "Identity Verification & Trust Services Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "idnow",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/idnow/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "identity",
+      "kyc",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "imgur",
+    "name": "Imgur",
+    "domain": "imgur.com",
+    "careers_url": "https://boards.greenhouse.io/imgur",
+    "industry": "Community Image Hosting & Viral Content Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "imgur",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/imgur/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "community",
+      "consumer",
+      "media",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "impact",
+    "name": "Impact.com",
+    "domain": "impact.com",
+    "careers_url": "https://boards.greenhouse.io/impact",
+    "industry": "Partnership Automation & Influencer Marketing Cloud",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "impact",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/impact/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "saas",
+      "partnerships"
+    ]
+  },
+  {
+    "id": "inmarket",
+    "name": "InMarket",
+    "domain": "inmarket.com",
+    "careers_url": "https://boards.greenhouse.io/inmarket",
+    "industry": "Real-Time Location Intelligence & Ad Measurement",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "inmarket",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/inmarket/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "adtech",
+      "enterprise",
+      "location"
+    ]
+  },
+  {
+    "id": "inmobi",
+    "name": "InMobi",
+    "domain": "inmobi.com",
+    "careers_url": "https://boards.greenhouse.io/inmobi",
+    "industry": "Mobile Advertising & Consumer Technology",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "inmobi",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/inmobi/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "greenhouse",
+      "unicorn",
+      "adtech",
+      "enterprise",
+      "mobile"
+    ]
+  },
+  {
+    "id": "insight",
+    "name": "Insight Enterprises",
+    "domain": "insight.com",
+    "careers_url": "https://boards.greenhouse.io/insight",
+    "industry": "Intelligent Cloud & Modern Infrastructure Solutions",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "insight",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/insight/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "infrastructure",
+      "enterprise",
+      "itservices",
+      "cloud"
+    ]
+  },
+  {
+    "id": "instacart",
+    "name": "Instacart",
+    "domain": "instacart.com",
+    "careers_url": "https://boards.greenhouse.io/instacart",
+    "industry": "Online Grocery Delivery & Pick-Up Tech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "instacart",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/instacart/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "grocery",
+      "greenhouse",
+      "enterprise",
+      "logistics",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "intel",
+    "name": "Intel India",
+    "domain": "intel.com",
+    "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+    "industry": "Semiconductors & Silicon Systems",
+    "hq_location": "Bengaluru / Hyderabad, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "intel",
+    "api_endpoint": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+    "is_verified": true,
+    "tags": [
+      "semiconductor",
+      "hardware",
+      "systems",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "intercom",
+    "name": "Intercom",
+    "domain": "intercom.com",
+    "careers_url": "https://boards.greenhouse.io/intercom",
+    "industry": "AI Customer Service Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "intercom",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/intercom/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cx",
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "saas",
+      "support"
+    ]
+  },
+  {
+    "id": "iris",
+    "name": "Iris Software",
+    "domain": "irissoftware.com",
+    "careers_url": "https://boards.greenhouse.io/iris",
+    "industry": "Financial IT Services & Digital Engineering",
+    "hq_location": "Noida, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "iris",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/iris/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "noida",
+      "greenhouse",
+      "enterprise",
+      "itservices",
+      "fintech"
+    ]
+  },
+  {
+    "id": "island",
+    "name": "Island (Enterprise Browser)",
+    "domain": "island.io",
+    "careers_url": "https://boards.greenhouse.io/island",
+    "industry": "The Enterprise Web Browser for Security",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "island",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/island/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "enterprise",
+      "browser"
+    ]
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar Land Rover India Tech",
+    "domain": "jaguarlandrover.com",
+    "careers_url": "https://boards.greenhouse.io/jaguar",
+    "industry": "Connected Vehicles & Autonomous EV Engineering",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "jaguar",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/jaguar/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "automotive",
+      "enterprise",
+      "autonomous",
+      "ev"
+    ]
+  },
+  {
+    "id": "jamf",
+    "name": "Jamf",
+    "domain": "jamf.com",
+    "careers_url": "https://boards.greenhouse.io/jamf",
+    "industry": "Apple Enterprise Management & Zero-Day Security",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "jamf",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/jamf/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "apple",
+      "enterprise",
+      "endpoint"
+    ]
+  },
+  {
+    "id": "jfrog",
+    "name": "JFrog India",
+    "domain": "jfrog.com",
+    "careers_url": "https://boards.greenhouse.io/jfrog",
+    "industry": "DevOps & Software Supply Chain Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "jfrog",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/jfrog/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "devops",
+      "bengaluru",
+      "greenhouse",
+      "enterprise",
+      "developer",
+      "binaries"
+    ]
+  },
+  {
+    "id": "jumio",
+    "name": "Jumio India",
+    "domain": "jumio.com",
+    "careers_url": "https://boards.greenhouse.io/jumio",
+    "industry": "AI-Powered Identity Verification & eKYC",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "jumio",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/jumio/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "identity",
+      "greenhouse",
+      "ai",
+      "kyc",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "justworks",
+    "name": "Justworks",
+    "domain": "justworks.com",
+    "careers_url": "https://boards.greenhouse.io/justworks",
+    "industry": "PEO, HR, Benefits & Payroll Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "justworks",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/justworks/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "peo",
+      "greenhouse",
+      "enterprise",
+      "payroll",
+      "hrtech"
+    ]
+  },
+  {
+    "id": "karat",
+    "name": "Karat",
+    "domain": "karat.com",
+    "careers_url": "https://boards.greenhouse.io/karat",
+    "industry": "Technical Interviewing Cloud & Hiring Automation",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "karat",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/karat/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "interviews",
+      "recruiting",
+      "developer"
+    ]
+  },
+  {
+    "id": "kaseya",
+    "name": "Kaseya India",
+    "domain": "kaseya.com",
+    "careers_url": "https://boards.greenhouse.io/kaseya",
+    "industry": "IT Management & Security Software for MSPs",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "kaseya",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/kaseya/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "msp",
+      "itmanagement"
+    ]
+  },
+  {
+    "id": "klaviyo",
+    "name": "Klaviyo",
+    "domain": "klaviyo.com",
+    "careers_url": "https://boards.greenhouse.io/klaviyo",
+    "industry": "Intelligent Marketing Automation Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "klaviyo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/klaviyo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "knowbe4",
+    "name": "KnowBe4",
+    "domain": "knowbe4.com",
+    "careers_url": "https://boards.greenhouse.io/knowbe4",
+    "industry": "Security Awareness Training & Simulated Phishing",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "knowbe4",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/knowbe4/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "enterprise",
+      "phishing",
+      "training"
+    ]
+  },
+  {
+    "id": "konecranes-india",
+    "name": "Konecranes India",
+    "domain": "konecranes.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Konecranes",
+    "industry": "Industrial Lifting & Port Automation",
+    "hq_location": "Pune, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Konecranes",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Konecranes/postings",
+    "is_verified": true,
+    "tags": [
+      "automation",
+      "industrial",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "landor",
+    "name": "Landor & Fitch (WPP)",
+    "domain": "landor.com",
+    "careers_url": "https://boards.greenhouse.io/landor",
+    "industry": "Brand Architecture & Digital Experience Design",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "landor",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/landor/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "branding",
+      "design",
+      "agency"
+    ]
+  },
+  {
+    "id": "lattice",
+    "name": "Lattice",
+    "domain": "lattice.com",
+    "careers_url": "https://boards.greenhouse.io/lattice",
+    "industry": "People Management & Employee Engagement Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "lattice",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/lattice/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "performance",
+      "saas",
+      "hrtech"
+    ]
+  },
+  {
+    "id": "launchdarkly",
+    "name": "LaunchDarkly",
+    "domain": "launchdarkly.com",
+    "careers_url": "https://boards.greenhouse.io/launchdarkly",
+    "industry": "Feature Management & Continuous Delivery",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "launchdarkly",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/launchdarkly/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "devops",
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "developer"
+    ]
+  },
+  {
+    "id": "liftoff",
+    "name": "Liftoff Mobile",
+    "domain": "liftoff.io",
+    "careers_url": "https://boards.greenhouse.io/liftoff",
+    "industry": "Mobile App Marketing & Monetization",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "liftoff",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/liftoff/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "monetization",
+      "adtech",
+      "enterprise",
+      "mobile"
+    ]
+  },
+  {
+    "id": "lucidmotors",
+    "name": "Lucid Motors",
+    "domain": "lucidmotors.com",
+    "careers_url": "https://boards.greenhouse.io/lucidmotors",
+    "industry": "Luxury Electric Vehicle Engineering",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "lucidmotors",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/lucidmotors/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "cleantech",
+      "automotive",
+      "enterprise",
+      "ev"
+    ]
+  },
+  {
+    "id": "lyft",
+    "name": "Lyft",
+    "domain": "lyft.com",
+    "careers_url": "https://boards.greenhouse.io/lyft",
+    "industry": "Ridesharing & Multimodal Mobility Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "lyft",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/lyft/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "mobility",
+      "transportation",
+      "greenhouse",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "magic",
+    "name": "Magic Software Enterprises",
+    "domain": "magicsoftware.com",
+    "careers_url": "https://boards.greenhouse.io/magic",
+    "industry": "Enterprise Application & Business Integration",
+    "hq_location": "Pune, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "magic",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/magic/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "software",
+      "greenhouse",
+      "integration",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "mastercard",
+    "name": "Mastercard India",
+    "domain": "mastercard.com",
+    "careers_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+    "industry": "Payments & Financial Technology",
+    "hq_location": "Pune / Gurugram / Vadodara, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "mastercard",
+    "api_endpoint": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs",
+    "is_verified": true,
+    "tags": [
+      "fintech",
+      "payments",
+      "bfsi",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "masterclass",
+    "name": "MasterClass",
+    "domain": "masterclass.com",
+    "careers_url": "https://boards.greenhouse.io/masterclass",
+    "industry": "Streaming Platform for High-Production Learning",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "masterclass",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/masterclass/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "enterprise",
+      "streaming",
+      "learning"
+    ]
+  },
+  {
+    "id": "mattermost",
+    "name": "Mattermost",
+    "domain": "mattermost.com",
+    "careers_url": "https://boards.greenhouse.io/mattermost",
+    "industry": "Secure Open Source Enterprise Collaboration",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mattermost",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mattermost/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "collaboration",
+      "chat"
+    ]
+  },
+  {
+    "id": "mcafee",
+    "name": "McAfee India",
+    "domain": "mcafee.com",
+    "careers_url": "https://boards.greenhouse.io/mcafee",
+    "industry": "Consumer Cybersecurity & Privacy Defense",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mcafee",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mcafee/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "antivirus",
+      "privacy",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "domain": "medium.com",
+    "careers_url": "https://boards.greenhouse.io/medium",
+    "industry": "Open Publishing & Storytelling Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "medium",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/medium/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "media",
+      "enterprise",
+      "content",
+      "publishing"
+    ]
+  },
+  {
+    "id": "melio",
+    "name": "Melio Payments",
+    "domain": "meliopayments.com",
+    "careers_url": "https://boards.greenhouse.io/melio",
+    "industry": "B2B Payments & Accounts Payable SaaS",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "melio",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/melio/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "b2b",
+      "fintech"
+    ]
+  },
+  {
+    "id": "mercury",
+    "name": "Mercury",
+    "domain": "mercury.com",
+    "careers_url": "https://boards.greenhouse.io/mercury",
+    "industry": "Fintech Banking for Startups & Tech Firms",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mercury",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mercury/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "banking",
+      "startups",
+      "greenhouse",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "microchip-technology",
+    "name": "Microchip Technology India",
+    "domain": "microchip.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Microchip",
+    "industry": "Semiconductors & Embedded Control",
+    "hq_location": "Bengaluru / Chennai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Microchip",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Microchip/postings",
+    "is_verified": true,
+    "tags": [
+      "semiconductor",
+      "embedded",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "mindtickle",
+    "name": "MindTickle",
+    "domain": "mindtickle.com",
+    "careers_url": "https://jobs.lever.co/mindtickle",
+    "industry": "Sales Readiness & Enablement SaaS",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "mindtickle",
+    "api_endpoint": "https://api.lever.co/v0/postings/mindtickle?mode=json",
+    "is_verified": true,
+    "tags": [
+      "saas",
+      "salestech",
+      "unicorn",
+      "pune",
+      "lever"
+    ]
+  },
+  {
+    "id": "mirakl",
+    "name": "Mirakl",
+    "domain": "mirakl.com",
+    "careers_url": "https://boards.greenhouse.io/mirakl",
+    "industry": "Enterprise Marketplace & Dropship Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mirakl",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mirakl/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketplace",
+      "enterprise",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "mixpanel",
+    "name": "Mixpanel",
+    "domain": "mixpanel.com",
+    "careers_url": "https://boards.greenhouse.io/mixpanel",
+    "industry": "Event-Based Product Analytics Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mixpanel",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mixpanel/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "analytics",
+      "product"
+    ]
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB India",
+    "domain": "mongodb.com",
+    "careers_url": "https://boards.greenhouse.io/mongodb",
+    "industry": "Developer Data Platform & Modern Database",
+    "hq_location": "Bengaluru / Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mongodb",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "nosql",
+      "enterprise",
+      "database",
+      "developer"
+    ]
+  },
+  {
+    "id": "monzo",
+    "name": "Monzo",
+    "domain": "monzo.com",
+    "careers_url": "https://boards.greenhouse.io/monzo",
+    "industry": "Digital Banking & Mobile FinTech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "monzo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/monzo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "banking",
+      "greenhouse",
+      "enterprise",
+      "mobile",
+      "fintech"
+    ]
+  },
+  {
+    "id": "mozilla",
+    "name": "Mozilla",
+    "domain": "mozilla.org",
+    "careers_url": "https://boards.greenhouse.io/mozilla",
+    "industry": "Open Web Technologies & Firefox Privacy",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mozilla",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mozilla/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "browser",
+      "privacy",
+      "enterprise",
+      "opensource"
+    ]
+  },
+  {
+    "id": "n26",
+    "name": "N26",
+    "domain": "n26.com",
+    "careers_url": "https://boards.greenhouse.io/n26",
+    "industry": "Digital Mobile Banking Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "n26",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/n26/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "banking",
+      "greenhouse",
+      "enterprise",
+      "mobile",
+      "fintech"
+    ]
+  },
+  {
+    "id": "nasdaq",
+    "name": "Nasdaq India Tech Hub",
+    "domain": "nasdaq.com",
+    "careers_url": "https://boards.greenhouse.io/nasdaq",
+    "industry": "Financial Markets Technology & SaaS",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "nasdaq",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/nasdaq/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "capitalmarkets",
+      "fintech"
+    ]
+  },
+  {
+    "id": "natera",
+    "name": "Natera India",
+    "domain": "natera.com",
+    "careers_url": "https://boards.greenhouse.io/natera",
+    "industry": "Cell-Free DNA Genetic Testing & Oncology",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "natera",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/natera/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "genomics",
+      "greenhouse",
+      "enterprise",
+      "oncology",
+      "healthtech"
+    ]
+  },
+  {
+    "id": "neo4j",
+    "name": "Neo4j",
+    "domain": "neo4j.com",
+    "careers_url": "https://boards.greenhouse.io/neo4j",
+    "industry": "Graph Database & Knowledge Graph Technology",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "neo4j",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/neo4j/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "database",
+      "graph"
+    ]
+  },
+  {
+    "id": "new-relic",
+    "name": "New Relic India",
+    "domain": "newrelic.com",
+    "careers_url": "https://jobs.smartrecruiters.com/NewRelic",
+    "industry": "Observability & Software Analytics",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "NewRelic",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/NewRelic/postings",
+    "is_verified": true,
+    "tags": [
+      "observability",
+      "devops",
+      "saas",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "nextdoor",
+    "name": "Nextdoor",
+    "domain": "nextdoor.com",
+    "careers_url": "https://boards.greenhouse.io/nextdoor",
+    "industry": "Hyperlocal Neighborhood Social Network",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "nextdoor",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/nextdoor/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "local",
+      "greenhouse",
+      "community",
+      "enterprise",
+      "social"
+    ]
+  },
+  {
+    "id": "nextiva",
+    "name": "Nextiva",
+    "domain": "nextiva.com",
+    "careers_url": "https://boards.greenhouse.io/nextiva",
+    "industry": "Conversational AI & Business Communications Cloud",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "nextiva",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/nextiva/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cx",
+      "greenhouse",
+      "enterprise",
+      "telecom",
+      "cpaas"
+    ]
+  },
+  {
+    "id": "nextroll",
+    "name": "NextRoll (AdRoll)",
+    "domain": "nextroll.com",
+    "careers_url": "https://boards.greenhouse.io/nextroll",
+    "industry": "Growth Marketing & AdTech Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "nextroll",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/nextroll/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "adtech",
+      "enterprise",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "nice",
+    "name": "NICE Systems India",
+    "domain": "nice.com",
+    "careers_url": "https://boards.greenhouse.io/nice",
+    "industry": "Cloud Contact Center & Customer AI",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "nice",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/nice/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cx",
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "cpaas"
+    ]
+  },
+  {
+    "id": "northgate",
+    "name": "Northgate Public Services",
+    "domain": "northgateps.com",
+    "careers_url": "https://boards.greenhouse.io/northgate",
+    "industry": "Public Sector Software Solutions",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "northgate",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/northgate/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "government",
+      "software",
+      "publicsector"
+    ]
+  },
+  {
+    "id": "nvidia",
+    "name": "NVIDIA India",
+    "domain": "nvidia.com",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "industry": "AI & Accelerated Computing",
+    "hq_location": "Bengaluru / Pune / Hyderabad, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "nvidia",
+    "api_endpoint": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+    "is_verified": true,
+    "tags": [
+      "ai",
+      "semiconductor",
+      "hardware",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "oath",
+    "name": "Yahoo / Oath India",
+    "domain": "yahooinc.com",
+    "careers_url": "https://boards.greenhouse.io/oath",
+    "industry": "Digital Media & Consumer Internet",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "oath",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/oath/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "consumer",
+      "media",
+      "enterprise",
+      "advertising"
+    ]
+  },
+  {
+    "id": "okta",
+    "name": "Okta India",
+    "domain": "okta.com",
+    "careers_url": "https://boards.greenhouse.io/okta",
+    "industry": "Identity & Access Management SaaS",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "okta",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/okta/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "identity",
+      "enterprise",
+      "saas"
+    ]
+  },
+  {
+    "id": "oliver-wyman",
+    "name": "Oliver Wyman India",
+    "domain": "oliverwyman.com",
+    "careers_url": "https://jobs.lever.co/oliverwyman",
+    "industry": "Management Consulting & Advisory",
+    "hq_location": "Mumbai / Gurugram, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "oliverwyman",
+    "api_endpoint": "https://api.lever.co/v0/postings/oliverwyman?mode=json",
+    "is_verified": true,
+    "tags": [
+      "consulting",
+      "management",
+      "strategy",
+      "lever"
+    ]
+  },
+  {
+    "id": "onetrust",
+    "name": "OneTrust",
+    "domain": "onetrust.com",
+    "careers_url": "https://boards.greenhouse.io/onetrust",
+    "industry": "Trust, Privacy & Governance Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "onetrust",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/onetrust/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "unicorn",
+      "privacy",
+      "enterprise",
+      "compliance"
+    ]
+  },
+  {
+    "id": "pagerduty",
+    "name": "PagerDuty",
+    "domain": "pagerduty.com",
+    "careers_url": "https://boards.greenhouse.io/pagerduty",
+    "industry": "Digital Operations Management Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pagerduty",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "devops",
+      "greenhouse",
+      "enterprise",
+      "incidentmanagement",
+      "saas"
+    ]
+  },
+  {
+    "id": "payoneer",
+    "name": "Payoneer India",
+    "domain": "payoneer.com",
+    "careers_url": "https://boards.greenhouse.io/payoneer",
+    "industry": "Global Cross-Border Payment Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "payoneer",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/payoneer/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "crossborder",
+      "payments",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal India",
+    "domain": "paypal.com",
+    "careers_url": "https://paypal.wd1.myworkdayjobs.com/jobs",
+    "industry": "Digital Payments & FinTech",
+    "hq_location": "Chennai / Bengaluru / Hyderabad, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "paypal",
+    "api_endpoint": "https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs",
+    "is_verified": true,
+    "tags": [
+      "fintech",
+      "payments",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "peloton",
+    "name": "Peloton Interactive",
+    "domain": "onepeloton.com",
+    "careers_url": "https://boards.greenhouse.io/peloton",
+    "industry": "Connected Fitness Hardware & Software",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "peloton",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/peloton/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "consumer",
+      "enterprise",
+      "fitness",
+      "hardware"
+    ]
+  },
+  {
+    "id": "phiture",
+    "name": "Phiture",
+    "domain": "phiture.com",
+    "careers_url": "https://boards.greenhouse.io/phiture",
+    "industry": "Mobile Growth & App Store Optimization Consultancy",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "phiture",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/phiture/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "mobilegrowth",
+      "aso",
+      "enterprise",
+      "consulting"
+    ]
+  },
+  {
+    "id": "pingidentity",
+    "name": "Ping Identity India",
+    "domain": "pingidentity.com",
+    "careers_url": "https://boards.greenhouse.io/pingidentity",
+    "industry": "Intelligent Identity & Access Management",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pingidentity",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pingidentity/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "identity",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "domain": "pinterest.com",
+    "careers_url": "https://boards.greenhouse.io/pinterest",
+    "industry": "Visual Discovery & Social Commerce Engine",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pinterest",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "search",
+      "consumer",
+      "enterprise",
+      "social"
+    ]
+  },
+  {
+    "id": "planetscale",
+    "name": "PlanetScale",
+    "domain": "planetscale.com",
+    "careers_url": "https://boards.greenhouse.io/planetscale",
+    "industry": "Serverless MySQL Database Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "planetscale",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/planetscale/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "database",
+      "mysql",
+      "cloud"
+    ]
+  },
+  {
+    "id": "polaris",
+    "name": "Polaris Wireless",
+    "domain": "polariswireless.com",
+    "careers_url": "https://boards.greenhouse.io/polaris",
+    "industry": "High-Accuracy Location Technology",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "polaris",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/polaris/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "greenhouse",
+      "enterprise",
+      "telecom",
+      "location"
+    ]
+  },
+  {
+    "id": "purestorage",
+    "name": "Pure Storage India",
+    "domain": "purestorage.com",
+    "careers_url": "https://boards.greenhouse.io/purestorage",
+    "industry": "Enterprise Flash Data Storage Solutions",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "purestorage",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/purestorage/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "storage",
+      "greenhouse",
+      "hardware",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "pvh-corp",
+    "name": "PVH Corp (Tommy Hilfiger & Calvin Klein)",
+    "domain": "pvh.com",
+    "careers_url": "https://pvh.wd1.myworkdayjobs.com/PVH_Careers",
+    "industry": "Global Retail & Tech",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "workday",
+    "ats_identifier": "pvh",
+    "api_endpoint": "https://pvh.wd1.myworkdayjobs.com/wday/cxs/pvh/PVH_Careers/jobs",
+    "is_verified": true,
+    "tags": [
+      "retail",
+      "fashion",
+      "bengaluru",
+      "workday"
+    ]
+  },
+  {
+    "id": "qualtrics",
+    "name": "Qualtrics India",
+    "domain": "qualtrics.com",
+    "careers_url": "https://boards.greenhouse.io/qualtrics",
+    "industry": "Experience Management (XM) Software",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "qualtrics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/qualtrics/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "xm",
+      "greenhouse",
+      "saas",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "radar",
+    "name": "Radar",
+    "domain": "radar.com",
+    "careers_url": "https://boards.greenhouse.io/radar",
+    "industry": "Geofencing & Location Infrastructure for Mobile",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "radar",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/radar/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "mobile",
+      "geofencing",
+      "location"
+    ]
+  },
+  {
+    "id": "razorpaysoftwareprivatelimited",
+    "name": "Razorpay",
+    "domain": "razorpay.com",
+    "careers_url": "https://boards.greenhouse.io/razorpaysoftwareprivatelimited",
+    "industry": "Full-Stack Payments & Banking Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "razorpaysoftwareprivatelimited",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "greenhouse",
+      "unicorn",
+      "payments",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "domain": "reddit.com",
+    "careers_url": "https://boards.greenhouse.io/reddit",
+    "industry": "Social News Aggregation & Discussion Community",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "reddit",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/reddit/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "discussion",
+      "greenhouse",
+      "community",
+      "enterprise",
+      "social"
+    ]
+  },
+  {
+    "id": "redhat",
+    "name": "Red Hat India",
+    "domain": "redhat.com",
+    "careers_url": "https://redhat.wd5.myworkdayjobs.com/Jobs",
+    "industry": "Open Source & Enterprise Cloud",
+    "hq_location": "Pune / Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "redhat",
+    "api_endpoint": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/Jobs/jobs",
+    "is_verified": true,
+    "tags": [
+      "opensource",
+      "linux",
+      "cloud",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "remote",
+    "name": "Remote.com",
+    "domain": "remote.com",
+    "careers_url": "https://boards.greenhouse.io/remote",
+    "industry": "Global HR, Payroll & Contractor Management",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "remote",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/remote/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "globalhr",
+      "fintech",
+      "hrtech"
+    ]
+  },
+  {
+    "id": "ripple",
+    "name": "Ripple India",
+    "domain": "ripple.com",
+    "careers_url": "https://boards.greenhouse.io/ripple",
+    "industry": "Enterprise Blockchain & Cross-Border Payments",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ripple",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ripple/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "blockchain",
+      "payments",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "riskified",
+    "name": "Riskified",
+    "domain": "riskified.com",
+    "careers_url": "https://boards.greenhouse.io/riskified",
+    "industry": "E-Commerce Fraud Prevention & Risk AI",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "riskified",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/riskified/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "fraud",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "robinhood",
+    "name": "Robinhood",
+    "domain": "robinhood.com",
+    "careers_url": "https://boards.greenhouse.io/robinhood",
+    "industry": "Pioneering Financial Services Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "robinhood",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/robinhood/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "investing",
+      "enterprise",
+      "brokerage",
+      "fintech"
+    ]
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "domain": "roblox.com",
+    "careers_url": "https://boards.greenhouse.io/roblox",
+    "industry": "Immersive Virtual World & Game Engine Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "roblox",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/roblox/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "greenhouse",
+      "platform",
+      "enterprise",
+      "metaverse"
+    ]
+  },
+  {
+    "id": "roku",
+    "name": "Roku",
+    "domain": "roku.com",
+    "careers_url": "https://boards.greenhouse.io/roku",
+    "industry": "TV Streaming Platform & Connected AdTech",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "roku",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/roku/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "media",
+      "enterprise",
+      "hardware",
+      "streaming"
+    ]
+  },
+  {
+    "id": "rtbhouse",
+    "name": "RTB House",
+    "domain": "rtbhouse.com",
+    "careers_url": "https://boards.greenhouse.io/rtbhouse",
+    "industry": "Deep Learning Ad Retargeting Technology",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "rtbhouse",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/rtbhouse/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketing",
+      "adtech",
+      "deeplearning",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "rubrik",
+    "name": "Rubrik India",
+    "domain": "rubrik.com",
+    "careers_url": "https://boards.greenhouse.io/rubrik",
+    "industry": "Zero Trust Data Security Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "rubrik",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/rubrik/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "backup",
+      "greenhouse",
+      "enterprise",
+      "cloud"
+    ]
+  },
+  {
+    "id": "safebreach",
+    "name": "SafeBreach",
+    "domain": "safebreach.com",
+    "careers_url": "https://boards.greenhouse.io/safebreach",
+    "industry": "Breach and Attack Simulation (BAS) Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "safebreach",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/safebreach/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "simulation",
+      "enterprise",
+      "secops"
+    ]
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce India",
+    "domain": "salesforce.com",
+    "careers_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+    "industry": "Enterprise Cloud & CRM",
+    "hq_location": "Hyderabad / Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "salesforce",
+    "api_endpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+    "is_verified": true,
+    "tags": [
+      "crm",
+      "saas",
+      "cloud",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "salesloft",
+    "name": "Salesloft",
+    "domain": "salesloft.com",
+    "careers_url": "https://boards.greenhouse.io/salesloft",
+    "industry": "AI Revenue Orchestration & Sales Engagement",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "salesloft",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/salesloft/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "saas",
+      "salestech"
+    ]
+  },
+  {
+    "id": "salsify",
+    "name": "Salsify",
+    "domain": "salsify.com",
+    "careers_url": "https://boards.greenhouse.io/salsify",
+    "industry": "Product Information Management (PIM) Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "salsify",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/salsify/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "pim",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "samsara",
+    "name": "Samsara",
+    "domain": "samsara.com",
+    "careers_url": "https://boards.greenhouse.io/samsara",
+    "industry": "Connected Operations Cloud & IoT Fleet Tech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "samsara",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/samsara/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "fleet",
+      "enterprise",
+      "iot",
+      "hardware"
+    ]
+  },
+  {
+    "id": "sas",
+    "name": "SAS Institute India",
+    "domain": "sas.com",
+    "careers_url": "https://boards.greenhouse.io/sas",
+    "industry": "Advanced Analytics & Business Intelligence",
+    "hq_location": "Mumbai / Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sas",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sas/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "data",
+      "analytics"
+    ]
+  },
+  {
+    "id": "scaleai",
+    "name": "Scale AI",
+    "domain": "scale.com",
+    "careers_url": "https://boards.greenhouse.io/scaleai",
+    "industry": "Enterprise AI Data Foundry",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "scaleai",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "enterprise",
+      "machinelearning",
+      "data"
+    ]
+  },
+  {
+    "id": "seatgeek",
+    "name": "SeatGeek",
+    "domain": "seatgeek.com",
+    "careers_url": "https://boards.greenhouse.io/seatgeek",
+    "industry": "Mobile-Focused Ticket Marketplace",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "seatgeek",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/seatgeek/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketplace",
+      "ticketing",
+      "enterprise",
+      "mobile"
+    ]
+  },
+  {
+    "id": "securitas-india",
+    "name": "Securitas India",
+    "domain": "securitas.in",
+    "careers_url": "https://jobs.smartrecruiters.com/Securitas",
+    "industry": "Protective Services & Digital Security",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Securitas",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Securitas/postings",
+    "is_verified": true,
+    "tags": [
+      "security",
+      "facilities",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "sendbird",
+    "name": "Sendbird",
+    "domain": "sendbird.com",
+    "careers_url": "https://boards.greenhouse.io/sendbird",
+    "industry": "Conversational AI, Chat & Video APIs for Mobile",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sendbird",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sendbird/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "api",
+      "cpaas",
+      "chat"
+    ]
+  },
+  {
+    "id": "sgs-india",
+    "name": "SGS India",
+    "domain": "sgs.com",
+    "careers_url": "https://jobs.smartrecruiters.com/SGS",
+    "industry": "Testing, Inspection & Certification",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "SGS",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/SGS/postings",
+    "is_verified": true,
+    "tags": [
+      "testing",
+      "inspection",
+      "certification",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "simpplr",
+    "name": "Simpplr",
+    "domain": "simpplr.com",
+    "careers_url": "https://boards.greenhouse.io/simpplr",
+    "industry": "AI-Powered Employee Experience Intranet",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "simpplr",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/simpplr/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "intranet",
+      "hrtech"
+    ]
+  },
+  {
+    "id": "skillsoft",
+    "name": "Skillsoft India",
+    "domain": "skillsoft.com",
+    "careers_url": "https://boards.greenhouse.io/skillsoft",
+    "industry": "Corporate Digital Learning & Talent Transformation",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "skillsoft",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/skillsoft/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "enterprise",
+      "corporate",
+      "learning"
+    ]
+  },
+  {
+    "id": "slice",
+    "name": "Slice",
+    "domain": "sliceit.com",
+    "careers_url": "https://boards.greenhouse.io/slice",
+    "industry": "Consumer Payments & Neobanking",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "slice",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/slice/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "banking",
+      "bengaluru",
+      "greenhouse",
+      "unicorn",
+      "enterprise",
+      "fintech"
+    ]
+  },
+  {
+    "id": "smartbear",
+    "name": "SmartBear India",
+    "domain": "smartbear.com",
+    "careers_url": "https://boards.greenhouse.io/smartbear",
+    "industry": "Software Quality, Testing & API Tools",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "smartbear",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/smartbear/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "devtools",
+      "enterprise",
+      "api",
+      "testing"
+    ]
+  },
+  {
+    "id": "smartling",
+    "name": "Smartling",
+    "domain": "smartling.com",
+    "careers_url": "https://boards.greenhouse.io/smartling",
+    "industry": "Enterprise Translation & AI Localization",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "smartling",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/smartling/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "localization",
+      "enterprise",
+      "translation"
+    ]
+  },
+  {
+    "id": "smartsheet",
+    "name": "Smartsheet",
+    "domain": "smartsheet.com",
+    "careers_url": "https://boards.greenhouse.io/smartsheet",
+    "industry": "Enterprise Work Management Software",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "smartsheet",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/smartsheet/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "collaboration",
+      "saas"
+    ]
+  },
+  {
+    "id": "sodexo-india",
+    "name": "Sodexo India",
+    "domain": "sodexo.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Sodexo",
+    "industry": "Employee Benefits Tech & Workplace Services",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Sodexo",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Sodexo/postings",
+    "is_verified": true,
+    "tags": [
+      "fintech",
+      "benefits",
+      "services",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "sofi",
+    "name": "SoFi",
+    "domain": "sofi.com",
+    "careers_url": "https://boards.greenhouse.io/sofi",
+    "industry": "Digital Personal Finance & Lending Suite",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sofi",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sofi/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "banking",
+      "greenhouse",
+      "enterprise",
+      "lending",
+      "fintech"
+    ]
+  },
+  {
+    "id": "solarwinds-sr",
+    "name": "SolarWinds India (SR)",
+    "domain": "solarwinds.com",
+    "careers_url": "https://jobs.smartrecruiters.com/SolarWinds",
+    "industry": "IT Infrastructure Management",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "SolarWinds",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/SolarWinds/postings",
+    "is_verified": true,
+    "tags": [
+      "itmanagement",
+      "observability",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "solera",
+    "name": "Solera Holdings",
+    "domain": "solera.com",
+    "careers_url": "https://boards.greenhouse.io/solera",
+    "industry": "Automotive Fleet & Risk Intelligence Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "solera",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/solera/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "fleet",
+      "automotive",
+      "enterprise",
+      "risk"
+    ]
+  },
+  {
+    "id": "sonicwall",
+    "name": "SonicWall India",
+    "domain": "sonicwall.com",
+    "careers_url": "https://boards.greenhouse.io/sonicwall",
+    "industry": "Cybersecurity & Firewall Defense",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sonicwall",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sonicwall/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "enterprise",
+      "network",
+      "cloud"
+    ]
+  },
+  {
+    "id": "splice",
+    "name": "Splice",
+    "domain": "splice.com",
+    "careers_url": "https://boards.greenhouse.io/splice",
+    "industry": "Music Creation & Audio Sample Ecosystem",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "splice",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/splice/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "audio",
+      "creative",
+      "music",
+      "greenhouse",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "sproutsocial",
+    "name": "Sprout Social",
+    "domain": "sproutsocial.com",
+    "careers_url": "https://boards.greenhouse.io/sproutsocial",
+    "industry": "Social Media Management & Analytics",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sproutsocial",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sproutsocial/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "social",
+      "analytics"
+    ]
+  },
+  {
+    "id": "squarespace",
+    "name": "Squarespace",
+    "domain": "squarespace.com",
+    "careers_url": "https://boards.greenhouse.io/squarespace",
+    "industry": "Website Building & E-Commerce Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "squarespace",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/squarespace/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "website",
+      "greenhouse",
+      "enterprise",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "stackexchange",
+    "name": "Stack Overflow",
+    "domain": "stackoverflow.com",
+    "careers_url": "https://boards.greenhouse.io/stackexchange",
+    "industry": "Knowledge Sharing & Developer Community Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "stackexchange",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/stackexchange/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "knowledge",
+      "greenhouse",
+      "community",
+      "enterprise",
+      "developer"
+    ]
+  },
+  {
+    "id": "starburst",
+    "name": "Starburst Data",
+    "domain": "starburst.io",
+    "careers_url": "https://boards.greenhouse.io/starburst",
+    "industry": "Open Analytics Network Powered by Trino",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "starburst",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/starburst/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "sql",
+      "enterprise",
+      "data",
+      "trino"
+    ]
+  },
+  {
+    "id": "stitchfix",
+    "name": "Stitch Fix",
+    "domain": "stitchfix.com",
+    "careers_url": "https://boards.greenhouse.io/stitchfix",
+    "industry": "Personal Styling & E-Commerce Service",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "stitchfix",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "fashion",
+      "enterprise",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "storable",
+    "name": "Storable",
+    "domain": "storable.com",
+    "careers_url": "https://boards.greenhouse.io/storable",
+    "industry": "Management Software for Self-Storage Operators",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "storable",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/storable/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "proptech",
+      "greenhouse",
+      "enterprise",
+      "management",
+      "saas"
+    ]
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe India",
+    "domain": "stripe.com",
+    "careers_url": "https://boards.greenhouse.io/stripe",
+    "industry": "Financial Infrastructure & Payments API",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "stripe",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "infrastructure",
+      "fintech"
+    ]
+  },
+  {
+    "id": "sumologic",
+    "name": "Sumo Logic India",
+    "domain": "sumologic.com",
+    "careers_url": "https://boards.greenhouse.io/sumologic",
+    "industry": "Cloud-Native Machine Data Analytics & SIEM",
+    "hq_location": "Noida, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sumologic",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sumologic/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "observability",
+      "greenhouse",
+      "enterprise",
+      "siem",
+      "cloud"
+    ]
+  },
+  {
+    "id": "sumup",
+    "name": "SumUp",
+    "domain": "sumup.com",
+    "careers_url": "https://boards.greenhouse.io/sumup",
+    "industry": "Point-of-Sale (POS) & Merchant Payments",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sumup",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sumup/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "fintech",
+      "pos"
+    ]
+  },
+  {
+    "id": "surveymonkey",
+    "name": "SurveyMonkey (Momentive)",
+    "domain": "surveymonkey.com",
+    "careers_url": "https://boards.greenhouse.io/surveymonkey",
+    "industry": "Experience Data & Survey Software",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "surveymonkey",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/surveymonkey/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "survey",
+      "greenhouse",
+      "feedback",
+      "enterprise",
+      "saas"
+    ]
+  },
+  {
+    "id": "target-india",
+    "name": "Target India",
+    "domain": "target.com",
+    "careers_url": "https://target.wd5.myworkdayjobs.com/targetcareers",
+    "industry": "Retail & Technology Enterprise Hub",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "target",
+    "api_endpoint": "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs",
+    "is_verified": true,
+    "tags": [
+      "retail",
+      "ecommerce",
+      "bengaluru",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "tcs",
+    "name": "Tata Consultancy Services (TCS)",
+    "domain": "tcs.com",
+    "careers_url": "https://boards.greenhouse.io/tcs",
+    "industry": "IT Services & Consulting",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tcs",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tcs/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "itservices",
+      "greenhouse",
+      "enterprise",
+      "consulting"
+    ]
+  },
+  {
+    "id": "thoughtworks",
+    "name": "Thoughtworks India",
+    "domain": "thoughtworks.com",
+    "careers_url": "https://boards.greenhouse.io/thoughtworks",
+    "industry": "Global Software Consultancy & Digital Engineering",
+    "hq_location": "Bengaluru / Pune / Gurugram / Chennai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "thoughtworks",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/thoughtworks/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "greenhouse",
+      "enterprise",
+      "software",
+      "agile",
+      "consulting"
+    ]
+  },
+  {
+    "id": "tripadvisor",
+    "name": "Tripadvisor",
+    "domain": "tripadvisor.com",
+    "careers_url": "https://boards.greenhouse.io/tripadvisor",
+    "industry": "Travel Guidance & Booking Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tripadvisor",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tripadvisor/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "consumer",
+      "enterprise",
+      "hospitality",
+      "travel"
+    ]
+  },
+  {
+    "id": "ttec-india",
+    "name": "TTEC India",
+    "domain": "ttec.com",
+    "careers_url": "https://jobs.smartrecruiters.com/TTEC",
+    "industry": "Customer Experience & Digital Engagement",
+    "hq_location": "Ahmedabad / Hyderabad, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "TTEC",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/TTEC/postings",
+    "is_verified": true,
+    "tags": [
+      "cx",
+      "bpm",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "twilio",
+    "name": "Twilio India",
+    "domain": "twilio.com",
+    "careers_url": "https://boards.greenhouse.io/twilio",
+    "industry": "Customer Engagement & Communications Platform",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "twilio",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/twilio/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "api",
+      "telecom",
+      "cpaas"
+    ]
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "domain": "twitch.tv",
+    "careers_url": "https://boards.greenhouse.io/twitch",
+    "industry": "Interactive Live Streaming Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "twitch",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/twitch/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "gaming",
+      "greenhouse",
+      "video",
+      "enterprise",
+      "streaming"
+    ]
+  },
+  {
+    "id": "typeform",
+    "name": "Typeform",
+    "domain": "typeform.com",
+    "careers_url": "https://boards.greenhouse.io/typeform",
+    "industry": "Interactive Forms & Conversational Data Collection",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "typeform",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/typeform/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "enterprise",
+      "forms",
+      "saas",
+      "surveys"
+    ]
+  },
+  {
+    "id": "uber-india",
+    "name": "Uber India Engineering",
+    "domain": "uber.com",
+    "careers_url": "https://jobs.smartrecruiters.com/Uber",
+    "industry": "Mobility & Delivery Tech Hub",
+    "hq_location": "Bengaluru / Hyderabad, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "Uber",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/Uber/postings",
+    "is_verified": true,
+    "tags": [
+      "mobility",
+      "delivery",
+      "techhub",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "udacity",
+    "name": "Udacity",
+    "domain": "udacity.com",
+    "careers_url": "https://boards.greenhouse.io/udacity",
+    "industry": "Tech Nanodegrees & Upskilling Programs",
+    "hq_location": "Noida, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "udacity",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/udacity/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "onlinelearning",
+      "enterprise",
+      "nanodegree"
+    ]
+  },
+  {
+    "id": "udemy",
+    "name": "Udemy India",
+    "domain": "udemy.com",
+    "careers_url": "https://boards.greenhouse.io/udemy",
+    "industry": "Online Learning & Corporate Skills Marketplace",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "udemy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/udemy/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "edtech",
+      "greenhouse",
+      "elearning",
+      "enterprise",
+      "skills"
+    ]
+  },
+  {
+    "id": "upwork",
+    "name": "Upwork",
+    "domain": "upwork.com",
+    "careers_url": "https://boards.greenhouse.io/upwork",
+    "industry": "Global Freelance Talent Marketplace",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "upwork",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/upwork/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "marketplace",
+      "enterprise",
+      "talent",
+      "freelance"
+    ]
+  },
+  {
+    "id": "verifone",
+    "name": "Verifone India",
+    "domain": "verifone.com",
+    "careers_url": "https://boards.greenhouse.io/verifone",
+    "industry": "Electronic Payment Solutions & POS",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "verifone",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/verifone/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "fintech",
+      "pos"
+    ]
+  },
+  {
+    "id": "voxmedia",
+    "name": "Vox Media",
+    "domain": "voxmedia.com",
+    "careers_url": "https://boards.greenhouse.io/voxmedia",
+    "industry": "Modern Media & Publishing Platform",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "voxmedia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/voxmedia/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "media",
+      "enterprise",
+      "content",
+      "publishing"
+    ]
+  },
+  {
+    "id": "webflow",
+    "name": "Webflow",
+    "domain": "webflow.com",
+    "careers_url": "https://boards.greenhouse.io/webflow",
+    "industry": "Visual Web Development Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "webflow",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/webflow/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "webdesign",
+      "enterprise",
+      "saas",
+      "nocode"
+    ]
+  },
+  {
+    "id": "western-digital-india",
+    "name": "Western Digital India",
+    "domain": "westerndigital.com",
+    "careers_url": "https://jobs.smartrecruiters.com/WesternDigital",
+    "industry": "Data Storage & Memory Architecture",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "WesternDigital",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings",
+    "is_verified": true,
+    "tags": [
+      "storage",
+      "hardware",
+      "semiconductor",
+      "smartrecruiters"
+    ]
+  },
+  {
+    "id": "westernunion",
+    "name": "Western Union India",
+    "domain": "westernunion.com",
+    "careers_url": "https://boards.greenhouse.io/westernunion",
+    "industry": "Global Money Movement & Payments",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "westernunion",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/westernunion/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "payments",
+      "enterprise",
+      "fintech",
+      "pune"
+    ]
+  },
+  {
+    "id": "workato",
+    "name": "Workato India",
+    "domain": "workato.com",
+    "careers_url": "https://boards.greenhouse.io/workato",
+    "industry": "Enterprise Integration & Workflow Automation",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "workato",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/workato/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "bengaluru",
+      "automation",
+      "greenhouse",
+      "integration",
+      "enterprise",
+      "saas"
+    ]
+  },
+  {
+    "id": "workday",
+    "name": "Workday India",
+    "domain": "workday.com",
+    "careers_url": "https://workday.wd5.myworkdayjobs.com/workday",
+    "industry": "Enterprise Cloud Applications",
+    "hq_location": "Pune / Bengaluru, India",
+    "tier": 1,
+    "ats_type": "workday",
+    "ats_identifier": "workday",
+    "api_endpoint": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/workday/jobs",
+    "is_verified": true,
+    "tags": [
+      "saas",
+      "hcm",
+      "erp",
+      "enterprise",
+      "workday"
+    ]
+  },
+  {
+    "id": "yext",
+    "name": "Yext",
+    "domain": "yext.com",
+    "careers_url": "https://boards.greenhouse.io/yext",
+    "industry": "AI Search & Digital Experience Platform",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "yext",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/yext/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "search",
+      "enterprise",
+      "seo",
+      "saas"
+    ]
+  },
+  {
+    "id": "yieldmo",
+    "name": "Yieldmo",
+    "domain": "yieldmo.com",
+    "careers_url": "https://boards.greenhouse.io/yieldmo",
+    "industry": "Smart Ad Exchange & Digital Advertising Tech",
+    "hq_location": "Remote / India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "yieldmo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/yieldmo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "adtech",
+      "enterprise",
+      "media",
+      "analytics"
+    ]
+  },
+  {
+    "id": "yotpo",
+    "name": "Yotpo",
+    "domain": "yotpo.com",
+    "careers_url": "https://boards.greenhouse.io/yotpo",
+    "industry": "E-Commerce Retention & Reviews Marketing Cloud",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "yotpo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/yotpo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "martech",
+      "enterprise",
+      "reviews",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "zenoti",
+    "name": "Zenoti",
+    "domain": "zenoti.com",
+    "careers_url": "https://boards.greenhouse.io/zenoti",
+    "industry": "Enterprise Wellness & Spa Software",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zenoti",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zenoti/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "wellness",
+      "greenhouse",
+      "unicorn",
+      "hyderabad",
+      "enterprise",
+      "saas"
+    ]
+  },
+  {
+    "id": "ziprecruiter",
+    "name": "ZipRecruiter",
+    "domain": "ziprecruiter.com",
+    "careers_url": "https://boards.greenhouse.io/ziprecruiter",
+    "industry": "AI-Powered Employment Marketplace",
+    "hq_location": "Remote / India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ziprecruiter",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ziprecruiter/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "ai",
+      "marketplace",
+      "enterprise",
+      "recruiting"
+    ]
+  },
+  {
+    "id": "zoominfo",
+    "name": "ZoomInfo",
+    "domain": "zoominfo.com",
+    "careers_url": "https://boards.greenhouse.io/zoominfo",
+    "industry": "Go-To-Market Intelligence SaaS",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zoominfo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zoominfo/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "greenhouse",
+      "salesintel",
+      "enterprise",
+      "b2b",
+      "saas"
+    ]
+  },
+  {
+    "id": "zscaler",
+    "name": "Zscaler India",
+    "domain": "zscaler.com",
+    "careers_url": "https://boards.greenhouse.io/zscaler",
+    "industry": "Cloud Cybersecurity & Zero Trust Platform",
+    "hq_location": "Bengaluru / Chandigarh / Pune, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zscaler",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "cybersecurity",
+      "greenhouse",
+      "enterprise",
+      "zerotrust",
+      "cloud"
+    ]
+  },
+  {
+    "id": "zuora",
+    "name": "Zuora India",
+    "domain": "zuora.com",
+    "careers_url": "https://boards.greenhouse.io/zuora",
+    "industry": "Subscription Economy Monetization Platform",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zuora",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zuora/jobs?content=true",
+    "is_verified": true,
+    "tags": [
+      "chennai",
+      "greenhouse",
+      "subscriptions",
+      "enterprise",
+      "saas",
+      "billing"
+    ]
+  }
+]

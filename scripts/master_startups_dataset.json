@@ -1,0 +1,6435 @@
+[
+  {
+    "id": "razorpay",
+    "name": "Razorpay",
+    "domain": "razorpay.com",
+    "careers_url": "https://razorpay.com/jobs",
+    "industry": "Fintech / Payments",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "razorpaysoftwareprivatelimited",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs?content=true",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "payments",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "domain": "swiggy.com",
+    "careers_url": "https://careers.swiggy.com",
+    "industry": "Food Delivery / Quick Commerce",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "swiggy",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/swiggy/postings?limit=100",
+    "tags": [
+      "ecommerce",
+      "quickcommerce",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "cred",
+    "name": "CRED",
+    "domain": "cred.club",
+    "careers_url": "https://careers.cred.club",
+    "industry": "Fintech / Rewards",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "cred",
+    "api_endpoint": "https://api.lever.co/v0/postings/cred?mode=json",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "credit",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "domain": "meesho.com",
+    "careers_url": "https://careers.meesho.com",
+    "industry": "E-Commerce Marketplace",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "meesho",
+    "api_endpoint": "https://api.lever.co/v0/postings/meesho?mode=json",
+    "tags": [
+      "ecommerce",
+      "unicorn",
+      "socialcommerce",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "groww",
+    "name": "Groww",
+    "domain": "groww.in",
+    "careers_url": "https://groww.in/careers",
+    "industry": "Fintech / WealthTech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "groww",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/groww/jobs?content=true",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "wealthtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "slice",
+    "name": "Slice",
+    "domain": "sliceit.com",
+    "careers_url": "https://sliceit.com/careers",
+    "industry": "Fintech / Banking",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "slice",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/slice/jobs?content=true",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "neobank",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "domain": "paytm.com",
+    "careers_url": "https://careers.paytm.com",
+    "industry": "Fintech / Payments",
+    "hq_location": "Noida, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "paytm",
+    "api_endpoint": "https://api.lever.co/v0/postings/paytm?mode=json",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "payments",
+      "noida"
+    ]
+  },
+  {
+    "id": "clear",
+    "name": "Clear",
+    "domain": "clear.in",
+    "careers_url": "https://clear.in/careers",
+    "industry": "Fintech / Tax Compliance",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clear",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clear/jobs?content=true",
+    "tags": [
+      "fintech",
+      "saas",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "porter",
+    "name": "Porter",
+    "domain": "porter.in",
+    "careers_url": "https://porter.in/careers",
+    "industry": "Logistics / Intra-City",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "porter",
+    "api_endpoint": "https://api.lever.co/v0/postings/porter?mode=json",
+    "tags": [
+      "logistics",
+      "mobility",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "freshworks",
+    "name": "Freshworks",
+    "domain": "freshworks.com",
+    "careers_url": "https://careers.freshworks.com",
+    "industry": "Enterprise SaaS",
+    "hq_location": "Chennai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "freshworks",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/freshworks/postings?limit=100",
+    "tags": [
+      "saas",
+      "crm",
+      "unicorn",
+      "chennai"
+    ]
+  },
+  {
+    "id": "bounce",
+    "name": "Bounce",
+    "domain": "bounceinfinity.com",
+    "careers_url": "https://jobs.ashbyhq.com/bounce",
+    "industry": "Mobility / EV",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "bounce",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "mobility",
+      "ev",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "river",
+    "name": "River Mobility",
+    "domain": "rideriver.com",
+    "careers_url": "https://jobs.ashbyhq.com/river",
+    "industry": "Mobility / Electric Vehicles",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "river",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "mobility",
+      "ev",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "captainfresh",
+    "name": "Captain Fresh",
+    "domain": "captainfresh.in",
+    "careers_url": "https://careers.smartrecruiters.com/captainfresh",
+    "industry": "B2B Supply Chain / Seafood",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "captainfresh",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/captainfresh/postings?limit=100",
+    "tags": [
+      "b2b",
+      "supplychain",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "rebelfoods",
+    "name": "Rebel Foods",
+    "domain": "rebelfoods.com",
+    "careers_url": "https://careers.smartrecruiters.com/rebelfoods",
+    "industry": "Cloud Kitchen / FoodTech",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "rebelfoods",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/rebelfoods/postings?limit=100",
+    "tags": [
+      "foodtech",
+      "unicorn",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "pilgrim",
+    "name": "Pilgrim",
+    "domain": "journeyofpilgrim.com",
+    "careers_url": "https://jobs.ashbyhq.com/pilgrim",
+    "industry": "D2C / Beauty & Personal Care",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "pilgrim",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "d2c",
+      "beauty",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "hopscotch",
+    "name": "Hopscotch",
+    "domain": "hopscotch.in",
+    "careers_url": "https://boards.greenhouse.io/hopscotch",
+    "industry": "Kids Fashion / E-Commerce",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hopscotch",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hopscotch/jobs?content=true",
+    "tags": [
+      "ecommerce",
+      "fashion",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "loginext",
+    "name": "LogiNext",
+    "domain": "loginextsolutions.com",
+    "careers_url": "https://careers.smartrecruiters.com/loginext",
+    "industry": "Logistics Automation SaaS",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "loginext",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/loginext/postings?limit=100",
+    "tags": [
+      "logistics",
+      "saas",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "shipsy",
+    "name": "Shipsy",
+    "domain": "shipsy.io",
+    "careers_url": "https://careers.smartrecruiters.com/shipsy",
+    "industry": "Logistics & Supply Chain SaaS",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "shipsy",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/shipsy/postings?limit=100",
+    "tags": [
+      "logistics",
+      "saas",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "navi",
+    "name": "Navi Technologies",
+    "domain": "navi.com",
+    "careers_url": "https://jobs.ashbyhq.com/navi",
+    "industry": "Fintech / Lending & Insurance",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "navi",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "fintech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "fampay",
+    "name": "FamPay",
+    "domain": "fampay.in",
+    "careers_url": "https://jobs.lever.co/fampay",
+    "industry": "Fintech / Gen-Z Banking",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "fampay",
+    "api_endpoint": "https://api.lever.co/v0/postings/fampay?mode=json",
+    "tags": [
+      "fintech",
+      "payments",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "fi",
+    "name": "Fi Money",
+    "domain": "fi.money",
+    "careers_url": "https://jobs.lever.co/fi",
+    "industry": "Fintech / Neobank",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "fi",
+    "api_endpoint": "https://api.lever.co/v0/postings/fi?mode=json",
+    "tags": [
+      "fintech",
+      "neobank",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "gripinvest",
+    "name": "Grip Invest",
+    "domain": "gripinvest.in",
+    "careers_url": "https://careers.smartrecruiters.com/gripinvest",
+    "industry": "Fintech / Alternative Wealth",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "gripinvest",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/gripinvest/postings?limit=100",
+    "tags": [
+      "fintech",
+      "wealthtech",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "bureau",
+    "name": "Bureau ID",
+    "domain": "bureau.id",
+    "careers_url": "https://jobs.ashbyhq.com/bureau",
+    "industry": "Fintech / Fraud Prevention & Identity",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "bureau",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "fintech",
+      "security",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "digit",
+    "name": "Digit Insurance",
+    "domain": "godigit.com",
+    "careers_url": "https://boards.greenhouse.io/digit",
+    "industry": "InsurTech / General Insurance",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "digit",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/digit/jobs?content=true",
+    "tags": [
+      "insurtech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "turtlemint",
+    "name": "Turtlemint",
+    "domain": "turtlemint.com",
+    "careers_url": "https://careers.smartrecruiters.com/turtlemint",
+    "industry": "InsurTech",
+    "hq_location": "Mumbai, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "turtlemint",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/turtlemint/postings?limit=100",
+    "tags": [
+      "insurtech",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "loophealth",
+    "name": "Loop Health",
+    "domain": "loophealth.com",
+    "careers_url": "https://careers.smartrecruiters.com/loophealth",
+    "industry": "HealthTech / Group Health Insurance",
+    "hq_location": "Pune, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "loophealth",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/loophealth/postings?limit=100",
+    "tags": [
+      "healthtech",
+      "insurtech",
+      "pune"
+    ]
+  },
+  {
+    "id": "unacademy",
+    "name": "Unacademy",
+    "domain": "unacademy.com",
+    "careers_url": "https://careers.smartrecruiters.com/unacademy",
+    "industry": "EdTech",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "unacademy",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/unacademy/postings?limit=100",
+    "tags": [
+      "edtech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "scaler",
+    "name": "Scaler (InterviewBit)",
+    "domain": "scaler.com",
+    "careers_url": "https://careers.smartrecruiters.com/interviewbit",
+    "industry": "EdTech / Tech Skilling",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "interviewbit",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/interviewbit/postings?limit=100",
+    "tags": [
+      "edtech",
+      "skilling",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "newtonschool",
+    "name": "Newton School",
+    "domain": "newtonschool.co",
+    "careers_url": "https://careers.smartrecruiters.com/newtonschool",
+    "industry": "EdTech / Neo-University",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "newtonschool",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/newtonschool/postings?limit=100",
+    "tags": [
+      "edtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "collegedekho",
+    "name": "CollegeDekho",
+    "domain": "collegedekho.com",
+    "careers_url": "https://careers.smartrecruiters.com/collegedekho",
+    "industry": "EdTech / Counseling",
+    "hq_location": "Gurugram, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "collegedekho",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/collegedekho/postings?limit=100",
+    "tags": [
+      "edtech",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "devrev",
+    "name": "DevRev",
+    "domain": "devrev.ai",
+    "careers_url": "https://boards.greenhouse.io/devrev",
+    "industry": "Developer Tools / AI CRM",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "devrev",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/devrev/jobs?content=true",
+    "tags": [
+      "saas",
+      "ai",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "signoz",
+    "name": "SigNoz",
+    "domain": "signoz.io",
+    "careers_url": "https://jobs.ashbyhq.com/signoz",
+    "industry": "Developer Tools / Observability",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "signoz",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "devtools",
+      "opensource",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "acceldata",
+    "name": "Acceldata",
+    "domain": "acceldata.io",
+    "careers_url": "https://jobs.lever.co/acceldata",
+    "industry": "Data Observability / SaaS",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "acceldata",
+    "api_endpoint": "https://api.lever.co/v0/postings/acceldata?mode=json",
+    "tags": [
+      "data",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "atlan",
+    "name": "Atlan",
+    "domain": "atlan.com",
+    "careers_url": "https://jobs.ashbyhq.com/atlan",
+    "industry": "Data Governance / Active Metadata SaaS",
+    "hq_location": "New Delhi, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "atlan",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "data",
+      "unicorn",
+      "delhi"
+    ]
+  },
+  {
+    "id": "hevodata",
+    "name": "Hevo Data",
+    "domain": "hevodata.com",
+    "careers_url": "https://jobs.lever.co/hevodata",
+    "industry": "Data Integration / ETL SaaS",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "lever",
+    "ats_identifier": "hevodata",
+    "api_endpoint": "https://api.lever.co/v0/postings/hevodata?mode=json",
+    "tags": [
+      "data",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "sarvam",
+    "name": "Sarvam AI",
+    "domain": "sarvam.ai",
+    "careers_url": "https://jobs.ashbyhq.com/sarvam",
+    "industry": "Artificial Intelligence / Indic GenAI",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "ashby",
+    "ats_identifier": "sarvam",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "ai",
+      "genai",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "zenoti",
+    "name": "Zenoti",
+    "domain": "zenoti.com",
+    "careers_url": "https://boards.greenhouse.io/zenoti",
+    "industry": "Enterprise SaaS / Wellness",
+    "hq_location": "Hyderabad, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zenoti",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zenoti/jobs?content=true",
+    "tags": [
+      "saas",
+      "unicorn",
+      "hyderabad"
+    ]
+  },
+  {
+    "id": "zinghr",
+    "name": "ZingHR",
+    "domain": "zinghr.com",
+    "careers_url": "https://careers.smartrecruiters.com/zinghr",
+    "industry": "HRTech / Cloud HCM",
+    "hq_location": "Mumbai, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "zinghr",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/zinghr/postings?limit=100",
+    "tags": [
+      "hrtech",
+      "saas",
+      "mumbai"
+    ]
+  },
+  {
+    "id": "instahyre",
+    "name": "Instahyre",
+    "domain": "instahyre.com",
+    "careers_url": "https://careers.smartrecruiters.com/instahyre",
+    "industry": "HRTech / AI Recruitment",
+    "hq_location": "New Delhi, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "instahyre",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/instahyre/postings?limit=100",
+    "tags": [
+      "hrtech",
+      "ai",
+      "delhi"
+    ]
+  },
+  {
+    "id": "hackerrank",
+    "name": "HackerRank",
+    "domain": "hackerrank.com",
+    "careers_url": "https://boards.greenhouse.io/hackerrank",
+    "industry": "Developer Assessment / Tech Hiring",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hackerrank",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs?content=true",
+    "tags": [
+      "devtools",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "whatfix",
+    "name": "Whatfix",
+    "domain": "whatfix.com",
+    "careers_url": "https://careers.smartrecruiters.com/whatfix",
+    "industry": "Enterprise SaaS / DAP",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "whatfix",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/whatfix/postings?limit=100",
+    "tags": [
+      "saas",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "mindtickle",
+    "name": "Mindtickle",
+    "domain": "mindtickle.com",
+    "careers_url": "https://jobs.lever.co/mindtickle",
+    "industry": "Sales Enablement SaaS",
+    "hq_location": "Pune, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "mindtickle",
+    "api_endpoint": "https://api.lever.co/v0/postings/mindtickle?mode=json",
+    "tags": [
+      "saas",
+      "unicorn",
+      "pune"
+    ]
+  },
+  {
+    "id": "observeai",
+    "name": "Observe.ai",
+    "domain": "observe.ai",
+    "careers_url": "https://boards.greenhouse.io/observeai",
+    "industry": "AI / Contact Center Intelligence",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "observeai",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/observeai/jobs?content=true",
+    "tags": [
+      "ai",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "krafton",
+    "name": "Krafton India",
+    "domain": "krafton.com",
+    "careers_url": "https://boards.greenhouse.io/krafton",
+    "industry": "Gaming & Esports",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "krafton",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/krafton/jobs?content=true",
+    "tags": [
+      "gaming",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "inmobi",
+    "name": "InMobi",
+    "domain": "inmobi.com",
+    "careers_url": "https://boards.greenhouse.io/inmobi",
+    "industry": "AdTech / Marketing Cloud",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "inmobi",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/inmobi/jobs?content=true",
+    "tags": [
+      "adtech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "glance",
+    "name": "Glance",
+    "domain": "glance.com",
+    "careers_url": "https://boards.greenhouse.io/glance",
+    "industry": "Consumer Tech / Smart Lock Screen",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "glance",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/glance/jobs?content=true",
+    "tags": [
+      "consumer",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "verse",
+    "name": "Dailyhunt (Verse)",
+    "domain": "verse.in",
+    "careers_url": "https://boards.greenhouse.io/verse",
+    "industry": "Media / Vernacular Content",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "greenhouse",
+    "ats_identifier": "verse",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/verse/jobs?content=true",
+    "tags": [
+      "media",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "pocketfm",
+    "name": "Pocket FM",
+    "domain": "pocketfm.com",
+    "careers_url": "https://jobs.lever.co/pocketfm",
+    "industry": "Media / Audio Entertainment",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "lever",
+    "ats_identifier": "pocketfm",
+    "api_endpoint": "https://api.lever.co/v0/postings/pocketfm?mode=json",
+    "tags": [
+      "media",
+      "audio",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "stage",
+    "name": "Stage OTT",
+    "domain": "stage.in",
+    "careers_url": "https://boards.greenhouse.io/stage",
+    "industry": "Media / Regional OTT",
+    "hq_location": "Noida, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "stage",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true",
+    "tags": [
+      "media",
+      "streaming",
+      "noida"
+    ]
+  },
+  {
+    "id": "cynlr",
+    "name": "CynLr",
+    "domain": "cynlr.com",
+    "careers_url": "https://jobs.ashbyhq.com/cynlr",
+    "industry": "Robotics & Visual Cybernetics",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "ashby",
+    "ats_identifier": "cynlr",
+    "api_endpoint": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams",
+    "tags": [
+      "robotics",
+      "ai",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "lendingkart",
+    "name": "Lendingkart",
+    "domain": "lendingkart.com",
+    "careers_url": "https://careers.smartrecruiters.com/lendingkart",
+    "industry": "Fintech / MSME Lending",
+    "hq_location": "Ahmedabad, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "lendingkart",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/lendingkart/postings?limit=100",
+    "tags": [
+      "fintech",
+      "lending",
+      "ahmedabad"
+    ]
+  },
+  {
+    "id": "nobroker",
+    "name": "NoBroker",
+    "domain": "nobroker.in",
+    "careers_url": "https://careers.smartrecruiters.com/nobroker",
+    "industry": "PropTech / Real Estate",
+    "hq_location": "Bengaluru, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "nobroker",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/nobroker/postings?limit=100",
+    "tags": [
+      "proptech",
+      "unicorn",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "ixigo",
+    "name": "Ixigo",
+    "domain": "ixigo.com",
+    "careers_url": "https://careers.smartrecruiters.com/ixigo",
+    "industry": "Travel Tech / OTA",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "ixigo",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/ixigo/postings?limit=100",
+    "tags": [
+      "travel",
+      "ota",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "abhibus",
+    "name": "AbhiBus",
+    "domain": "abhibus.com",
+    "careers_url": "https://careers.smartrecruiters.com/abhibus",
+    "industry": "Travel Tech / Bus Ticketing",
+    "hq_location": "Hyderabad, India",
+    "tier": 2,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "abhibus",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/abhibus/postings?limit=100",
+    "tags": [
+      "travel",
+      "mobility",
+      "hyderabad"
+    ]
+  },
+  {
+    "id": "cars24",
+    "name": "CARS24",
+    "domain": "cars24.com",
+    "careers_url": "https://careers.smartrecruiters.com/cars24",
+    "industry": "AutoTech / Used Cars Marketplace",
+    "hq_location": "Gurugram, India",
+    "tier": 1,
+    "ats_type": "smartrecruiters",
+    "ats_identifier": "cars24",
+    "api_endpoint": "https://api.smartrecruiters.com/v1/companies/cars24/postings?limit=100",
+    "tags": [
+      "autotech",
+      "ecommerce",
+      "unicorn",
+      "gurugram"
+    ]
+  },
+  {
+    "id": "aottechnologies",
+    "name": "AOT Technologies",
+    "domain": "aottechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/aottechnologies",
+    "industry": "Gaming & Digital Media",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aottechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aottechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "media",
+      "india"
+    ]
+  },
+  {
+    "id": "aizerhealth",
+    "name": "Aizer Health",
+    "domain": "aizerhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/aizerhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aizerhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aizerhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "aspirehealthalliance",
+    "name": "Aspire Health and Community Services",
+    "domain": "aspirehealthalliance.com",
+    "careers_url": "https://job-boards.greenhouse.io/aspirehealthalliance",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aspirehealthalliance",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aspirehealthalliance/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "aperiatechnologies",
+    "name": "Aperia Technologies, Inc",
+    "domain": "aperiatechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/aperiatechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aperiatechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aperiatechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "arizonaliverhealth",
+    "name": "Arizona Liver Health",
+    "domain": "arizonaliverhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/arizonaliverhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "arizonaliverhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/arizonaliverhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "adahealth",
+    "name": "Ada Health GmbH",
+    "domain": "adahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/adahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "acurussolutions",
+    "name": "Acurus Solutions Private Limited",
+    "domain": "acurussolutions.com",
+    "careers_url": "https://job-boards.greenhouse.io/acurussolutions",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acurussolutions",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acurussolutions/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "clearlinktechnologiesllc",
+    "name": "Clearlink Technologies, LLC",
+    "domain": "clearlinktechnologiesllc.com",
+    "careers_url": "https://job-boards.greenhouse.io/clearlinktechnologiesllc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clearlinktechnologiesllc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clearlinktechnologiesllc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "definitivehcindia",
+    "name": "Definitive Healthcare, India",
+    "domain": "definitivehcindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/definitivehcindia",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "definitivehcindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/definitivehcindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "silananotechnologies",
+    "name": "Sila",
+    "domain": "silananotechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/silananotechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "silananotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/silananotechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "solmentalhealth",
+    "name": "SOL Mental Health",
+    "domain": "solmentalhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/solmentalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "solmentalhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/solmentalhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "acommerce",
+    "name": "aCommerce",
+    "domain": "acommerce.com",
+    "careers_url": "https://job-boards.greenhouse.io/acommerce",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acommerce",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acommerce/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "shennonbiotechnologies",
+    "name": "Shennon Biotechnologies",
+    "domain": "shennonbiotechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/shennonbiotechnologies",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "shennonbiotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/shennonbiotechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "altamiratechnologies",
+    "name": "Altamira.ai",
+    "domain": "altamiratechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/altamiratechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "altamiratechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/altamiratechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "achievementcenteroflecomhealth",
+    "name": "Achievement Center of LECOM Health",
+    "domain": "achievementcenteroflecomhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/achievementcenteroflecomhealth",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "achievementcenteroflecomhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/achievementcenteroflecomhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "calahealth",
+    "name": "Cala Health",
+    "domain": "calahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/calahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "calahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/calahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cybermediatechnologies",
+    "name": "CyberMedia Technologies",
+    "domain": "cybermediatechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/cybermediatechnologies",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cybermediatechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cybermediatechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "florenceeu",
+    "name": "Florence Healthcare - EU",
+    "domain": "florenceeu.com",
+    "careers_url": "https://job-boards.greenhouse.io/florenceeu",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "florenceeu",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/florenceeu/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mainstreethealth",
+    "name": "Main Street Health",
+    "domain": "mainstreethealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/mainstreethealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mainstreethealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mainstreethealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "muralhealth",
+    "name": "Mural Health",
+    "domain": "muralhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/muralhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "muralhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/muralhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "enlacehealth",
+    "name": "Enlace Health",
+    "domain": "enlacehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/enlacehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "enlacehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/enlacehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "accantohealth858accanto858",
+    "name": "Accanto Health",
+    "domain": "accantohealth858accanto858.com",
+    "careers_url": "https://job-boards.greenhouse.io/accantohealth858accanto858",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accantohealth858accanto858",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accantohealth858accanto858/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "accesshealthca",
+    "name": "Access Healthcare Associates",
+    "domain": "accesshealthca.com",
+    "careers_url": "https://job-boards.greenhouse.io/accesshealthca",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accesshealthca",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accesshealthca/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mboothhealth",
+    "name": "M Booth Health",
+    "domain": "mboothhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/mboothhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mboothhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mboothhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "fronterahealth",
+    "name": "Frontera",
+    "domain": "fronterahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/fronterahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fronterahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fronterahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "moodhealth",
+    "name": "Mood Health",
+    "domain": "moodhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/moodhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "moodhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/moodhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "americanpublichealthassociation",
+    "name": "American Public Health Association",
+    "domain": "americanpublichealthassociation.com",
+    "careers_url": "https://job-boards.greenhouse.io/americanpublichealthassociation",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "americanpublichealthassociation",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/americanpublichealthassociation/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "thehealthmanagementacademy",
+    "name": "The Health Management Academy",
+    "domain": "thehealthmanagementacademy.com",
+    "careers_url": "https://job-boards.greenhouse.io/thehealthmanagementacademy",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "thehealthmanagementacademy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/thehealthmanagementacademy/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "centriahealthcare",
+    "name": "Centria Healthcare",
+    "domain": "centriahealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/centriahealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "centriahealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/centriahealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "amaehealth",
+    "name": "Amae Health",
+    "domain": "amaehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/amaehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "amaehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/amaehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "fulcrumglobaltechnologies",
+    "name": "Fulcrum Global Technologies",
+    "domain": "fulcrumglobaltechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/fulcrumglobaltechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fulcrumglobaltechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fulcrumglobaltechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "concerthealth",
+    "name": "Concert Health",
+    "domain": "concerthealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/concerthealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "concerthealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/concerthealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "croihealth",
+    "name": "Cro\u00ed Health",
+    "domain": "croihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/croihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "croihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/croihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "accompanyhealth",
+    "name": "Accompany Health",
+    "domain": "accompanyhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/accompanyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "accompanyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/accompanyhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "seurat",
+    "name": "Seurat Technologies",
+    "domain": "seurat.com",
+    "careers_url": "https://job-boards.greenhouse.io/seurat",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "seurat",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/seurat/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "altaresourcetechnologiesinc",
+    "name": "Alta Resource Technologies, Inc.",
+    "domain": "altaresourcetechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/altaresourcetechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "altaresourcetechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/altaresourcetechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "adaptivebiotechnologies",
+    "name": "Adaptive Biotechnologies",
+    "domain": "adaptivebiotechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/adaptivebiotechnologies",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adaptivebiotechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adaptivebiotechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "acornhealth",
+    "name": "Acorn Health",
+    "domain": "acornhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/acornhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "acornhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/acornhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "alphasenseindia",
+    "name": "AlphaSense India",
+    "domain": "alphasenseindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/alphasenseindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "alphasenseindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/alphasenseindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "ascellahealth",
+    "name": "AscellaHealth",
+    "domain": "ascellahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/ascellahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ascellahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ascellahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bluebirdkidshealth",
+    "name": "Bluebird Kids Health",
+    "domain": "bluebirdkidshealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/bluebirdkidshealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bluebirdkidshealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bluebirdkidshealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "arbitalhealth",
+    "name": "Arbital Health",
+    "domain": "arbitalhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/arbitalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "arbitalhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/arbitalhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "appnovation",
+    "name": "Appnovation Technologies",
+    "domain": "appnovation.com",
+    "careers_url": "https://job-boards.greenhouse.io/appnovation",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "appnovation",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/appnovation/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "instridehealth",
+    "name": "InStride Health",
+    "domain": "instridehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/instridehealth",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "instridehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/instridehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "ascenttechnologies",
+    "name": "Ascent",
+    "domain": "ascenttechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/ascenttechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ascenttechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ascenttechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "belonghealth",
+    "name": "Belong Health",
+    "domain": "belonghealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/belonghealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "belonghealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/belonghealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "blackbirdhealth",
+    "name": "Blackbird Health",
+    "domain": "blackbirdhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/blackbirdhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "blackbirdhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/blackbirdhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "blinkhealth",
+    "name": "Blink Health",
+    "domain": "blinkhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/blinkhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "blinkhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/blinkhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bottomlinetechnologies",
+    "name": "Bottomline",
+    "domain": "bottomlinetechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/bottomlinetechnologies",
+    "industry": "Gaming & Digital Media",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bottomlinetechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bottomlinetechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "media",
+      "india"
+    ]
+  },
+  {
+    "id": "bluevineindia",
+    "name": "Bluevine - India",
+    "domain": "bluevineindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/bluevineindia",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bluevineindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bluevineindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "citrushealthgroup",
+    "name": "Citrus Health Group, Inc",
+    "domain": "citrushealthgroup.com",
+    "careers_url": "https://job-boards.greenhouse.io/citrushealthgroup",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "citrushealthgroup",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/citrushealthgroup/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bswiftindia",
+    "name": "bswift India",
+    "domain": "bswiftindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/bswiftindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bswiftindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bswiftindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "centrumhealth",
+    "name": "Centrum Health",
+    "domain": "centrumhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/centrumhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "centrumhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/centrumhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bluelinkwireless",
+    "name": "Blue Link Wireless an Authorized Retailer of AT&T",
+    "domain": "bluelinkwireless.com",
+    "careers_url": "https://job-boards.greenhouse.io/bluelinkwireless",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bluelinkwireless",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bluelinkwireless/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "bythebayhealth",
+    "name": "By the Bay Health",
+    "domain": "bythebayhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/bythebayhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bythebayhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bythebayhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "collahealth",
+    "name": "Colla Health",
+    "domain": "collahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/collahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "collahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/collahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthbehavioralhealthoperations",
+    "name": "Charlie Health Behavioral Health Operations",
+    "domain": "charliehealthbehavioralhealthoperations.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthbehavioralhealthoperations",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthbehavioralhealthoperations",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthbehavioralhealthoperations/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "brigadehealth",
+    "name": "Brigade Health",
+    "domain": "brigadehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/brigadehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "brigadehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/brigadehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "caliberhealth",
+    "name": "Caliber Healthcare Solutions",
+    "domain": "caliberhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/caliberhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "caliberhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/caliberhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "clarishealth62",
+    "name": "ClarisHealth",
+    "domain": "clarishealth62.com",
+    "careers_url": "https://job-boards.greenhouse.io/clarishealth62",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clarishealth62",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clarishealth62/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthstrategyoperations",
+    "name": "Charlie Health Strategy & Operations",
+    "domain": "charliehealthstrategyoperations.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthstrategyoperations",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthstrategyoperations",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthstrategyoperations/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "clutch",
+    "name": "Clutch Technologies Inc.",
+    "domain": "clutch.com",
+    "careers_url": "https://job-boards.greenhouse.io/clutch",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clutch",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clutch/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "cascalahealth",
+    "name": "Cascala Health",
+    "domain": "cascalahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/cascalahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cascalahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cascalahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "caretalkhealth",
+    "name": "CareTalk Health",
+    "domain": "caretalkhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/caretalkhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "caretalkhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/caretalkhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthclinical",
+    "name": "Charlie Health Clinical",
+    "domain": "charliehealthclinical.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthclinical",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthclinical",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthclinical/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cleerlyhealth",
+    "name": "Cleerly",
+    "domain": "cleerlyhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/cleerlyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cleerlyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cleerlyhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cipherminingtechnologiesinc",
+    "name": "Cipher Digital",
+    "domain": "cipherminingtechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/cipherminingtechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cipherminingtechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cipherminingtechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "cartahealthcare",
+    "name": "Carta Healthcare",
+    "domain": "cartahealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/cartahealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cartahealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cartahealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bridgeway",
+    "name": "Bridgeway Benefit Technologies",
+    "domain": "bridgeway.com",
+    "careers_url": "https://job-boards.greenhouse.io/bridgeway",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bridgeway",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bridgeway/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "insurityindia",
+    "name": "Insurity India",
+    "domain": "insurityindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/insurityindia",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "insurityindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/insurityindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "fintech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "assemblyhealth",
+    "name": "Assembly Health",
+    "domain": "assemblyhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/assemblyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "assemblyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/assemblyhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cleancroptech",
+    "name": "Clean Crop Technologies, Inc.",
+    "domain": "cleancroptech.com",
+    "careers_url": "https://job-boards.greenhouse.io/cleancroptech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cleancroptech",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cleancroptech/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthepd",
+    "name": "Charlie Health Engineering, Product & Design",
+    "domain": "charliehealthepd.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthepd",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthepd",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthepd/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealthoutreach",
+    "name": "Charlie Health Outreach",
+    "domain": "charliehealthoutreach.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealthoutreach",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealthoutreach",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealthoutreach/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "clearviewhealthcarepartners",
+    "name": "ClearView Healthcare Partners",
+    "domain": "clearviewhealthcarepartners.com",
+    "careers_url": "https://job-boards.greenhouse.io/clearviewhealthcarepartners",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "clearviewhealthcarepartners",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/clearviewhealthcarepartners/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "coherehealth",
+    "name": "Cohere Health",
+    "domain": "coherehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/coherehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "coherehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/coherehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bpcs",
+    "name": "Blueprint Technologies",
+    "domain": "bpcs.com",
+    "careers_url": "https://job-boards.greenhouse.io/bpcs",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bpcs",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bpcs/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "cleoindia",
+    "name": "Cleo (India)",
+    "domain": "cleoindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/cleoindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cleoindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cleoindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "azuritypharmaceuticalsindia",
+    "name": "Azurity Pharmaceuticals - India",
+    "domain": "azuritypharmaceuticalsindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/azuritypharmaceuticalsindia",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "azuritypharmaceuticalsindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/azuritypharmaceuticalsindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "blenheimchalcotindia",
+    "name": "Blenheim Chalcot India",
+    "domain": "blenheimchalcotindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/blenheimchalcotindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "blenheimchalcotindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/blenheimchalcotindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "commercetools",
+    "name": "commercetools",
+    "domain": "commercetools.com",
+    "careers_url": "https://job-boards.greenhouse.io/commercetools",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "commercetools",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/commercetools/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "rimestechnologies",
+    "name": "Rimes Technologies",
+    "domain": "rimestechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/rimestechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "rimestechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/rimestechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "rvohealth",
+    "name": "RVO Health",
+    "domain": "rvohealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/rvohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "rvohealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/rvohealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "divergehealth",
+    "name": "Diverge Health",
+    "domain": "divergehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/divergehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "divergehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/divergehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "crestwoodcareers",
+    "name": "Crestwood Behavioral Health",
+    "domain": "crestwoodcareers.com",
+    "careers_url": "https://job-boards.greenhouse.io/crestwoodcareers",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "crestwoodcareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/crestwoodcareers/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "courierhealth",
+    "name": "Courier Health",
+    "domain": "courierhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/courierhealth",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "courierhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/courierhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "definitivehc",
+    "name": "Definitive Healthcare, US",
+    "domain": "definitivehc.com",
+    "careers_url": "https://job-boards.greenhouse.io/definitivehc",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "definitivehc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/definitivehc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "disguisetechnologiesltd",
+    "name": "Disguise Technologies Ltd",
+    "domain": "disguisetechnologiesltd.com",
+    "careers_url": "https://job-boards.greenhouse.io/disguisetechnologiesltd",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "disguisetechnologiesltd",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/disguisetechnologiesltd/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "i360technologiesinc",
+    "name": "i360technologies, Inc.",
+    "domain": "i360technologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/i360technologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "i360technologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/i360technologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "commerceiq",
+    "name": "CommerceIQ",
+    "domain": "commerceiq.com",
+    "careers_url": "https://job-boards.greenhouse.io/commerceiq",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "commerceiq",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/commerceiq/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "echo",
+    "name": "Echo Neurotechnologies",
+    "domain": "echo.com",
+    "careers_url": "https://job-boards.greenhouse.io/echo",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "echo",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/echo/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "deepwatchindia",
+    "name": "Deepwatch India",
+    "domain": "deepwatchindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/deepwatchindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "deepwatchindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/deepwatchindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "eleoshealth",
+    "name": "Eleos Health",
+    "domain": "eleoshealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/eleoshealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "eleoshealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/eleoshealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "privatehealthmanagement",
+    "name": "Private Health Management",
+    "domain": "privatehealthmanagement.com",
+    "careers_url": "https://job-boards.greenhouse.io/privatehealthmanagement",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "privatehealthmanagement",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/privatehealthmanagement/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "formaaiinc3",
+    "name": "Forma.ai - India Campus",
+    "domain": "formaaiinc3.com",
+    "careers_url": "https://job-boards.greenhouse.io/formaaiinc3",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "formaaiinc3",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/formaaiinc3/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "find",
+    "name": "FIND Healthcareers",
+    "domain": "find.com",
+    "careers_url": "https://job-boards.greenhouse.io/find",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "find",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/find/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "dianahealth94",
+    "name": "Diana Health",
+    "domain": "dianahealth94.com",
+    "careers_url": "https://job-boards.greenhouse.io/dianahealth94",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dianahealth94",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dianahealth94/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "emittechnologiesinc",
+    "name": "EMIT Technologies, Inc.",
+    "domain": "emittechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/emittechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "emittechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/emittechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "daymarkhealth",
+    "name": "Daymark Health",
+    "domain": "daymarkhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/daymarkhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "daymarkhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/daymarkhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "durinmining",
+    "name": "Durin Mining Technologies Corp.",
+    "domain": "durinmining.com",
+    "careers_url": "https://job-boards.greenhouse.io/durinmining",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "durinmining",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/durinmining/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "gcihealth",
+    "name": "GCI Health",
+    "domain": "gcihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/gcihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gcihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gcihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "flumehealth",
+    "name": "Flume Health",
+    "domain": "flumehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/flumehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "flumehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/flumehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "flatironhealth",
+    "name": "Flatiron Health",
+    "domain": "flatironhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/flatironhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "flatironhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/flatironhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "compunetinc",
+    "name": "CompuNet, Inc.",
+    "domain": "compunetinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/compunetinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Pune, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "compunetinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/compunetinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "pune"
+    ]
+  },
+  {
+    "id": "elliginthealth",
+    "name": "Elligint Health",
+    "domain": "elliginthealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/elliginthealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "elliginthealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/elliginthealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "duckbilltechnologiesinc",
+    "name": "Duckbill Technologies, Inc.",
+    "domain": "duckbilltechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/duckbilltechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "duckbilltechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/duckbilltechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "garnerhealth",
+    "name": "Garner Health",
+    "domain": "garnerhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/garnerhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "garnerhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/garnerhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "guidelighthealth",
+    "name": "Guidelight Health",
+    "domain": "guidelighthealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/guidelighthealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "guidelighthealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/guidelighthealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "crestwoodziprecruiterjobs",
+    "name": "Crestwood Behavioral Health, Inc.",
+    "domain": "crestwoodziprecruiterjobs.com",
+    "careers_url": "https://job-boards.greenhouse.io/crestwoodziprecruiterjobs",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "crestwoodziprecruiterjobs",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/crestwoodziprecruiterjobs/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "epicbio",
+    "name": "Epicrispr Biotechnologies",
+    "domain": "epicbio.com",
+    "careers_url": "https://job-boards.greenhouse.io/epicbio",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "epicbio",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/epicbio/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "firmus",
+    "name": "Firmus Technologies",
+    "domain": "firmus.com",
+    "careers_url": "https://job-boards.greenhouse.io/firmus",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "firmus",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/firmus/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "employerdirecthealthcare",
+    "name": "Lantern",
+    "domain": "employerdirecthealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/employerdirecthealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "employerdirecthealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/employerdirecthealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "flohealth",
+    "name": "Flo Health",
+    "domain": "flohealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/flohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "flohealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/flohealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "formhealth",
+    "name": "Form Health",
+    "domain": "formhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/formhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "formhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/formhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healtheconnections",
+    "name": "HealtheConnections",
+    "domain": "healtheconnections.com",
+    "careers_url": "https://job-boards.greenhouse.io/healtheconnections",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "healtheconnections",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/healtheconnections/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "pedestalhealth",
+    "name": "Pedestal Health",
+    "domain": "pedestalhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/pedestalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pedestalhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pedestalhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "dreemhealth",
+    "name": "Dreem Health",
+    "domain": "dreemhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/dreemhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dreemhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dreemhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "doordashindia",
+    "name": "DoorDash India",
+    "domain": "doordashindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/doordashindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "doordashindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/doordashindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "firsthand",
+    "name": "firsthand Health",
+    "domain": "firsthand.com",
+    "careers_url": "https://job-boards.greenhouse.io/firsthand",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "firsthand",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/firsthand/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "getbuilt",
+    "name": "Built Technologies",
+    "domain": "getbuilt.com",
+    "careers_url": "https://job-boards.greenhouse.io/getbuilt",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "getbuilt",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/getbuilt/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "group14",
+    "name": "Group14 Technologies",
+    "domain": "group14.com",
+    "careers_url": "https://job-boards.greenhouse.io/group14",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "group14",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/group14/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "goodhealth",
+    "name": "Good Health",
+    "domain": "goodhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/goodhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "goodhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/goodhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "globalhealthcareexchangeinc",
+    "name": "GHX",
+    "domain": "globalhealthcareexchangeinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/globalhealthcareexchangeinc",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "globalhealthcareexchangeinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/globalhealthcareexchangeinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "harbingerhealth",
+    "name": "Harbinger Health",
+    "domain": "harbingerhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/harbingerhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "harbingerhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/harbingerhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "folxhealth",
+    "name": "Join the FOLX Team!",
+    "domain": "folxhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/folxhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "folxhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/folxhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthverity",
+    "name": "HealthVerity",
+    "domain": "healthverity.com",
+    "careers_url": "https://job-boards.greenhouse.io/healthverity",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "healthverity",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/healthverity/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "habitathealth",
+    "name": "Habitat Health",
+    "domain": "habitathealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/habitathealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "habitathealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/habitathealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "hazel",
+    "name": "Hazel Health",
+    "domain": "hazel.com",
+    "careers_url": "https://job-boards.greenhouse.io/hazel",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hazel",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hazel/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "headlandstechnologiesllc",
+    "name": "Headlands Technologies LLC",
+    "domain": "headlandstechnologiesllc.com",
+    "careers_url": "https://job-boards.greenhouse.io/headlandstechnologiesllc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "headlandstechnologiesllc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/headlandstechnologiesllc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "invisibletech",
+    "name": "Invisible Technologies",
+    "domain": "invisibletech.com",
+    "careers_url": "https://job-boards.greenhouse.io/invisibletech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "invisibletech",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/invisibletech/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "iterativehealth",
+    "name": "Iterative Health",
+    "domain": "iterativehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/iterativehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "iterativehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/iterativehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "healthie",
+    "name": "Healthie",
+    "domain": "healthie.com",
+    "careers_url": "https://job-boards.greenhouse.io/healthie",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "healthie",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/healthie/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "judihealth",
+    "name": "Judi Health",
+    "domain": "judihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/judihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "judihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/judihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "gram",
+    "name": "Galactic Resource Advancement Mechanism Technologies Corporation",
+    "domain": "gram.com",
+    "careers_url": "https://job-boards.greenhouse.io/gram",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gram",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gram/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "group14korea",
+    "name": "Group14 Technologies Korea Co. Ltd.",
+    "domain": "group14korea.com",
+    "careers_url": "https://job-boards.greenhouse.io/group14korea",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "group14korea",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/group14korea/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "honehealthmedicalroles",
+    "name": "Hone Health Medical Roles",
+    "domain": "honehealthmedicalroles.com",
+    "careers_url": "https://job-boards.greenhouse.io/honehealthmedicalroles",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "honehealthmedicalroles",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/honehealthmedicalroles/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "itslogisticsllc",
+    "name": "ITS Logistics, LLC",
+    "domain": "itslogisticsllc.com",
+    "careers_url": "https://job-boards.greenhouse.io/itslogisticsllc",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "itslogisticsllc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/itslogisticsllc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "hudlindia",
+    "name": "Hudl India",
+    "domain": "hudlindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/hudlindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hudlindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hudlindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "j2health",
+    "name": "J2 Health",
+    "domain": "j2health.com",
+    "careers_url": "https://job-boards.greenhouse.io/j2health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "j2health",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/j2health/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "interpayments",
+    "name": "InterPayments",
+    "domain": "interpayments.com",
+    "careers_url": "https://job-boards.greenhouse.io/interpayments",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "interpayments",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/interpayments/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "fintech",
+      "india"
+    ]
+  },
+  {
+    "id": "homesweethomehealth",
+    "name": "Home Sweet Home Health Agency",
+    "domain": "homesweethomehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/homesweethomehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "homesweethomehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/homesweethomehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "harrowhealth",
+    "name": "Harrow, Inc.",
+    "domain": "harrowhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/harrowhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "harrowhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/harrowhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "indiantree",
+    "name": "Indian Tree Animal Hospital",
+    "domain": "indiantree.com",
+    "careers_url": "https://job-boards.greenhouse.io/indiantree",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "indiantree",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/indiantree/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "jobboard",
+    "name": "Welbehealth Non Sponsored Board",
+    "domain": "jobboard.com",
+    "careers_url": "https://job-boards.greenhouse.io/jobboard",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "jobboard",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/jobboard/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "kestramedicaltechnologiesinc",
+    "name": "Kestra Medical Technologies Inc.",
+    "domain": "kestramedicaltechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/kestramedicaltechnologiesinc",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "kestramedicaltechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/kestramedicaltechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ironbowtechnologies",
+    "name": "Iron Bow Technologies",
+    "domain": "ironbowtechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/ironbowtechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ironbowtechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ironbowtechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "knithealth",
+    "name": "Knit Health",
+    "domain": "knithealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/knithealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "knithealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/knithealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mantrahealth",
+    "name": "Mantra Health",
+    "domain": "mantrahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/mantrahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mantrahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mantrahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "launchpadtechnologiesinc",
+    "name": "Launchpad Technologies",
+    "domain": "launchpadtechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/launchpadtechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "launchpadtechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/launchpadtechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "honehealth",
+    "name": "Hone Health",
+    "domain": "honehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/honehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "honehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/honehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "maymobility",
+    "name": "May Mobility",
+    "domain": "maymobility.com",
+    "careers_url": "https://job-boards.greenhouse.io/maymobility",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "maymobility",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/maymobility/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "layerhealth",
+    "name": "Layer Health",
+    "domain": "layerhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/layerhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "layerhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/layerhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "khealthcareers",
+    "name": "K Health",
+    "domain": "khealthcareers.com",
+    "careers_url": "https://job-boards.greenhouse.io/khealthcareers",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "khealthcareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/khealthcareers/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "hicuityhealth",
+    "name": "Hicuity Health",
+    "domain": "hicuityhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/hicuityhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hicuityhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hicuityhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "komodohealth",
+    "name": "Komodo Health",
+    "domain": "komodohealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/komodohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "komodohealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/komodohealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "incode",
+    "name": "Incode Technologies",
+    "domain": "incode.com",
+    "careers_url": "https://job-boards.greenhouse.io/incode",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "incode",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/incode/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "jukeboxhealth",
+    "name": "Jukebox Health",
+    "domain": "jukeboxhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/jukeboxhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "jukeboxhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/jukeboxhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "lumahealth",
+    "name": "Luma Health",
+    "domain": "lumahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/lumahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "lumahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/lumahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mcghealth",
+    "name": "MCG Health",
+    "domain": "mcghealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/mcghealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mcghealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mcghealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mochihealth",
+    "name": "Mochi Health",
+    "domain": "mochihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/mochihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mochihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mochihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "midihealth",
+    "name": "Midi Health",
+    "domain": "midihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/midihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "midihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/midihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "medicalinformaticsengineering",
+    "name": "Medical Informatics Engineering/Enterprise Health",
+    "domain": "medicalinformaticsengineering.com",
+    "careers_url": "https://job-boards.greenhouse.io/medicalinformaticsengineering",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "medicalinformaticsengineering",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/medicalinformaticsengineering/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ogilvyhealthusa",
+    "name": "Ogilvy Health US",
+    "domain": "ogilvyhealthusa.com",
+    "careers_url": "https://job-boards.greenhouse.io/ogilvyhealthusa",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ogilvyhealthusa",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ogilvyhealthusa/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mentalhealthcenterofdenver",
+    "name": "WellPower - All Jobs",
+    "domain": "mentalhealthcenterofdenver.com",
+    "careers_url": "https://job-boards.greenhouse.io/mentalhealthcenterofdenver",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mentalhealthcenterofdenver",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mentalhealthcenterofdenver/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "metaphore",
+    "name": "Metaphore Biotechnologies, Inc.",
+    "domain": "metaphore.com",
+    "careers_url": "https://job-boards.greenhouse.io/metaphore",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "metaphore",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/metaphore/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "moxehealth",
+    "name": "Moxe",
+    "domain": "moxehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/moxehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "moxehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/moxehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mobilityware",
+    "name": "MobilityWare",
+    "domain": "mobilityware.com",
+    "careers_url": "https://job-boards.greenhouse.io/mobilityware",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mobilityware",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mobilityware/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "nerostechnologies",
+    "name": "Neros Technologies",
+    "domain": "nerostechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/nerostechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "nerostechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/nerostechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "modernhealth",
+    "name": "Modern Health",
+    "domain": "modernhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/modernhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "modernhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/modernhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "merakimanagement",
+    "name": "Lightfully Behavioral Health",
+    "domain": "merakimanagement.com",
+    "careers_url": "https://job-boards.greenhouse.io/merakimanagement",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "merakimanagement",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/merakimanagement/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "futurhealth",
+    "name": "Futurhealth",
+    "domain": "futurhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/futurhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "futurhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/futurhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "mogli",
+    "name": "Mogli Technologies",
+    "domain": "mogli.com",
+    "careers_url": "https://job-boards.greenhouse.io/mogli",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "mogli",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/mogli/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "monocl",
+    "name": "Definitive Healthcare, Sweden",
+    "domain": "monocl.com",
+    "careers_url": "https://job-boards.greenhouse.io/monocl",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "monocl",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/monocl/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "nomadhealth",
+    "name": "Nomad Health",
+    "domain": "nomadhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/nomadhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "nomadhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/nomadhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "meruhealth",
+    "name": "Meru Health",
+    "domain": "meruhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/meruhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "meruhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/meruhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "overstoryhealth",
+    "name": "Overstory Health",
+    "domain": "overstoryhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/overstoryhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "overstoryhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/overstoryhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "oasishealthpartners",
+    "name": "Oasis Health Partners",
+    "domain": "oasishealthpartners.com",
+    "careers_url": "https://job-boards.greenhouse.io/oasishealthpartners",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "oasishealthpartners",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/oasishealthpartners/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "neurahealth",
+    "name": "Neura Health",
+    "domain": "neurahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/neurahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "neurahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/neurahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "optainhealth",
+    "name": "Optain Health",
+    "domain": "optainhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/optainhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "optainhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/optainhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "oshihealth",
+    "name": "Oshi Health",
+    "domain": "oshihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/oshihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "oshihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/oshihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "orca",
+    "name": "ORCA Service Technologies",
+    "domain": "orca.com",
+    "careers_url": "https://job-boards.greenhouse.io/orca",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "orca",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/orca/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "pay2dc",
+    "name": "PayPay India",
+    "domain": "pay2dc.com",
+    "careers_url": "https://job-boards.greenhouse.io/pay2dc",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pay2dc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pay2dc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "fintech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "partumhealth",
+    "name": "Partum Health",
+    "domain": "partumhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/partumhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "partumhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/partumhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "peregrinehealth",
+    "name": "Peregrine Health",
+    "domain": "peregrinehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/peregrinehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "peregrinehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/peregrinehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "pendartechnologies",
+    "name": "Pendar Technologies",
+    "domain": "pendartechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/pendartechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pendartechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pendartechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "neuehealth",
+    "name": "NeueHealth",
+    "domain": "neuehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/neuehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "neuehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/neuehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ogilvyhealthcanada",
+    "name": "Ogilvy Health Canada",
+    "domain": "ogilvyhealthcanada.com",
+    "careers_url": "https://job-boards.greenhouse.io/ogilvyhealthcanada",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ogilvyhealthcanada",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ogilvyhealthcanada/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "peaktechnologies",
+    "name": "PEAK Technologies",
+    "domain": "peaktechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/peaktechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "peaktechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/peaktechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "omadahealth",
+    "name": "Omada Health",
+    "domain": "omadahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/omadahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "omadahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/omadahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "optimizedpayments",
+    "name": "Optimized Payments",
+    "domain": "optimizedpayments.com",
+    "careers_url": "https://job-boards.greenhouse.io/optimizedpayments",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "optimizedpayments",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/optimizedpayments/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "fintech",
+      "india"
+    ]
+  },
+  {
+    "id": "ohsufoundation",
+    "name": "Oregon Health & Science University Foundation",
+    "domain": "ohsufoundation.com",
+    "careers_url": "https://job-boards.greenhouse.io/ohsufoundation",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ohsufoundation",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ohsufoundation/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "pippintitleindia",
+    "name": "Pippin Technologies India",
+    "domain": "pippintitleindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/pippintitleindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pippintitleindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pippintitleindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "prosperhealth",
+    "name": "Prosper Health",
+    "domain": "prosperhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/prosperhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "prosperhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/prosperhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "quanthealth",
+    "name": "QuantHealth",
+    "domain": "quanthealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/quanthealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "quanthealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/quanthealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "pipetechnologies",
+    "name": "Pipe Technologies",
+    "domain": "pipetechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/pipetechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pipetechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pipetechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "puretechhealth",
+    "name": "PureTech Health",
+    "domain": "puretechhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/puretechhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "puretechhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/puretechhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "pistontechnologies",
+    "name": "Piston Technologies",
+    "domain": "pistontechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/pistontechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pistontechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pistontechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "praxishealth",
+    "name": "Praxis Health",
+    "domain": "praxis-health.com",
+    "careers_url": "https://job-boards.greenhouse.io/praxis-health",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "praxis-health",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/praxis-health/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "perryellisinternationalretail",
+    "name": "Perry Ellis International - Retail",
+    "domain": "perryellisinternationalretail.com",
+    "careers_url": "https://job-boards.greenhouse.io/perryellisinternationalretail",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "perryellisinternationalretail",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/perryellisinternationalretail/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "peregrinetechnologies",
+    "name": "Peregrine Technologies",
+    "domain": "peregrinetechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/peregrinetechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "peregrinetechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/peregrinetechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "rectanglehealth",
+    "name": "Rectangle Health",
+    "domain": "rectanglehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/rectanglehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "rectanglehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/rectanglehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "sadaindia",
+    "name": "SADA India",
+    "domain": "sadaindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/sadaindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sadaindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sadaindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "shubhashrayhousingcareers",
+    "name": "Shubhashray Housing India",
+    "domain": "shubhashrayhousingcareers.com",
+    "careers_url": "https://job-boards.greenhouse.io/shubhashrayhousingcareers",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "shubhashrayhousingcareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/shubhashrayhousingcareers/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "raptortechnologies",
+    "name": "Raptor Technologies",
+    "domain": "raptortechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/raptortechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "raptortechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/raptortechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "sagentindia",
+    "name": "Sagent India",
+    "domain": "sagentindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/sagentindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sagentindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sagentindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "relaypayments",
+    "name": "Relay Payments",
+    "domain": "relaypayments.com",
+    "careers_url": "https://job-boards.greenhouse.io/relaypayments",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "relaypayments",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/relaypayments/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "fintech",
+      "india"
+    ]
+  },
+  {
+    "id": "shieldshealthsolutions",
+    "name": "Shields Health Solutions",
+    "domain": "shieldshealthsolutions.com",
+    "careers_url": "https://job-boards.greenhouse.io/shieldshealthsolutions",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "shieldshealthsolutions",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/shieldshealthsolutions/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "radiclehealth",
+    "name": "Radicle Health",
+    "domain": "radiclehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/radiclehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "radiclehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/radiclehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "saasgroup",
+    "name": "saas.group",
+    "domain": "saasgroup.com",
+    "careers_url": "https://job-boards.greenhouse.io/saasgroup",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "saasgroup",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/saasgroup/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "retailinsights",
+    "name": "Retail Insights",
+    "domain": "retailinsights.com",
+    "careers_url": "https://job-boards.greenhouse.io/retailinsights",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "retailinsights",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/retailinsights/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "pagerhealth",
+    "name": "Pager Health",
+    "domain": "pagerhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/pagerhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "pagerhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/pagerhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "parachutehealth",
+    "name": "Parachute Health",
+    "domain": "parachutehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/parachutehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "parachutehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/parachutehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "sifthealthcare",
+    "name": "Sift Healthcare",
+    "domain": "sifthealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/sifthealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sifthealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sifthealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "solera",
+    "name": "Solera Health",
+    "domain": "solera.com",
+    "careers_url": "https://job-boards.greenhouse.io/solera",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "solera",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/solera/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "sidecarhealth",
+    "name": "Sidecar Health",
+    "domain": "sidecarhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/sidecarhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sidecarhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sidecarhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "silvus",
+    "name": "Silvus Technologies",
+    "domain": "silvus.com",
+    "careers_url": "https://job-boards.greenhouse.io/silvus",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "silvus",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/silvus/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "stemhealthcare",
+    "name": "Inizio Ignite | STEM",
+    "domain": "stemhealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/stemhealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "stemhealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/stemhealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "tegnaindia",
+    "name": "TEGNA India",
+    "domain": "tegnaindia.com",
+    "careers_url": "https://job-boards.greenhouse.io/tegnaindia",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tegnaindia",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tegnaindia/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "tomorrowhealth",
+    "name": "Tomorrow Health",
+    "domain": "tomorrowhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/tomorrowhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tomorrowhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tomorrowhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "synapsehealth",
+    "name": "Synapse Health",
+    "domain": "synapsehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/synapsehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "synapsehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/synapsehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "strivehealth",
+    "name": "Strive Health",
+    "domain": "strivehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/strivehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "strivehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/strivehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "synthesishealth",
+    "name": "Synthesis Health",
+    "domain": "synthesishealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/synthesishealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "synthesishealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/synthesishealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "toshibaglobalcommercesolutions",
+    "name": "Toshiba Global Commerce Solutions - External",
+    "domain": "toshibaglobalcommercesolutions.com",
+    "careers_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "toshibaglobalcommercesolutions",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/toshibaglobalcommercesolutions/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "megacorplogistics",
+    "name": "MegaCorp Logistics",
+    "domain": "megacorplogistics.com",
+    "careers_url": "https://job-boards.greenhouse.io/megacorplogistics",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "megacorplogistics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/megacorplogistics/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "trellahealth",
+    "name": "Trella Health",
+    "domain": "trellahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/trellahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "trellahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/trellahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "razorpaysoftwareprivatelimited",
+    "name": "Razorpay Software Private Limited",
+    "domain": "razorpaysoftwareprivatelimited.com",
+    "careers_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited",
+    "industry": "Fintech / Financial Services",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "razorpaysoftwareprivatelimited",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "fintech",
+      "india"
+    ]
+  },
+  {
+    "id": "quberesearchandtechnologies",
+    "name": "Qube Research & Technologies",
+    "domain": "quberesearchandtechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/quberesearchandtechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "quberesearchandtechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "tuleahealth",
+    "name": "Tulea Health",
+    "domain": "tuleahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/tuleahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "tuleahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/tuleahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "repisodic",
+    "name": "Repisodic, a Trella Health solution",
+    "domain": "repisodic.com",
+    "careers_url": "https://job-boards.greenhouse.io/repisodic",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "repisodic",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/repisodic/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "trovohealth",
+    "name": "Thesis",
+    "domain": "trovohealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/trovohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "trovohealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/trovohealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "valerahealth",
+    "name": "Valera Health",
+    "domain": "valerahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/valerahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "valerahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/valerahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "unlockhealth",
+    "name": "Unlock Health",
+    "domain": "unlockhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/unlockhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "unlockhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/unlockhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "uprisehealth",
+    "name": "Uprise Health",
+    "domain": "uprisehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/uprisehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "uprisehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/uprisehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "paveakatroveinformationtechnologies",
+    "name": "Pave",
+    "domain": "paveakatroveinformationtechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "paveakatroveinformationtechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/paveakatroveinformationtechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "stratacriticallogistics",
+    "name": "Strata Critical",
+    "domain": "stratacritical_logistics.com",
+    "careers_url": "https://job-boards.greenhouse.io/stratacritical_logistics",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "stratacritical_logistics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/stratacritical_logistics/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "swordhealth",
+    "name": "Sword",
+    "domain": "swordhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/swordhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "swordhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/swordhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "parsleyhealth",
+    "name": "Parsley Health",
+    "domain": "parsleyhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/parsleyhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "parsleyhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/parsleyhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "valohealth",
+    "name": "Valo Health",
+    "domain": "valohealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/valohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "valohealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/valohealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "voyagertechnologiesinc",
+    "name": "Voyager Technologies, Inc.",
+    "domain": "voyagertechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/voyagertechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "voyagertechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/voyagertechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "peregrinehealthcorporate",
+    "name": "Peregrine Health Corporate",
+    "domain": "peregrinehealthcorporate.com",
+    "careers_url": "https://job-boards.greenhouse.io/peregrinehealthcorporate",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "peregrinehealthcorporate",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/peregrinehealthcorporate/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "phoenixtechnologiesag",
+    "name": "Phoeniqs Technologies",
+    "domain": "phoenixtechnologiesag.com",
+    "careers_url": "https://job-boards.greenhouse.io/phoenixtechnologiesag",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "phoenixtechnologiesag",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/phoenixtechnologiesag/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "lighthousebehavioralhealthsolutions",
+    "name": "Lighthouse Behavioral Health Solutions",
+    "domain": "lighthousebehavioralhealthsolutions.com",
+    "careers_url": "https://job-boards.greenhouse.io/lighthousebehavioralhealthsolutions",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "lighthousebehavioralhealthsolutions",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/lighthousebehavioralhealthsolutions/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "teravision",
+    "name": "Teravision Technologies",
+    "domain": "teravision.com",
+    "careers_url": "https://job-boards.greenhouse.io/teravision",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "teravision",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/teravision/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "xtxmarketstechnologies",
+    "name": "XTX Markets",
+    "domain": "xtxmarketstechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/xtxmarketstechnologies",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "xtxmarketstechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "zone5technologies",
+    "name": "Zone 5 Technologies",
+    "domain": "zone5technologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/zone5technologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zone5technologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zone5technologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "zarminalihealth",
+    "name": "Zarminali Pediatrics",
+    "domain": "zarminalihealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/zarminalihealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "zarminalihealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/zarminalihealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "xphealth",
+    "name": "XP Health",
+    "domain": "xphealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/xphealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "xphealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/xphealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "wizardcommerce",
+    "name": "Wizard",
+    "domain": "wizardcommerce.com",
+    "careers_url": "https://job-boards.greenhouse.io/wizardcommerce",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "wizardcommerce",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/wizardcommerce/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "aha",
+    "name": "Animal Health Associates",
+    "domain": "aha.com",
+    "careers_url": "https://job-boards.greenhouse.io/aha",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "aha",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/aha/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "volohealth",
+    "name": "VOLO Health",
+    "domain": "volohealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/volohealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "volohealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/volohealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "vailclinicincdbavailhealthhospital",
+    "name": "Vail Health Hospital",
+    "domain": "vailclinicincdbavailhealthhospital.com",
+    "careers_url": "https://job-boards.greenhouse.io/vailclinicincdbavailhealthhospital",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "vailclinicincdbavailhealthhospital",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/vailclinicincdbavailhealthhospital/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "adaugeohealthcare",
+    "name": "Adaugeo Healthcare Solutions",
+    "domain": "adaugeohealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/adaugeohealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "adaugeohealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/adaugeohealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "southstarcareers",
+    "name": "South Star Software Private Limited",
+    "domain": "southstarcareers.com",
+    "careers_url": "https://job-boards.greenhouse.io/southstarcareers",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "southstarcareers",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/southstarcareers/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "twinhealth",
+    "name": "Twin Health",
+    "domain": "twinhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/twinhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "twinhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/twinhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "sollishealth",
+    "name": "Sollis Health",
+    "domain": "sollishealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/sollishealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "sollishealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/sollishealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "unlock",
+    "name": "Unlock Technologies, Inc.",
+    "domain": "unlock.com",
+    "careers_url": "https://job-boards.greenhouse.io/unlock",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "unlock",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/unlock/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "anteristech",
+    "name": "Anteris Technologies",
+    "domain": "anteristech.com",
+    "careers_url": "https://job-boards.greenhouse.io/anteristech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "anteristech",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/anteristech/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "athomehealth",
+    "name": "At Home Healthcare",
+    "domain": "athomehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/athomehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "athomehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/athomehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ayahealthcare",
+    "name": "Aya Healthcare",
+    "domain": "ayahealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/ayahealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ayahealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ayahealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "wasabi",
+    "name": "Wasabi Technologies",
+    "domain": "wasabi.com",
+    "careers_url": "https://job-boards.greenhouse.io/wasabi",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "wasabi",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/wasabi/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "bayhealth",
+    "name": "zDO NOT POST - ARCHIVED - BAYADA Home Health Care at Bayhealth",
+    "domain": "bayhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/bayhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bayhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bayhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "beamhealthcare",
+    "name": "Beam Healthcare",
+    "domain": "beamhealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/beamhealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "beamhealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/beamhealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "welbehealth",
+    "name": "WelbeHealth",
+    "domain": "welbehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/welbehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "welbehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/welbehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "verramobility",
+    "name": "Verra Mobility",
+    "domain": "verramobility.com",
+    "careers_url": "https://job-boards.greenhouse.io/verramobility",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "verramobility",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/verramobility/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "betatechnologiesinc",
+    "name": "BETA Technologies",
+    "domain": "betatechnologiesinc.com",
+    "careers_url": "https://job-boards.greenhouse.io/betatechnologiesinc",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "betatechnologiesinc",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/betatechnologiesinc/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "ccah",
+    "name": "Central California Alliance for Health",
+    "domain": "ccah.com",
+    "careers_url": "https://job-boards.greenhouse.io/ccah",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ccah",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ccah/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "twosixtechnologies",
+    "name": "Two Six Technologies",
+    "domain": "twosixtechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/twosixtechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "twosixtechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/twosixtechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "bethesdahealthgroup",
+    "name": "Bethesda Health Group",
+    "domain": "bethesdahealthgroup.com",
+    "careers_url": "https://job-boards.greenhouse.io/bethesdahealthgroup",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bethesdahealthgroup",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bethesdahealthgroup/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cadencehealth",
+    "name": "Cadence Health",
+    "domain": "cadencehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/cadencehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cadencehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cadencehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ccahremote",
+    "name": "Central California Alliance for Health (Remote)",
+    "domain": "ccahremote.com",
+    "careers_url": "https://job-boards.greenhouse.io/ccahremote",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ccahremote",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ccahremote/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "bicyclehealth",
+    "name": "Bicycle Health",
+    "domain": "bicyclehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/bicyclehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "bicyclehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/bicyclehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "waltzhealth",
+    "name": "Waltz Health",
+    "domain": "waltzhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/waltzhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "waltzhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/waltzhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "charliehealth",
+    "name": "Charlie Health",
+    "domain": "charliehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/charliehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "charliehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/charliehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "ascendhealthcare",
+    "name": "Ascend Healthcare",
+    "domain": "ascendhealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/ascendhealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "ascendhealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/ascendhealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "vegahealth",
+    "name": "Vega Health",
+    "domain": "vegahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/vegahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "vegahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/vegahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "collectivehealth",
+    "name": "Collective Health",
+    "domain": "collectivehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/collectivehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "collectivehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/collectivehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "closuretech",
+    "name": "Closure Technologies",
+    "domain": "closure-tech.com",
+    "careers_url": "https://job-boards.greenhouse.io/closure-tech",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "closure-tech",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/closure-tech/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "connectionshealthsolutions",
+    "name": "Connections Health Solutions",
+    "domain": "connectionshealthsolutions.com",
+    "careers_url": "https://job-boards.greenhouse.io/connectionshealthsolutions",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "connectionshealthsolutions",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/connectionshealthsolutions/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cloverhealth",
+    "name": "Clover Health",
+    "domain": "cloverhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/cloverhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cloverhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cloverhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "veranahealth",
+    "name": "Verana Health",
+    "domain": "veranahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/veranahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "veranahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/veranahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "arizonacommerceauthority",
+    "name": "Arizona Commerce Authority",
+    "domain": "arizonacommerceauthority.com",
+    "careers_url": "https://job-boards.greenhouse.io/arizonacommerceauthority",
+    "industry": "E-Commerce / Consumer Retail",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "arizonacommerceauthority",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/arizonacommerceauthority/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "ecommerce",
+      "india"
+    ]
+  },
+  {
+    "id": "vpaindianamg",
+    "name": "Virtual Preparatory Academy of Indiana @ Madison-Grant",
+    "domain": "vpaindianamg.com",
+    "careers_url": "https://job-boards.greenhouse.io/vpaindianamg",
+    "industry": "EdTech / Skilling",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "vpaindianamg",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/vpaindianamg/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "edtech",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "dermindy",
+    "name": "The Dermatology Center of Indiana",
+    "domain": "dermindy.com",
+    "careers_url": "https://job-boards.greenhouse.io/dermindy",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "Bengaluru, India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dermindy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dermindy/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "bengaluru"
+    ]
+  },
+  {
+    "id": "compasshealthcenter",
+    "name": "Compass Health Center",
+    "domain": "compasshealthcenter.com",
+    "careers_url": "https://job-boards.greenhouse.io/compasshealthcenter",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "compasshealthcenter",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/compasshealthcenter/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "daybreakhealth",
+    "name": "Daybreak Health",
+    "domain": "daybreakhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/daybreakhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "daybreakhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/daybreakhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "entreehealth",
+    "name": "Entree Health",
+    "domain": "entreehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/entreehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "entreehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/entreehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "dqt",
+    "name": "DQ Technologies",
+    "domain": "dqt.com",
+    "careers_url": "https://job-boards.greenhouse.io/dqt",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "dqt",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/dqt/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "crossroadshealth",
+    "name": "Crossroads Health",
+    "domain": "crossroadshealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/crossroadshealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "crossroadshealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/crossroadshealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "eagleslandinghealth",
+    "name": "Aylo Health",
+    "domain": "eagleslandinghealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/eagleslandinghealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "eagleslandinghealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/eagleslandinghealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "denver",
+    "name": "Animal Health Care Denver",
+    "domain": "denver.com",
+    "careers_url": "https://job-boards.greenhouse.io/denver",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "denver",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/denver/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "advancedtechnologyservices",
+    "name": "Advanced Technology Services",
+    "domain": "advancedtechnologyservices.com",
+    "careers_url": "https://job-boards.greenhouse.io/advancedtechnologyservices",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "advancedtechnologyservices",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/advancedtechnologyservices/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "drizquierdocharterschools",
+    "name": "Dr. Richard Izquierdo Health & Science Charter School",
+    "domain": "drizquierdocharterschools.com",
+    "careers_url": "https://job-boards.greenhouse.io/drizquierdocharterschools",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "drizquierdocharterschools",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/drizquierdocharterschools/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "florencehealthcare",
+    "name": "Florence Healthcare - US",
+    "domain": "florencehealthcare.com",
+    "careers_url": "https://job-boards.greenhouse.io/florencehealthcare",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "florencehealthcare",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/florencehealthcare/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "foliahealth",
+    "name": "Folia Health",
+    "domain": "foliahealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/foliahealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "foliahealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/foliahealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "comptechcomputertechnologies",
+    "name": "CompTech Computer Technologies",
+    "domain": "comptechcomputertechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/comptechcomputertechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "comptechcomputertechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/comptechcomputertechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "foresightmentalhealth",
+    "name": "Foresight Mental Health",
+    "domain": "foresightmentalhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/foresightmentalhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "foresightmentalhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/foresightmentalhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "fnlogistics",
+    "name": "Fashion Nova Logistics",
+    "domain": "fnlogistics.com",
+    "careers_url": "https://job-boards.greenhouse.io/fnlogistics",
+    "industry": "Mobility / Logistics & EV",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "fnlogistics",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/fnlogistics/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "mobility",
+      "india"
+    ]
+  },
+  {
+    "id": "elationhealth",
+    "name": "Elation Health",
+    "domain": "elationhealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/elationhealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "elationhealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/elationhealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "cranialtechnologies",
+    "name": "Cranial Technologies",
+    "domain": "cranialtechnologies.com",
+    "careers_url": "https://job-boards.greenhouse.io/cranialtechnologies",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "cranialtechnologies",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/cranialtechnologies/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "hc360",
+    "name": "HealthCheck360",
+    "domain": "hc360.com",
+    "careers_url": "https://job-boards.greenhouse.io/hc360",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "hc360",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/hc360/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "galaxy",
+    "name": "Galaxy Integrated Technologies",
+    "domain": "galaxy.com",
+    "careers_url": "https://job-boards.greenhouse.io/galaxy",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "galaxy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/galaxy/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "gradle",
+    "name": "Gradle Technologies",
+    "domain": "gradle.com",
+    "careers_url": "https://job-boards.greenhouse.io/gradle",
+    "industry": "Enterprise SaaS & Cloud Software",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "gradle",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/gradle/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "saas",
+      "india"
+    ]
+  },
+  {
+    "id": "healthjoy",
+    "name": "HealthJoy",
+    "domain": "healthjoy.com",
+    "careers_url": "https://job-boards.greenhouse.io/healthjoy",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "healthjoy",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/healthjoy/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "forgehealth",
+    "name": "Forge Health",
+    "domain": "forgehealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/forgehealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "forgehealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/forgehealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  },
+  {
+    "id": "counterparthealth",
+    "name": "Counterpart Health",
+    "domain": "counterparthealth.com",
+    "careers_url": "https://job-boards.greenhouse.io/counterparthealth",
+    "industry": "HealthTech / Life Sciences",
+    "hq_location": "India",
+    "tier": 2,
+    "ats_type": "greenhouse",
+    "ats_identifier": "counterparthealth",
+    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/counterparthealth/jobs?content=true",
+    "tags": [
+      "startup",
+      "greenhouse",
+      "healthtech",
+      "india"
+    ]
+  }
+]
