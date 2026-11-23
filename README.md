@@ -19,13 +19,13 @@
 
 **JobScrap** is a modern, standalone **Python job scraper and primary-source aggregator** built to extract job postings directly from corporate career portals and major hiring platforms with zero fragile dependencies or commercial API keys.
 
-Unlike generic aggregators that scrape third-party boards and deliver stale, expired, or redirect-trapped links, **JobScrap** features a **Direct-to-Company Pipeline**:
+Unlike generic aggregators that scrape third-party boards and deliver stale, expired, or redirect-trapped links, **JobScrap** features a **Pure Direct-to-Company Pipeline**:
 1. **Direct Company Career Ingestion**: Directly taps into the underlying recruitment engines (**Greenhouse, Lever, Ashby, SmartRecruiters, Workday CX**) powering official company career pages.
 2. **Master Directory of 3,197+ Employers**: Pre-indexed catalog of Indian Unicorns, Startups, IT Services, Conglomerates, GCCs, and Global Tech firms with SQLite FTS5 BM25 search.
 3. **100% Direct Application Links**: Every posting provides the official application URL straight on the employer's portal—zero middlemen, zero affiliate walls.
 4. **Autonomous Career Discovery**: Given any domain (e.g., `cred.club`), automatically crawls, fingerprints the hiring engine, and pulls live jobs.
-5. **Multi-Source Fallback**: Native high-speed scrapers for major tech boards (Naukri, LinkedIn, Indeed, Glassdoor, Instahyre, Internshala, Shine, Freshersworld, Apna) with `curl_cffi` TLS impersonation.
-6. **Cross-Board Jaccard Deduplication**: Clusters identical job postings across multiple boards and corporate portals using token similarity (`0.75`).
+5. **Deduplication & Normalization**: Clusters cross-department and identical postings using token similarity (`0.75`).
+6. **Zero Fragile Scraping**: Eliminates fragile HTML web scraping and CAPTCHA bypasses by calling official public ATS JSON/GraphQL APIs.
 
 ---
 
@@ -40,10 +40,11 @@ Unlike generic aggregators that scrape third-party boards and deliver stale, exp
 
 ---
 
-## 🌐 Supported Engines & Platforms
+## 🌐 Supported Career Engines
 
-### 1. Direct Company Career Engines (Primary Sources)
-| Engine | Protocol | Supported Platforms & Examples | Anti-Bot / Speed |
+JobScrap directly interfaces with standard recruitment systems powering corporate career portals:
+
+| Engine | Protocol | Supported Platforms & Examples | Latency / Reliability |
 |---|:---:|---|---|
 | **Greenhouse** | Board JSON API | Razorpay, Stripe, Coinbase, Groww, Cloudflare, Databricks, Figma | Zero blocks (<300ms) |
 | **Ashby HQ** | GraphQL API | Supabase, Linear, Ramp, CRED, Zepto, Deel, Vercel | Zero blocks (<350ms) |
@@ -51,26 +52,13 @@ Unlike generic aggregators that scrape third-party boards and deliver stale, exp
 | **SmartRecruiters** | Postings v1 API | Freshworks, Zomato, Delivery Hero, Visa, Miro | Zero blocks (<400ms) |
 | **Workday CX** | REST CX Client | TCS, Infosys, Cognizant, PayPal India, Target India | REST JSON (<600ms) |
 
-### 2. Public Hiring Portals (Aggregators)
-| Job Portal | Method | Anti-Bot Evasion |
-|---|---|---|
-| **Naukri** | Native Windows Edge via Playwright | Bypasses client-side React rendering & reCAPTCHA |
-| **LinkedIn** | Public Guest Search API | Direct HTTP, zero login required |
-| **Indeed India** | Server-Rendered Mobile Engine | Safari 17 TLS fingerprint bypass via `curl_cffi` |
-| **Glassdoor** | Server-Rendered HTML Scraper | Chrome 124 TLS fingerprint bypass |
-| **Instahyre** | Direct JSON Search API | High-speed direct JSON ingestion |
-| **Internshala** | Server-Rendered HTML Scraper | Fresher & internship focus with salary parsing |
-| **Shine.com** | Next.js SSR JSON (`__NEXT_DATA__`) | Structured JSON extraction directly from page payload |
-| **Freshersworld** | Server-Rendered HTML Scraper | Entry-level & graduate job vacancy coverage |
-| **Apna** | Server-Rendered HTML Scraper | Blue-collar & Tier 2/3 city job coverage |
-
 ---
 
 ## ⚡ Feature Matrix: JobScrap vs. Typical Job Scrapers
 
 | Feature / Capability | Standard / Generic Scrapers | JobScrap (This Engine) |
 |---|:---:|:---:|
-| **Direct Company Career Ingestion** | ❌ None; only scrapes third-party aggregators (Naukri, Indeed) with 3–7 day lag | ✅ **3,197+ direct corporate career endpoints** (Greenhouse, Lever, Ashby, SmartRecruiters, Workday) |
+| **Direct Company Career Ingestion** | ❌ None; generic aggregators scrape stale third-party boards with 3–7 day lag | ✅ **3,197+ direct corporate career endpoints** (Greenhouse, Lever, Ashby, SmartRecruiters, Workday) |
 | **Direct Apply Link Integrity** | ❌ Stale links, affiliate trackers, and expired 404/login redirects | ✅ **100% direct official application forms** on company sites |
 | **Anti-Bot & TLS Fingerprint Evasion** | ⚠️ Basic HTTP headers easily blocked by Cloudflare Turnstile, Akamai, and JA3/JA4 fingerprinting | ✅ **Full browser impersonation** via `curl_cffi` (`chrome124`, `safari17_0`) + native Edge for complex React SPAs |
 | **Cross-Portal Deduplication** | ❌ None; returns unlinked duplicate entries across multiple job boards | ✅ **Built-in Jaccard similarity (`0.75`)** with indexed candidate pre-filtering to cluster cross-board postings |
@@ -105,8 +93,8 @@ print(f"Found {len(jobs)} live jobs directly from Razorpay!")
 for j in jobs[:5]:
     print(f"• {j.title} ({j.location}) -> {j.url}")
 
-# 2. Search across 1,565+ company career portals in parallel
-matches = scraper.search_companies(
+# 2. Search across 3,197+ company career portals in parallel
+matches = await scraper.search_companies_async(
     query="Backend Engineer",
     locations=["Bengaluru", "Remote"],
     limit=25
@@ -136,15 +124,15 @@ jobscrap resolve "cred.club"
 ### 4. Run REST API Server
 ```bash
 # Start FastAPI backend on port 8000
-python scraper.py serve --port 8000
+uvicorn api:app --port 8000
 
 # Available Endpoints:
-# GET  /search?query=developer&sources=razorpay
-# GET  /jobs?query=python&location=bangalore
-# GET  /stats
-# POST /scrape?source=all
-# POST /validate?stale_hours=6
-# GET  /export?format=json|csv
+# GET /health
+# GET /stats
+# GET /companies?query=fintech
+# GET /companies/razorpay/jobs
+# GET /search?query=backend&location=bengaluru
+# GET /export?format=json|csv
 ```
 
 ### 5. Run Verification Test Suite

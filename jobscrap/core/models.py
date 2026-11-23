@@ -43,8 +43,8 @@ class CompanyProfile:
 @dataclass
 class JobListing:
     id: str                                # Deterministic ID or unique hash
-    source: str                            # e.g. 'greenhouse', 'lever', 'ashby', 'naukri'
-    source_type: str                       # 'ats' (direct primary) | 'portal' (aggregator)
+    source: str                            # e.g. 'greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workday'
+    source_type: str                       # 'ats' (direct primary career engine)
     company: str                           # Company display name
     title: str                             # Normalized job title
     location: str                          # Job location (e.g., 'Bengaluru, India', 'Remote')

@@ -1,4 +1,9 @@
-# JobScrap — Job Aggregator Scraping Architecture
+# JobScrap — Direct Company Career & Job Aggregator Architecture
+
+> **Architecture Transition Note (v0.5+)**:
+> JobScrap has completely decommissioned third-party public aggregators (Naukri, Indeed, LinkedIn, Glassdoor, Instahyre, etc.) in favor of a **100% Pure Direct-to-Company Career Ingestion Engine**. All job extraction now queries the native recruitment APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workday CX) of 3,197+ verified employers directly. The notes below reflect earlier design ideation.
+
+---
 
 ## 1. Goals
 

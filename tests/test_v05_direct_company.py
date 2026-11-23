@@ -66,9 +66,9 @@ class TestJobScrapV05(unittest.TestCase):
     def test_deduplication(self):
         """Verify cross-portal Jaccard clustering."""
         j1 = JobListing(
-            id="1", source="naukri", source_type="portal",
+            id="1", source="custom", source_type="custom",
             company="Razorpay", title="Senior Backend Engineer",
-            location="Bengaluru", url="https://naukri.com/1"
+            location="Bengaluru", url="https://razorpay.com/careers/1"
         )
         j2 = JobListing(
             id="2", source="greenhouse", source_type="ats",

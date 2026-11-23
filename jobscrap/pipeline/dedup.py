@@ -32,15 +32,15 @@ def deduplicate_jobs(jobs: List[JobListing], threshold: float = 0.75) -> List[Jo
         job.dedup_group_id = matched_group or str(uuid.uuid4())
         pool.append((job, tokens))
 
-    # Keep unique by dedup_group_id, preferring primary ATS sources over aggregator portals
+    # Keep unique by dedup_group_id, preferring primary direct ATS sources over custom/third-party portals
     grouped: Dict[str, JobListing] = {}
     for job in jobs:
         gid = job.dedup_group_id or job.id
         if gid not in grouped:
             grouped[gid] = job
         else:
-            # If current stored is portal, and incoming is primary ATS, prioritize ATS
-            if grouped[gid].source_type == "portal" and job.source_type == "ats":
+            # If existing is not primary ATS and incoming is primary ATS, prioritize ATS
+            if grouped[gid].source_type != "ats" and job.source_type == "ats":
                 grouped[gid] = job
 
     return list(grouped.values())
