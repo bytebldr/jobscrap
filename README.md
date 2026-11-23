@@ -1,7 +1,7 @@
 # JobScrap — Autonomous Direct Company Career & Job Aggregator
 
 <p align="center">
-  <strong>The high-performance, open-source Python Job Scraper & Direct Career Aggregator for India & Global tech hiring.</strong><br>
+  <strong>The high-performance, open-source Python Job Scraper & Direct Career Aggregator for corporate & high-growth tech hiring.</strong><br>
   <em>Pure Direct-to-Company Ingestion, 3,197+ Verified Company Career Portals, Zero Middlemen, and Direct Apply Guarantee.</em>
 </p>
 
@@ -52,7 +52,7 @@ Instead of scraping third-party aggregators that deliver stale, expired, or redi
 ### Core Invariants
 
 1. **Pure Direct-to-Company Ingestion**: Extracts live jobs directly from official corporate recruitment systems (**Greenhouse, Lever, Ashby, SmartRecruiters, Workday CX**) with sub-second response times.
-2. **Master Directory of 3,197+ Employers**: Pre-indexed catalog of Indian Unicorns, Startups, IT Services, Conglomerates, GCCs, and Global Tech firms with full-text search.
+2. **Master Directory of 3,197+ Employers**: Pre-indexed catalog of Unicorns, Tech Startups, IT Services, Enterprise Conglomerates, Global Capability Centers, and Tech leaders with full-text search.
 3. **100% Direct Application Links**: Every posting leads straight to the official corporate application form—zero affiliate redirects, zero registration walls.
 4. **Zero Ghost Jobs**: Direct ATS queries return only positions actively open *today* on company job boards.
 5. **Autonomous Career Resolver**: Given any domain (e.g. `cred.club`), automatically crawls, fingerprints the company's hiring engine, and pulls live jobs.
@@ -64,7 +64,7 @@ Instead of scraping third-party aggregators that deliver stale, expired, or redi
 
 - 🏢 **Pure Direct ATS Pipeline**: Interrogates native ATS JSON/GraphQL APIs directly with zero fragile HTML scraping or browser overhead.
 - ⚡ **3,197+ Pre-Indexed Companies**: Pre-compiled directory with SQLite FTS5 BM25 search index at `jobscrap/catalog/companies.db`.
-- 🇮🇳 **Deep India Coverage**: 1,200+ Indian corporate profiles across Startups (Razorpay, Swiggy, Zepto, CRED, Groww), IT Services (TCS, Infosys, Cognizant), BFSI & Conglomerates (HDFC Bank, ICICI Bank, Tata Motors, Reliance Jio), and Healthcare/Pharma (Dr. Reddy's).
+- 🏢 **Broad Corporate & Enterprise Coverage**: 3,197+ verified corporate profiles across Startups & High-Growth Unicorns (Razorpay, Swiggy, Zepto, CRED, Groww), IT Services & Consultancies (TCS, Infosys, Cognizant), Banking & Enterprise Conglomerates (HDFC Bank, ICICI Bank, Tata Motors, Reliance Jio), and Healthcare & Pharma (Dr. Reddy's).
 - 🔗 **Direct Apply Guarantee**: 100% verified application URLs straight on official employer portals.
 - 🔍 **Autonomous Career Resolver**: Automatically fingerprints uncataloged company domains to detect their underlying career engine.
 - 📦 **Modern Python Library & CLI**: Installable via `pip install -e .` with clean programmatic APIs and rich terminal commands.
@@ -79,7 +79,7 @@ Instead of scraping third-party aggregators that deliver stale, expired, or redi
 | **Ashby HQ** | GraphQL API | Supabase, Linear, Ramp, CRED, Zepto, Deel, Vercel, Sarvam AI | Zero blocks (<350ms) |
 | **Lever** | Postings v0 API | Spotify, Atlassian, Netflix, Swiggy, Nykaa, Paytm | Zero blocks (<250ms) |
 | **SmartRecruiters** | Postings v1 API | Freshworks, Zomato, Delivery Hero, Visa, Miro, Upstox | Zero blocks (<400ms) |
-| **Workday CX** | REST CX Client | TCS, Infosys, Cognizant, PayPal India, Target India | REST JSON (<600ms) |
+| **Workday CX** | REST CX Client | TCS, Infosys, Cognizant, PayPal, Target | REST JSON (<600ms) |
 
 ---
 
