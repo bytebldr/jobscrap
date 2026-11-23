@@ -1,12 +1,14 @@
+"""SQLite persistence store for JobListing records and search caching."""
+
 import contextlib
 import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+from jobscrap.core.models import JobListing
 
 DB_PATH = Path(__file__).parent / "jobs.db"
 
-# ponytail: stdlib sqlite3 with WAL mode, auto-migration for salary fields, safe parameterized queries
 @contextlib.contextmanager
 def get_db(db_path: Path = DB_PATH):
     conn = sqlite3.connect(db_path)
@@ -25,142 +27,67 @@ def init_db(db_path: Path = DB_PATH):
         CREATE TABLE IF NOT EXISTS jobs (
             id TEXT PRIMARY KEY,
             source TEXT NOT NULL,
-            source_job_id TEXT UNIQUE,
-            title TEXT NOT NULL,
+            source_type TEXT NOT NULL DEFAULT 'ats',
             company TEXT NOT NULL,
+            title TEXT NOT NULL,
             location TEXT,
-            job_type TEXT,
-            experience_level TEXT,
             url TEXT NOT NULL,
             description TEXT,
+            is_remote INTEGER DEFAULT 0,
+            job_type TEXT DEFAULT 'fulltime',
+            experience_level TEXT DEFAULT 'mid',
+            department TEXT,
             posted_date TEXT,
             scraped_at TEXT NOT NULL,
-            last_checked_at TEXT,
-            status TEXT DEFAULT 'unchecked',
-            consecutive_fails INTEGER DEFAULT 0,
+            status TEXT DEFAULT 'live',
             dedup_group_id TEXT,
             min_salary_inr INTEGER,
             max_salary_inr INTEGER
         );
         """)
-        # Auto-migration for existing databases
-        existing_cols = {row["name"] for row in conn.execute("PRAGMA table_info(jobs)").fetchall()}
-        if "min_salary_inr" not in existing_cols:
-            conn.execute("ALTER TABLE jobs ADD COLUMN min_salary_inr INTEGER;")
-        if "max_salary_inr" not in existing_cols:
-            conn.execute("ALTER TABLE jobs ADD COLUMN max_salary_inr INTEGER;")
-
-        conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_status ON jobs(status);")
-        conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_dedup ON jobs(dedup_group_id);")
         conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_company ON jobs(company);")
-        conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_salary ON jobs(min_salary_inr);")
+        conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_title ON jobs(title);")
+        conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_status ON jobs(status);")
 
-def upsert_job(job: Dict[str, Any], db_path: Path = DB_PATH):
+def upsert_job(job: JobListing, db_path: Path = DB_PATH):
     with get_db(db_path) as conn:
         conn.execute("""
         INSERT INTO jobs (
-            id, source, source_job_id, title, company, location,
-            job_type, experience_level, url, description, posted_date,
-            scraped_at, last_checked_at, status, consecutive_fails, dedup_group_id,
-            min_salary_inr, max_salary_inr
+            id, source, source_type, company, title, location, url,
+            description, is_remote, job_type, experience_level, department,
+            posted_date, scraped_at, status, dedup_group_id, min_salary_inr, max_salary_inr
         ) VALUES (
-            :id, :source, :source_job_id, :title, :company, :location,
-            :job_type, :experience_level, :url, :description, :posted_date,
-            :scraped_at, :last_checked_at, :status, :consecutive_fails, :dedup_group_id,
-            :min_salary_inr, :max_salary_inr
-        )
-        ON CONFLICT(source_job_id) DO UPDATE SET
+            :id, :source, :source_type, :company, :title, :location, :url,
+            :description, :is_remote, :job_type, :experience_level, :department,
+            :posted_date, :scraped_at, :status, :dedup_group_id, :min_salary_inr, :max_salary_inr
+        ) ON CONFLICT(id) DO UPDATE SET
             title=excluded.title,
-            company=excluded.company,
             location=excluded.location,
             url=excluded.url,
-            description=excluded.description,
-            min_salary_inr=COALESCE(excluded.min_salary_inr, jobs.min_salary_inr),
-            max_salary_inr=COALESCE(excluded.max_salary_inr, jobs.max_salary_inr),
-            dedup_group_id=COALESCE(jobs.dedup_group_id, excluded.dedup_group_id);
-        """, job)
+            status=excluded.status,
+            scraped_at=excluded.scraped_at;
+        """, {
+            "id": job.id,
+            "source": job.source,
+            "source_type": job.source_type,
+            "company": job.company,
+            "title": job.title,
+            "location": job.location,
+            "url": job.url,
+            "description": job.description,
+            "is_remote": 1 if job.is_remote else 0,
+            "job_type": job.job_type,
+            "experience_level": job.experience_level,
+            "department": job.department,
+            "posted_date": job.posted_date,
+            "scraped_at": job.scraped_at,
+            "status": job.status,
+            "dedup_group_id": job.dedup_group_id,
+            "min_salary_inr": job.min_salary_inr,
+            "max_salary_inr": job.max_salary_inr,
+        })
 
-def get_all_jobs(limit: Optional[int] = None, db_path: Path = DB_PATH) -> List[Dict[str, Any]]:
-    query = "SELECT * FROM jobs ORDER BY scraped_at DESC"
-    params = ()
-    if limit is not None:
-        query += " LIMIT ?"
-        params = (limit,)
+def get_jobs_by_company(company: str, db_path: Path = DB_PATH) -> List[Dict[str, Any]]:
     with get_db(db_path) as conn:
-        cur = conn.execute(query, params)
-        return [dict(row) for row in cur.fetchall()]
-
-def search_jobs(
-    query: Optional[str] = None,
-    location: Optional[str] = None,
-    source: Optional[str] = None,
-    min_salary: Optional[int] = None,
-    status: Optional[str] = None,
-    limit: int = 50,
-    offset: int = 0,
-    db_path: Path = DB_PATH
-) -> List[Dict[str, Any]]:
-    conditions = []
-    params = []
-    if query:
-        conditions.append("(title LIKE ? OR description LIKE ?)")
-        params.extend([f"%{query}%", f"%{query}%"])
-    if location:
-        conditions.append("location LIKE ?")
-        params.append(f"%{location}%")
-    if source:
-        conditions.append("source = ?")
-        params.append(source)
-    if min_salary is not None:
-        conditions.append("min_salary_inr >= ?")
-        params.append(min_salary)
-    if status:
-        conditions.append("status = ?")
-        params.append(status)
-
-    where_clause = f"WHERE {' AND '.join(conditions)}" if conditions else ""
-    sql = f"SELECT * FROM jobs {where_clause} ORDER BY scraped_at DESC LIMIT ? OFFSET ?"
-    params.extend([limit, offset])
-
-    with get_db(db_path) as conn:
-        cur = conn.execute(sql, params)
-        return [dict(row) for row in cur.fetchall()]
-
-def get_candidates_for_dedup(companies: List[str], recent_limit: int = 500, db_path: Path = DB_PATH) -> List[Dict[str, Any]]:
-    # ponytail: prune pairwise scan by loading jobs matching target companies + most recent pool
-    with get_db(db_path) as conn:
-        if companies:
-            placeholders = ",".join("?" for _ in companies)
-            sql = f"""
-            SELECT * FROM jobs 
-            WHERE company IN ({placeholders})
-            UNION
-            SELECT * FROM (SELECT * FROM jobs ORDER BY scraped_at DESC LIMIT ?)
-            """
-            cur = conn.execute(sql, (*companies, recent_limit))
-        else:
-            cur = conn.execute("SELECT * FROM jobs ORDER BY scraped_at DESC LIMIT ?", (recent_limit,))
-        return [dict(row) for row in cur.fetchall()]
-
-def get_stale_jobs(stale_hours: int = 6, limit: int = 100, db_path: Path = DB_PATH) -> List[Dict[str, Any]]:
-    with get_db(db_path) as conn:
-        cur = conn.execute("""
-        SELECT * FROM jobs 
-        WHERE status != 'dead' 
-          AND (last_checked_at IS NULL OR datetime(last_checked_at) <= datetime('now', '-' || ? || ' hours'))
-        LIMIT ?
-        """, (stale_hours, limit))
-        return [dict(row) for row in cur.fetchall()]
-
-def update_job_status(job_id: str, status: str, consecutive_fails: int, db_path: Path = DB_PATH):
-    now = datetime.now(timezone.utc).isoformat()
-    with get_db(db_path) as conn:
-        conn.execute("""
-        UPDATE jobs 
-        SET status = ?, consecutive_fails = ?, last_checked_at = ?
-        WHERE id = ?
-        """, (status, consecutive_fails, now, job_id))
-
-def purge_job(job_id: str, db_path: Path = DB_PATH):
-    with get_db(db_path) as conn:
-        conn.execute("DELETE FROM jobs WHERE id = ?", (job_id,))
+        rows = conn.execute("SELECT * FROM jobs WHERE company LIKE ? ORDER BY scraped_at DESC", (f"%{company}%",)).fetchall()
+        return [dict(r) for r in rows]

@@ -27,6 +27,8 @@ def main():
     # Command: catalog
     cmd_catalog = subparsers.add_parser("catalog", help="List pre-indexed companies in the catalog")
     cmd_catalog.add_argument("--query", "-q", help="Filter companies by name or tag")
+    cmd_catalog.add_argument("--stats", "-s", action="store_true", help="Display ATS engine statistics and breakdown")
+    cmd_catalog.add_argument("--limit", "-n", type=int, default=50, help="Maximum companies to display")
 
     # Command: resolve
     cmd_resolve = subparsers.add_parser("resolve", help="Auto-fingerprint and resolve an unlisted company career portal")
@@ -74,10 +76,24 @@ def main():
 
     elif args.command == "catalog":
         catalog = CompanyCatalog()
-        companies = catalog.search(query=args.query) if args.query else catalog.all()
-        print(f"\n📚 Pre-Indexed Companies ({len(companies)} total):\n" + "=" * 60)
-        for c in companies:
-            print(f"• {c.name:20s} | {c.industry:30s} | ATS: {c.ats_type:15s}")
+        if getattr(args, "stats", False):
+            companies = catalog.all()
+            by_ats = {}
+            for c in companies:
+                by_ats[c.ats_type] = by_ats.get(c.ats_type, 0) + 1
+            print(f"\n📊 Company Directory Statistics ({len(companies)} total employers):")
+            print("=" * 60)
+            for ats, count in sorted(by_ats.items(), key=lambda x: -x[1]):
+                pct = (count / len(companies)) * 100
+                print(f"• {ats.capitalize():18s}: {count:5d} ({pct:5.1f}%)")
+        else:
+            companies = catalog.search(query=args.query) if args.query else catalog.all()
+            limit = getattr(args, "limit", 50)
+            print(f"\n📚 Pre-Indexed Companies ({len(companies)} matching):\n" + "=" * 65)
+            for c in companies[:limit]:
+                print(f"• {c.name:22s} | {c.industry:30s} | ATS: {c.ats_type:15s}")
+            if len(companies) > limit:
+                print(f"... and {len(companies) - limit} more companies (use --limit to see more).")
 
     elif args.command == "resolve":
         resolver = CompanyResolver()
